@@ -1,0 +1,13 @@
+name: ds-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.10
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - openpyxl
+  - notebook
