@@ -1,0 +1,29 @@
+[2025-01-31T12:09:17.523+0700] {processor.py:186} INFO - Started process (PID=11805) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:09:17.524+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-31T12:09:17.526+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.525+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:09:17.536+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:09:17.806+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.805+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_xcom
+[2025-01-31T12:09:17.833+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.832+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_xcom
+[2025-01-31T12:09:17.861+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.860+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_xcom
+[2025-01-31T12:09:17.908+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.907+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_xcom
+[2025-01-31T12:09:17.928+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.928+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_xcom
+[2025-01-31T12:09:17.950+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.950+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_xcom
+[2025-01-31T12:09:17.973+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.973+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_xcom
+[2025-01-31T12:09:17.974+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.973+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:09:17.986+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.985+0700] {dag.py:3262} INFO - Creating ORM DAG for example_xcom
+[2025-01-31T12:09:17.994+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:17.994+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-31T12:09:18.052+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.534 seconds
+[2025-01-31T12:10:36.233+0700] {processor.py:186} INFO - Started process (PID=11880) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:10:36.235+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-31T12:10:36.238+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:36.237+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:10:36.358+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:10:36.394+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:36.394+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:10:36.421+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:36.420+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-31T12:10:36.519+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.290 seconds
+[2025-01-31T12:19:20.423+0700] {processor.py:186} INFO - Started process (PID=13368) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:19:20.424+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2025-01-31T12:19:20.426+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:20.426+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:19:20.439+0700] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2025-01-31T12:19:20.479+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:20.479+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:19:20.512+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:20.512+0700] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2025-01-31T12:19:20.571+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.154 seconds

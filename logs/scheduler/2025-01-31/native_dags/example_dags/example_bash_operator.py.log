@@ -1,0 +1,15 @@
+[2025-01-31T12:10:04.631+0700] {processor.py:186} INFO - Started process (PID=11855) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-01-31T12:10:04.633+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-01-31T12:10:04.635+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:04.634+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-01-31T12:10:04.646+0700] {processor.py:925} INFO - DAG(s) 'example_bash_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-01-31T12:10:04.925+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:04.924+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2025-01-31T12:10:04.984+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:04.983+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2025-01-31T12:10:05.022+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:05.022+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2025-01-31T12:10:05.074+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:05.073+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_bash_operator
+[2025-01-31T12:10:05.103+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:05.103+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_bash_operator
+[2025-01-31T12:10:05.141+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:05.141+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_bash_operator
+[2025-01-31T12:10:05.173+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:05.172+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_bash_operator
+[2025-01-31T12:10:05.174+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:05.173+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:10:05.186+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:05.186+0700] {dag.py:3262} INFO - Creating ORM DAG for example_bash_operator
+[2025-01-31T12:10:05.198+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:05.197+0700] {dag.py:4180} INFO - Setting next_dagrun for example_bash_operator to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:10:05.279+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.653 seconds

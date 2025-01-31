@@ -1,0 +1,15 @@
+[2025-01-31T12:10:07.507+0700] {processor.py:186} INFO - Started process (PID=11857) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-01-31T12:10:07.508+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-01-31T12:10:07.510+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.510+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-01-31T12:10:07.519+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-01-31T12:10:07.731+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.731+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_complex
+[2025-01-31T12:10:07.753+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.753+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_complex
+[2025-01-31T12:10:07.772+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.771+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_complex
+[2025-01-31T12:10:07.806+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.805+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_complex
+[2025-01-31T12:10:07.825+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.825+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_complex
+[2025-01-31T12:10:07.844+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.844+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_complex
+[2025-01-31T12:10:07.862+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.862+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_complex
+[2025-01-31T12:10:07.863+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.862+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:10:07.873+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.872+0700] {dag.py:3262} INFO - Creating ORM DAG for example_complex
+[2025-01-31T12:10:07.873+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:07.873+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-01-31T12:10:07.906+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.403 seconds

@@ -1,0 +1,29 @@
+[2025-01-31T12:09:40.064+0700] {processor.py:186} INFO - Started process (PID=11839) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:09:40.065+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-01-31T12:09:40.067+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.067+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:09:40.075+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:09:40.371+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.370+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:tutorial
+[2025-01-31T12:09:40.398+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.398+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:tutorial
+[2025-01-31T12:09:40.421+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.421+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:tutorial
+[2025-01-31T12:09:40.460+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.460+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2025-01-31T12:09:40.486+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.485+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2025-01-31T12:09:40.511+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.511+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:tutorial
+[2025-01-31T12:09:40.536+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.535+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:tutorial
+[2025-01-31T12:09:40.536+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.536+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:09:40.552+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.551+0700] {dag.py:3262} INFO - Creating ORM DAG for tutorial
+[2025-01-31T12:09:40.559+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:40.558+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:09:40.605+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.546 seconds
+[2025-01-31T12:10:54.728+0700] {processor.py:186} INFO - Started process (PID=11898) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:10:54.729+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-01-31T12:10:54.731+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:54.731+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:10:54.739+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:10:54.775+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:54.775+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:10:54.803+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:54.803+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:10:54.854+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.130 seconds
+[2025-01-31T12:19:41.537+0700] {processor.py:186} INFO - Started process (PID=13385) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:19:41.538+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-01-31T12:19:41.540+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:41.540+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:19:41.546+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-01-31T12:19:41.578+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:41.578+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:19:41.599+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:41.599+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:19:41.744+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.211 seconds

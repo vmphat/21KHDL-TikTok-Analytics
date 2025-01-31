@@ -1,0 +1,22 @@
+[2025-01-31T12:09:54.034+0700] {processor.py:186} INFO - Started process (PID=11849) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-31T12:09:54.035+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-31T12:09:54.039+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.038+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-31T12:09:54.051+0700] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-31T12:09:54.293+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.292+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2025-01-31T12:09:54.327+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.326+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2025-01-31T12:09:54.361+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.360+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2025-01-31T12:09:54.404+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.403+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_branch_labels
+[2025-01-31T12:09:54.425+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.424+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_branch_labels
+[2025-01-31T12:09:54.447+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.447+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_branch_labels
+[2025-01-31T12:09:54.468+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.468+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_branch_labels
+[2025-01-31T12:09:54.469+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.469+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:09:54.482+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.482+0700] {dag.py:3262} INFO - Creating ORM DAG for example_branch_labels
+[2025-01-31T12:09:54.490+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:54.490+0700] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:09:54.524+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.496 seconds
+[2025-01-31T12:19:52.651+0700] {processor.py:186} INFO - Started process (PID=13396) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-31T12:19:52.652+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2025-01-31T12:19:52.654+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:52.654+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-31T12:19:52.663+0700] {processor.py:925} INFO - DAG(s) 'example_branch_labels' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2025-01-31T12:19:52.695+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:52.694+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:19:52.828+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:52.828+0700] {dag.py:4180} INFO - Setting next_dagrun for example_branch_labels to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:19:52.884+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.237 seconds

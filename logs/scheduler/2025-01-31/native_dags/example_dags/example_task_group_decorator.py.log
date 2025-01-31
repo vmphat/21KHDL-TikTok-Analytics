@@ -1,0 +1,29 @@
+[2025-01-31T12:09:07.161+0700] {processor.py:186} INFO - Started process (PID=11799) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:09:07.162+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-01-31T12:09:07.164+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.164+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:09:07.179+0700] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:09:07.406+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.405+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_task_group_decorator
+[2025-01-31T12:09:07.429+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.429+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_task_group_decorator
+[2025-01-31T12:09:07.451+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.450+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_task_group_decorator
+[2025-01-31T12:09:07.483+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.483+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_task_group_decorator
+[2025-01-31T12:09:07.505+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.504+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_task_group_decorator
+[2025-01-31T12:09:07.529+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.529+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_task_group_decorator
+[2025-01-31T12:09:07.582+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.581+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_task_group_decorator
+[2025-01-31T12:09:07.583+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.582+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:09:07.607+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.607+0700] {dag.py:3262} INFO - Creating ORM DAG for example_task_group_decorator
+[2025-01-31T12:09:07.608+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:07.608+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-01-31T12:09:07.708+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.551 seconds
+[2025-01-31T12:10:27.978+0700] {processor.py:186} INFO - Started process (PID=11874) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:10:27.979+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-01-31T12:10:27.982+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:27.982+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:10:27.995+0700] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:10:28.020+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:28.020+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:10:28.039+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:28.039+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-01-31T12:10:28.096+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.123 seconds
+[2025-01-31T12:19:14.055+0700] {processor.py:186} INFO - Started process (PID=13361) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:19:14.056+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-01-31T12:19:14.057+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:14.057+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:19:14.070+0700] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-01-31T12:19:14.107+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:14.107+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:19:14.122+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:14.122+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2025-01-31T12:19:14.178+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.127 seconds

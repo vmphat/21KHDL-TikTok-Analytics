@@ -1,0 +1,22 @@
+[2025-01-31T12:09:56.894+0700] {processor.py:186} INFO - Started process (PID=11851) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2025-01-31T12:09:56.895+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2025-01-31T12:09:56.897+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:56.896+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2025-01-31T12:09:56.904+0700] {processor.py:925} INFO - DAG(s) 'example_weekday_branch_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2025-01-31T12:09:57.161+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.160+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_weekday_branch_operator
+[2025-01-31T12:09:57.180+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.180+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_weekday_branch_operator
+[2025-01-31T12:09:57.198+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.197+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_weekday_branch_operator
+[2025-01-31T12:09:57.226+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.225+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_weekday_branch_operator
+[2025-01-31T12:09:57.244+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.244+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_weekday_branch_operator
+[2025-01-31T12:09:57.263+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.263+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_weekday_branch_operator
+[2025-01-31T12:09:57.282+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.282+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_weekday_branch_operator
+[2025-01-31T12:09:57.283+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.282+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:09:57.293+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.293+0700] {dag.py:3262} INFO - Creating ORM DAG for example_weekday_branch_operator
+[2025-01-31T12:09:57.302+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:57.302+0700] {dag.py:4180} INFO - Setting next_dagrun for example_weekday_branch_operator to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:09:57.366+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.477 seconds
+[2025-01-31T12:19:55.003+0700] {processor.py:186} INFO - Started process (PID=13398) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2025-01-31T12:19:55.004+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2025-01-31T12:19:55.005+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:55.005+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2025-01-31T12:19:55.013+0700] {processor.py:925} INFO - DAG(s) 'example_weekday_branch_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2025-01-31T12:19:55.038+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:55.037+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:19:55.159+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:55.159+0700] {dag.py:4180} INFO - Setting next_dagrun for example_weekday_branch_operator to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:19:55.220+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.221 seconds

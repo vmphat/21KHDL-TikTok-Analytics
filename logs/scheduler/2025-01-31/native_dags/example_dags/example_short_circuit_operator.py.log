@@ -1,0 +1,29 @@
+[2025-01-31T12:09:20.128+0700] {processor.py:186} INFO - Started process (PID=11807) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:09:20.129+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-31T12:09:20.132+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.132+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:09:20.145+0700] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:09:20.380+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.379+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_short_circuit_operator
+[2025-01-31T12:09:20.407+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.407+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_short_circuit_operator
+[2025-01-31T12:09:20.429+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.428+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_short_circuit_operator
+[2025-01-31T12:09:20.460+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.460+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_short_circuit_operator
+[2025-01-31T12:09:20.480+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.479+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_short_circuit_operator
+[2025-01-31T12:09:20.498+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.498+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_short_circuit_operator
+[2025-01-31T12:09:20.517+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.517+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_short_circuit_operator
+[2025-01-31T12:09:20.518+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.517+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:09:20.529+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.529+0700] {dag.py:3262} INFO - Creating ORM DAG for example_short_circuit_operator
+[2025-01-31T12:09:20.530+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:20.530+0700] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-31T12:09:20.565+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.443 seconds
+[2025-01-31T12:10:38.626+0700] {processor.py:186} INFO - Started process (PID=11882) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:10:38.627+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-31T12:10:38.629+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:38.629+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:10:38.736+0700] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:10:38.770+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:38.770+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:10:38.786+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:38.786+0700] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-31T12:10:38.868+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.247 seconds
+[2025-01-31T12:19:22.955+0700] {processor.py:186} INFO - Started process (PID=13370) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:19:22.955+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-01-31T12:19:22.960+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:22.959+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:19:22.965+0700] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-01-31T12:19:23.003+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:23.003+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:19:23.020+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:23.020+0700] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-01-31T12:19:23.096+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.145 seconds

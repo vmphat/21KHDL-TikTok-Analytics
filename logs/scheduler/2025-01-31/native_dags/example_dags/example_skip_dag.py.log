@@ -1,0 +1,29 @@
+[2025-01-31T12:09:10.626+0700] {processor.py:186} INFO - Started process (PID=11801) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:09:10.627+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-01-31T12:09:10.629+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:10.629+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:09:10.638+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:09:10.949+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:10.948+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2025-01-31T12:09:10.980+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:10.980+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2025-01-31T12:09:11.003+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:11.002+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2025-01-31T12:09:11.036+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:11.035+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_skip_dag
+[2025-01-31T12:09:11.057+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:11.057+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_skip_dag
+[2025-01-31T12:09:11.079+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:11.079+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_skip_dag
+[2025-01-31T12:09:11.101+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:11.100+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_skip_dag
+[2025-01-31T12:09:11.101+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:11.101+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:09:11.112+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:11.112+0700] {dag.py:3262} INFO - Creating ORM DAG for example_skip_dag
+[2025-01-31T12:09:11.122+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:11.122+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:09:11.160+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.539 seconds
+[2025-01-31T12:10:30.630+0700] {processor.py:186} INFO - Started process (PID=11876) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:10:30.631+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-01-31T12:10:30.634+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:30.634+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:10:30.642+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:10:30.684+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:30.684+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:10:30.722+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:30.722+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:10:30.821+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2025-01-31T12:19:16.283+0700] {processor.py:186} INFO - Started process (PID=13363) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:19:16.284+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-01-31T12:19:16.286+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:16.285+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:19:16.294+0700] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-01-31T12:19:16.316+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:16.316+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:19:16.336+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:16.336+0700] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2025-01-30 00:00:00+00:00, run_after=2025-01-31 00:00:00+00:00
+[2025-01-31T12:19:16.371+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.092 seconds

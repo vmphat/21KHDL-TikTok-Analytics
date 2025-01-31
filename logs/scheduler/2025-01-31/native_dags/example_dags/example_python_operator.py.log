@@ -1,0 +1,32 @@
+[2025-01-31T12:09:31.522+0700] {processor.py:186} INFO - Started process (PID=11829) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:09:31.523+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-01-31T12:09:31.525+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.525+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:09:31.611+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.611+0700] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-01-31T12:09:31.615+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:09:31.853+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.852+0700] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2025-01-31T12:09:31.879+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.879+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2025-01-31T12:09:31.898+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.898+0700] {override.py:1912} INFO - Created Permission View: can read on DAG:example_python_operator
+[2025-01-31T12:09:31.930+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.930+0700] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_python_operator
+[2025-01-31T12:09:31.950+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.950+0700] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_python_operator
+[2025-01-31T12:09:31.971+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.971+0700] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_python_operator
+[2025-01-31T12:09:31.991+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.990+0700] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_python_operator
+[2025-01-31T12:09:31.991+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:31.991+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:09:32.003+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:32.002+0700] {dag.py:3262} INFO - Creating ORM DAG for example_python_operator
+[2025-01-31T12:09:32.003+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:09:32.003+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-01-31T12:09:32.042+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.524 seconds
+[2025-01-31T12:10:48.016+0700] {processor.py:186} INFO - Started process (PID=11892) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:10:48.017+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-01-31T12:10:48.019+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:48.018+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:10:48.051+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:48.051+0700] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-01-31T12:10:48.053+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:10:48.070+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:48.069+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:10:48.080+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:10:48.080+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-01-31T12:10:48.117+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.105 seconds
+[2025-01-31T12:19:33.284+0700] {processor.py:186} INFO - Started process (PID=13379) to work on /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:19:33.285+0700] {processor.py:914} INFO - Processing file /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-01-31T12:19:33.287+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:33.286+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:19:33.318+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:33.318+0700] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-01-31T12:19:33.320+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-01-31T12:19:33.337+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:33.337+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:19:33.349+0700] {logging_mixin.py:190} INFO - [2025-01-31T12:19:33.349+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-01-31T12:19:33.390+0700] {processor.py:208} INFO - Processing /home/vmphat/miniconda3/envs/ds-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.110 seconds
