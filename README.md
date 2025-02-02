@@ -1,6 +1,6 @@
 # 21KHDL-TikTok-Analytics
 
-## TODO: Trước buổi họp tiếp theo (<15>h, <T3 ngày 04/02>)
+## TODO: Trước buổi họp tiếp theo (15h, T3 ngày 04/02)
 
 - Setup môi trường
 - Thu thập dữ liệu
@@ -29,7 +29,7 @@
 ## Vai trò của các thành viên trong nhóm
 
 - Thu thập dữ liệu: Hãn, Hiếu, Tín
-- Xử lý dữ liệu: Phát, Hãn, Tín
+- Xử lý dữ liệu: Phát, Hãn, Tín, Lực, Mỹ
 - Trực quan hóa dữ liệu và rút trích insights (kết hợp LLMs để hỗ trợ): Phát, Tín, Lực, Mỹ
 - (Optional) Giải quyết 1 bài toán học máy: Phát, Hãn, Hiếu, Tín
 
