@@ -9,7 +9,7 @@
   - 1 người làm 2 ngành => 12 ngành (6 người, 1 người - 2 ngành)
   - 1 ngành lấy 5 hashtag hay nhất => 60 hashtag (mỗi người 10 hashtag)
   - 1 hashtag lấy 50 video => 3000 video (mỗi người 500 hàng)
-- Danh sách các ngành:
+- Danh sách các ngành (max 18):
   1. Trang phục và phụ kiện
   2. Làm đẹp và chăm sóc cá nhân
   3. Giáo dục

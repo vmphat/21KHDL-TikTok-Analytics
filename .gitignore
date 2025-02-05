@@ -1,2 +1,8 @@
 # Ignore all log files
 logs/*
+# Ignore all virtual environments
+.venv/*
+# Ignore all files in development folder
+development/*
+# Ignore all videos
+*.mp4
