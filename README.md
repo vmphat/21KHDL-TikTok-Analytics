@@ -1,9 +1,38 @@
 # 21KHDL-TikTok-Analytics
 
-## TODO: Trước buổi họp tiếp theo (15h, T3 ngày 04/02)
+## TODO: Buổi họp tiếp theo 15h T5, 06/02/2025
 
-- Setup môi trường
-- Thu thập dữ liệu
+### Thu thập dữ liệu
+
+- [Link](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/vi)
+- Quy trình:
+  - 1 người làm 2 ngành => 12 ngành (6 người, 1 người - 2 ngành)
+  - 1 ngành lấy 5 hashtag hay nhất => 60 hashtag (mỗi người 10 hashtag)
+  - 1 hashtag lấy 50 video => 3000 video (mỗi người 500 hàng)
+- Danh sách các ngành:
+  1. Trang phục và phụ kiện
+  2. Làm đẹp và chăm sóc cá nhân
+  3. Giáo dục
+  4. Thực phẩm và đồ uống
+  5. Trò chơi
+  6. Sản phẩm cải tạo nhà
+  7. Sản phẩm gia dụng
+  8. Dịch vụ đời sống
+  9. Tin tức và giải trí
+  10. Du lịch
+  11. Thể thao và hoạt động ngoài trời
+  12. Công nghệ và đồ điện tử
+
+#### Phân công
+
+- Hãn: 1 + 2
+- Lực: 3 + 4
+- Hiếu: 5 + 6
+- Mỹ: 7 + 8
+- Tín: 9 + 10
+- Phát: 11 + 12
+
+### Setup môi trường
 
 ## Các công cụ cần cài đặt
 
@@ -50,4 +79,5 @@
 ## Công nghệ được sử dụng
 
 - Spark xử lý dữ liệu và Lưu local
+
   - Đẩy kết quả cuối cùng lên cloud để các thành viên lấy dữ liệu
