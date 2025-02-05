@@ -8,8 +8,11 @@ from yt_dlp import YoutubeDL
 
 from TikTokApi import TikTokApi
 
+# * Define raw data directory
+RAW_DATA_DIR = "data/raw/"
+
 ms_token = os.environ.get("ms_token", None)  # set your own ms_token
-VIDEO_DIR = "videos"
+VIDEO_DIR = RAW_DATA_DIR + "videos"
 
 
 def get_current_timestamp():
@@ -45,7 +48,8 @@ async def get_hashtag_videos(hashtag, count):
     os.makedirs(path, exist_ok=True)
 
     async with TikTokApi() as api:
-        await api.create_sessions(headless=False, ms_tokens=[ms_token], num_sessions=1, sleep_after=3, browser=os.getenv("TIKTOK_BROWSER", "chromium"))
+        await api.create_sessions(headless=False, ms_tokens=[ms_token], num_sessions=1, sleep_after=3,
+                                  browser=os.getenv("TIKTOK_BROWSER", "chromium"))
         tag = api.hashtag(name=hashtag)
         videos = []
         downloaded = 0
