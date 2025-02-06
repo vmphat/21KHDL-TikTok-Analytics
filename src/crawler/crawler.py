@@ -4,9 +4,8 @@ import json
 import os
 import time
 
-from yt_dlp import YoutubeDL
-
 from TikTokApi import TikTokApi
+from yt_dlp import YoutubeDL
 
 # * Define raw data directory
 RAW_DATA_DIR = "data/raw/"
@@ -53,7 +52,7 @@ async def get_hashtag_videos(hashtag, count):
         tag = api.hashtag(name=hashtag)
         videos = []
         downloaded = 0
-        async for video in tag.videos(count=200):
+        async for video in tag.videos(count=count*2):
             if downloaded >= count:
                 break
 
