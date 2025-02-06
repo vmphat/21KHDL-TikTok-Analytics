@@ -1,8 +1,26 @@
 # 21KHDL-TikTok-Analytics
 
-## TODO: Buổi họp tiếp theo 15h T5, 06/02/2025
+- Lịch họp cố định: 15h T3 hàng tuần
 
-### Thu thập dữ liệu
+# TODO: Đến 15h CN, ngày 09/02/2025
+
+- Tìm template để làm slide cho bài thuyết trình (Canva)
+  - Yêu cầu: sáng màu
+  - Lực
+- Trình bày 3 đề tài
+  - Hãn
+- Soạn nội dung và làm slide cho phần "Thu thập dữ liệu TikTok" (dùng unofficial API)
+  - Tín
+- Soạn nội dung và làm slide cho phần "Các công nghệ được sử dụng" (Spark, Airflow, ...)
+  - Phát
+- Viết code để convert từ JSON sang CSV, code phải có khả năng duyệt qua tất cả folder con và file JSON bên trong
+  - Lực (Deadline T3)
+- Viết code để trích xuất các thông tin cần thiết từ các video, lưu kết quả vào file CSV, code phải có khả năng duyệt qua tất cả folder con để lấy toàn bộ file .mp4 bên trong
+  - Cả nhóm
+
+# TODO: Buổi họp tiếp theo 15h T5, 06/02/2025
+
+## Thu thập dữ liệu
 
 - [Link](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/vi)
 - Quy trình:
@@ -23,7 +41,7 @@
   11. Thể thao và hoạt động ngoài trời
   12. Công nghệ và đồ điện tử
 
-#### Phân công
+### Phân công
 
 - Hãn: 1 + 2
 - Lực: 3 + 4
@@ -32,15 +50,15 @@
 - Tín: 9 + 10
 - Phát: 11 + 12
 
-### Setup môi trường
+## Setup môi trường
 
-## Các công cụ cần cài đặt
+### Các công cụ cần cài đặt
 
 - Hadoop:
 - Spark:
 - Airflow: https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT&index=1
 
-## Công cụ được sử dụng cho các bước chính trong quá trình phân tích
+# Công cụ được sử dụng cho các bước chính trong quá trình phân tích
 
 - Thu thập dữ liệu:
   - Python + TikTok API (unofficial)
@@ -55,7 +73,7 @@
     - Đề xuất các hashtag phổ biến dựa trên wordcloud
     - Đề xuất nhạc nền (audio) cho video
 
-## Vai trò của các thành viên trong nhóm
+# Vai trò của các thành viên trong nhóm
 
 - Thu thập dữ liệu: Hãn, Hiếu, Tín
 - Xử lý dữ liệu: Phát, Hãn, Tín, Lực, Mỹ
