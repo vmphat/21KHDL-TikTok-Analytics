@@ -2,7 +2,7 @@ import subprocess
 import sys
 import time
 import os
-
+from yt_dlp import YoutubeDL
 
 def run_crawler(keyword, limit):
     """
@@ -45,42 +45,20 @@ def run_crawler(keyword, limit):
 def main():
     # List of tasks to run sequentially
     tasks = [
-        # ********** Thể thao và hoạt động ngoài trời **********
-        ("bongda", 50),
-        ("vietnamvodich", 50),
-        ("ronaldo", 50),
-        ("nguyenxuanson", 50),
-        ("photography", 50),
-        ("thaydoibanthan", 50),
-        ("barcelona", 50),
-        ("quanghai", 50),
-        ("lifestyle", 50),
-        ("tienlinh", 50),
-        ("fptplay", 50),
-        ("championsleague", 50),
-        ("kungfu", 50),
-        ("footballedit", 50),
-        ("basketball", 50),
-        ("lamineyamal", 50),
+        # ********** Tin tuc - Giai tri **********
+        ("nhactamtrang", 50),
+        ("phongthuy", 50),
+        ("drama", 50),
+        ("tintuc", 50),
+        ("nhacchill", 50),
 
-        # ********** Công nghệ và đồ điện tử **********
-        ("tainghe", 50),
-        ("tainghebluetooth", 50),
-        ("sacduphong", 50),
-        ("flycam", 50),
-        ("tainghekhongday", 50),
-        ("sacnhanh", 50),
-        ("donghothongminh", 50),
-        ("dji", 50),
-        ("oppo", 50),
-        ("drone", 50),
-        ("loamini", 50),
-        ("dientu", 50),
-        ("goojodoq", 50),
-        ("sacdienthoai", 50),
-        ("iphonetricks", 50),
-        ("smartwatch", 50),
-        ("banphimco", 50),
+        # ********** Du lich **********
+        ("festival", 50),
+        ("dulich", 50),
+        ("amthuc", 50),
+        ("paradise", 50),
+        ("homestay", 50),
+    
     ]
     # Set console to UTF-8 mode on Windows
     if sys.platform == "win32":
