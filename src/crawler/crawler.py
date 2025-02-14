@@ -8,7 +8,7 @@ from TikTokApi import TikTokApi
 from yt_dlp import YoutubeDL
 
 ms_token = os.environ.get("ms_token", None)  # set your own ms_token
-DATA_DIR = "data"
+DATA_DIR = "data/raw"
 USER_LIST_DIR = "data/UserList"
 
 
