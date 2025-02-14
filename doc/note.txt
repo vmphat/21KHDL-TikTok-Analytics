@@ -1,0 +1,47 @@
+------------------VIDEO API------------------
+id
+desc: caption+hashtag
+createTime
+video: height, width, duration, ratio, format, videoQuality, definition, volumeInfo, claInfo (hasOriginalAudio, enableAutoCaption, captionInfos, noCaptionReason)
+author: id, uniqueId, nickname, signature, createTime, verified
+music: id, title, duration, original, isCopyrighted
+challenges (có vẻ là in4 của hashtag): id, title, desc
+stats: diggCount, shareCount, commentCount, playCount, collectCount
+statsV2 (là stats nhưng string và có thêm 'repostCoun't)
+textExtra (cũng liên quan đến hashtag)
+authorStats
+shareEnabled
+isAd
+diversificationLabels (các label của vid, có thể dùng để phân loại)
+locationCreated
+suggestedWords (có thể là các keyword để search)
+contents (liên quan đến caption)
+anchors (gì đó liên quan tới capcut)
+item_control: can_share, can_comment, can_music_redirect, can_creator_redirect, can_repost
+keywordTags (có thể liên quan tới search, phân loại vid, từ khoá được search nhiều nhất bởi viewer)
+textLanguage
+textTranslatable
+
+
+------------------USER API------------------
+id
+uniqueId
+nickname
+signature (bio)
+createTime
+verified
+ttSeller
+region
+profileTab
+followingVisibility
+nickNameModifyTime
+language
+followerCount
+followingCount
+heart
+heartCount
+videoCount
+diggCount
+friendCount
+isOrganization
+commerceUserInfo
