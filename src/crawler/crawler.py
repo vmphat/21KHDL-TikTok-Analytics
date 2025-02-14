@@ -7,9 +7,16 @@ import time
 from TikTokApi import TikTokApi
 from yt_dlp import YoutubeDL
 
+# * Define raw data directory
+RAW_DATA_DIR = "data/raw/"
+
 ms_token = os.environ.get("ms_token", None)  # set your own ms_token
+<<<<<<< HEAD
 DATA_DIR = "data"
 USER_LIST_DIR = "data/UserList"
+=======
+VIDEO_DIR = RAW_DATA_DIR + "videos"
+>>>>>>> main
 
 
 def get_current_timestamp():
@@ -79,6 +86,7 @@ def extract_video_contents(username, video_id, download_folder=None):
 
 async def get_info_users(usernames, days=0, weeks=0, months=0, download_video=False):
     async with TikTokApi() as api:
+<<<<<<< HEAD
         await api.create_sessions(headless=False, ms_tokens=[ms_token], num_sessions=1, sleep_after=3, browser=os.getenv("TIKTOK_BROWSER", "chromium"))
         for username in usernames:
             user = api.user(username)
@@ -87,6 +95,16 @@ async def get_info_users(usernames, days=0, weeks=0, months=0, download_video=Fa
             os.makedirs(user_path, exist_ok=True)
             with open(f"{user_path}/user_info.json", "w") as f:
                 json.dump(user_data, f, indent=3)
+=======
+        await api.create_sessions(headless=False, ms_tokens=[ms_token], num_sessions=1, sleep_after=3,
+                                  browser=os.getenv("TIKTOK_BROWSER", "chromium"))
+        tag = api.hashtag(name=hashtag)
+        videos = []
+        downloaded = 0
+        async for video in tag.videos(count=count*2):
+            if downloaded >= count:
+                break
+>>>>>>> main
 
             videos = []
             missing_videos = []
