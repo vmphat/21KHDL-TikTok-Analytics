@@ -185,7 +185,7 @@ class Video:
                     # Process or upload chunk
         """
         i, session = self.parent._get_session(**kwargs)
-        print(self.as_dict["video"])
+        # print(self.as_dict["video"])
         downloadAddr = self.as_dict["video"]["downloadAddr"]
 
         cookies = await self.parent.get_session_cookies(session)

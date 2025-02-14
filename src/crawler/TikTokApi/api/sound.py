@@ -170,7 +170,8 @@ class Sound:
             self.stats = data.get("stats")
 
         if getattr(self, "id", None) is None:
-            Sound.parent.logger.error(f"Failed to create Sound with data: {data}\n")
+            # Sound.parent.logger.error(f"Failed to create Sound with data: {data}\n")
+            Sound.parent.logger.error(f"Failed to create Sound with data: \n")
 
     def __repr__(self):
         return self.__str__()
