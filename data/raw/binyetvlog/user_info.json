@@ -1,0 +1,61 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213003748DC0D1E616BAA70151589",
+      "now": 1739378268000
+   },
+   "log_pb": {
+      "impr_id": "20250213003748DC0D1E616BAA70151589"
+   },
+   "shareMeta": {
+      "desc": "@binyetvlog 1.5m Followers, 59 Following, 62.7m Likes - Watch awesome short videos created by Bin Yet qu\u00e3i \u0111\u1ea1n \ud83d\udcf8",
+      "title": "Bin Yet qu\u00e3i \u0111\u1ea1n \ud83d\udcf8 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1500000,
+         "followingCount": 59,
+         "friendCount": 56,
+         "heart": 62700000,
+         "heartCount": 62700000,
+         "videoCount": 823
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/442cdee3013a29224e14c3f496825766~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35528&refresh_token=9f5217d2b0bf37f099940f6c9011b0d0&x-expires=1739548800&x-signature=7lOmCN%2FO0oNhDl6KyNyoC9c5SL4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/442cdee3013a29224e14c3f496825766~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=25934&refresh_token=d222612248968d342916bcf64f56a6e7&x-expires=1739548800&x-signature=uabFxNA7Eb9Lna%2B7QLy%2BcU%2BAFFU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/442cdee3013a29224e14c3f496825766~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=57330&refresh_token=bb532d0929134f07666b011ab3711fe1&x-expires=1739548800&x-signature=tk7%2BU0qSVd%2FbMJ4X66MtO43Dgkw%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7058564355843687451",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1645438984,
+         "nickname": "Bin Yet qu\u00e3i \u0111\u1ea1n \ud83d\udcf8",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAcSeVNuswBWhbGWYH-2fl8glKWqo8SKOHpdgybiD_o5tbwAgdR0o0o6H_dOWPVNMD",
+         "secret": false,
+         "signature": "0783875077 (Mr. Th\u1ee9c)\nMail: binyet.booking@gmail.com\nFB: Nguyen Anh Tu (Bin Yet)",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "binyetvlog",
+         "verified": false
+      }
+   }
+}

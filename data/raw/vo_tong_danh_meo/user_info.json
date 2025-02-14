@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213004227EA5BEDCA78D4211353C3",
+      "now": 1739378547000
+   },
+   "log_pb": {
+      "impr_id": "20250213004227EA5BEDCA78D4211353C3"
+   },
+   "shareMeta": {
+      "desc": "@vo_tong_danh_meo 1.2m Followers, 0 Following, 23.1m Likes - Watch awesome short videos created by V\u00f5 T\u00f2ng \u0110\u00e1nh M\u00e8o",
+      "title": "V\u00f5 T\u00f2ng \u0110\u00e1nh M\u00e8o on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1200000,
+         "followingCount": 0,
+         "friendCount": 0,
+         "heart": 23100000,
+         "heartCount": 23100000,
+         "videoCount": 292
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/15a9d807741565832cdc6f63b8b6a55e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=71030&refresh_token=f1480c3b7ef217d35628b4a7ec0329ae&x-expires=1739548800&x-signature=PDZRuNXIJqsuxl%2FLkmLmrs4zco0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/15a9d807741565832cdc6f63b8b6a55e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=41132&refresh_token=c7eac00854a3c292271ceedd0e3df4ad&x-expires=1739548800&x-signature=2wCf2n%2BGEgBhid%2BsKi1ParvlxKo%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/15a9d807741565832cdc6f63b8b6a55e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=52892&refresh_token=272a2c0bc2102b2d0100f15f7f406f21&x-expires=1739548800&x-signature=KuEB9fwZELW9vgK2NkoEOKnqVhM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://longcya.koc.asia",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6953263237422056449",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1621994242,
+         "nickname": "V\u00f5 T\u00f2ng \u0110\u00e1nh M\u00e8o",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": false,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAFuwxf-F4eLUJONgab40hc8WCPxGVLarY0qaFuBKft0nInFQntHV6SRMC_V2q7qpW",
+         "secret": false,
+         "signature": "LI\u00caN H\u1ec6 C\u00d4NG VI\u1ec6C: 0963964886\nT\u1ea5t c\u1ea3 \u0111\u1ed3 m\u00ecnh d\u00f9ng c\u00f3 \u1edf link b\u00ean d\u01b0\u1edbi nha \ud83d\udc47",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "vo_tong_danh_meo",
+         "verified": true
+      }
+   }
+}

@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250212234148816896A29FB16C124DEA",
+      "now": 1739374908000
+   },
+   "log_pb": {
+      "impr_id": "20250212234148816896A29FB16C124DEA"
+   },
+   "shareMeta": {
+      "desc": "@_ttqueen 2.9m Followers, 95 Following, 81.8m Likes - Watch awesome short videos created by Quynh Truong",
+      "title": "Quynh Truong on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 2900000,
+         "followingCount": 95,
+         "friendCount": 49,
+         "heart": 81800000,
+         "heartCount": 81800000,
+         "videoCount": 367
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/dcb917fff48aacab462620b08f13b4e0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=90309&refresh_token=b975ac2da379ea6f4355a7c9ea114c85&x-expires=1739545200&x-signature=jFRUER4pVLIiUZ1LFcNrJ202Zr0%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/dcb917fff48aacab462620b08f13b4e0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=61443&refresh_token=d032dcca7dd7b72cb4b57dec7536182b&x-expires=1739545200&x-signature=XvOykZgx6OaRb5LsZ1T7Zrk79pA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/dcb917fff48aacab462620b08f13b4e0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=81255&refresh_token=0f04d93db62b005f6c9792b3e39ef150&x-expires=1739545200&x-signature=gMH8zuZZmmJBi%2Fs6urBssZ1aow4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://ttqueen.passio.eco",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 3,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6644110999556227073",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1667388175,
+         "nickname": "Quynh Truong",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA6e26Ok_w7ReVcKXUIZoygasHXTl9ZPPvhmuTQz1GGRaMU5RLQk6-yftHzzfIfr9L",
+         "secret": false,
+         "signature": "Th\u1ea5y m\u00ecnh \u0111\u00e1ng iu th\u00ec fl m\u00ecnh nh\u00e9 hehee\n\ud83d\udcacFor work: 097.136.3242",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "_ttqueen",
+         "verified": false
+      }
+   }
+}

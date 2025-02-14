@@ -1,0 +1,72 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213004821124339310389D11461AC",
+      "now": 1739378901000
+   },
+   "log_pb": {
+      "impr_id": "20250213004821124339310389D11461AC"
+   },
+   "shareMeta": {
+      "desc": "@lolifamily9496 1.0m Followers, 364 Following, 29.6m Likes - Watch awesome short videos created by LoLifamily",
+      "title": "LoLifamily on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1000000,
+         "followingCount": 364,
+         "friendCount": 27,
+         "heart": 29600000,
+         "heartCount": 29600000,
+         "videoCount": 731
+      },
+      "user": {
+         "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/65221998d1f886f43fd4c81ad43d2f6b.jpeg?lk3s=a5d48078&nonce=68239&refresh_token=79e51505074e1f7e767f567f7eec4da1&x-expires=1739548800&x-signature=ybL4ezWHLFmNDdnTvzeXVjPXwWM%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/65221998d1f886f43fd4c81ad43d2f6b.jpeg?lk3s=a5d48078&nonce=88667&refresh_token=8d52d8460c23cfe6a03a820509d5ce83&x-expires=1739548800&x-signature=IiIyWEOkbtRqUJAp5F2wiuHYznw%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/65221998d1f886f43fd4c81ad43d2f6b.jpeg?lk3s=a5d48078&nonce=7787&refresh_token=73b5c63489ad356321630c6d815257f4&x-expires=1739548800&x-signature=HdAfVHh46eudcjDbfltUy%2FLMtSM%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "https://lolifamily9496.koc.asia",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "category": "Media & Entertainment",
+            "categoryButton": false,
+            "commerceUser": true,
+            "downLoadLink": {
+               "android": "",
+               "ios": ""
+            }
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6531979953659019265",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1612492107,
+         "nickname": "LoLifamily",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA6F6jqTiyRNOL37lD_SMRamvE_nkwX1VtYMtF7VTX5RUF-o2EDxYb2PAjoeh9cBt8",
+         "secret": false,
+         "signature": "For work: longlinh9496@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "lolifamily9496",
+         "verified": false
+      }
+   }
+}

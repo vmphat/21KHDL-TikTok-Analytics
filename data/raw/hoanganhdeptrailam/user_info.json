@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025021300142959EC50FAF0302D1601CC",
+      "now": 1739376869000
+   },
+   "log_pb": {
+      "impr_id": "2025021300142959EC50FAF0302D1601CC"
+   },
+   "shareMeta": {
+      "desc": "@hoanganhdeptrailam 874.4k Followers, 48 Following, 36.7m Likes - Watch awesome short videos created by Panda Ch\u00e2n L\u00fd",
+      "title": "Panda Ch\u00e2n L\u00fd on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 874400,
+         "followingCount": 48,
+         "friendCount": 47,
+         "heart": 36700000,
+         "heartCount": 36700000,
+         "videoCount": 443
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/defdcdd1ba4bd18b9768020a63a00e0e~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=79431&refresh_token=c6b40d498a77e866ef3c199d0dbe9a75&x-expires=1739548800&x-signature=EmIoHHRN3FpDPEzvCUO8kRjVzQo%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/defdcdd1ba4bd18b9768020a63a00e0e~c5_720x720.jpeg?lk3s=a5d48078&nonce=7865&refresh_token=24dd0e932cb929e0eecbabb3acf536a8&x-expires=1739548800&x-signature=eUwaeYZqxL79RYSyY0qZ3kwa0hI%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/defdcdd1ba4bd18b9768020a63a00e0e~c5_100x100.jpeg?lk3s=a5d48078&nonce=86903&refresh_token=c31186be60c99427d83c8bb0d9b1538b&x-expires=1739548800&x-signature=V2iUIlBJzYLhBcmf4SCfRA0Delo%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "https://www.facebook.com/hoanganh.panda96?mibextid=LQQJ4d",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 3,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "7074548497097344026",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1648967172,
+         "nickname": "Panda Ch\u00e2n L\u00fd",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAYQK0lSO-lNEGWsCnhXZrDCAhe6LYfipzbsmaX1iDr9__ZGNy2TLJqwoVEDfiy7ZM",
+         "secret": false,
+         "signature": "\ud83d\udc49\ud83c\udffbKH\u00d4NG NH\u1eacN BOOKING QU\u00c1N \u0102N",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "hoanganhdeptrailam",
+         "verified": false
+      }
+   }
+}

@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025021301003736664F0CA2DEAC16F269",
+      "now": 1739379637000
+   },
+   "log_pb": {
+      "impr_id": "2025021301003736664F0CA2DEAC16F269"
+   },
+   "shareMeta": {
+      "desc": "@ttruc.__ 3.3m Followers, 82 Following, 134.4m Likes - Watch awesome short videos created by l\u1ea1nh l\u00f9ng nh\u1ea5t tiktok",
+      "title": "l\u1ea1nh l\u00f9ng nh\u1ea5t tiktok on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 3300000,
+         "followingCount": 82,
+         "friendCount": 79,
+         "heart": 134400000,
+         "heartCount": 134400000,
+         "videoCount": 450
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/10c960446663589dc1d7dcf3d125f5c0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=37241&refresh_token=7a5f06bf190f94e863f4c6e6db5059a6&x-expires=1739552400&x-signature=joyksFOEjEcbxvOMWJLknxivDH8%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/10c960446663589dc1d7dcf3d125f5c0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=16114&refresh_token=f77b16a35257dac1655adcef2ffe7712&x-expires=1739552400&x-signature=Qe1%2BW884mzI9uflGHJnGcSItvKc%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/10c960446663589dc1d7dcf3d125f5c0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=67168&refresh_token=e5afe40b9858774e09270a9efe551843&x-expires=1739552400&x-signature=dLeMCrfOpLNEw5CDW1gK%2BXejZJw%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://httruc.passio.eco",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6959087092051919873",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1638989220,
+         "nickname": "l\u1ea1nh l\u00f9ng nh\u1ea5t tiktok",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAdfjRhKBTKNSat73KJMeo6qLgYC1yTi8kxmW2M-a5hpMncJgVDc6G4CNWEH-gBz8d",
+         "secret": false,
+         "signature": "IG : ttruc.__\n\ud83d\udce9 hoangtruc.booking@gmail.com\nacc ph\u1ee5 duy nh\u1ea5t @tr\u00fac",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "ttruc.__",
+         "verified": false
+      }
+   }
+}

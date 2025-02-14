@@ -1,0 +1,64 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202502130044141A1216D1766329156E7B",
+      "now": 1739378654000
+   },
+   "log_pb": {
+      "impr_id": "202502130044141A1216D1766329156E7B"
+   },
+   "shareMeta": {
+      "desc": "@tundaily 1.2m Followers, 593 Following, 63.8m Likes - Watch awesome short videos created by Tun Ph\u1ea1m Daily",
+      "title": "Tun Ph\u1ea1m Daily on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1200000,
+         "followingCount": 593,
+         "friendCount": 65,
+         "heart": 63800000,
+         "heartCount": 63800000,
+         "videoCount": 1061
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a87a69d9220a3388d36e87813a4d0332~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=64257&refresh_token=39d64e6c5e6038137d0c5b6db05852b9&x-expires=1739548800&x-signature=WiGw4Ilbm5bEGscDsl6eejHJWfw%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a87a69d9220a3388d36e87813a4d0332~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=73492&refresh_token=bf716687e183eb5f66b7cff763ca2741&x-expires=1739548800&x-signature=PvdiSwQrR135MW0OSH6P%2FKm5MQU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a87a69d9220a3388d36e87813a4d0332~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=73493&refresh_token=1138cb490a304b53deeda8b4302ba3cb&x-expires=1739548800&x-signature=iXSCoKjZq4E4EOR0g6ejl6KRgpo%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://beacons.ai/tunpham",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6774241482524476417",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Tun Ph\u1ea1m Daily",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAjPSqeWMj1bPeB5nMVUN2TFfQMrZk7aG44wbAHvxSCZW4BZfg7tZSgZt3p4-KclDx",
+         "secret": false,
+         "signature": "IG: tunhaycuoi ( \ud835\uddd9\ud835\udde2\ud835\udddf\ud835\udddf\ud835\udde2\ud835\uddea)\n\ud83d\udccd phamduchuy1811198@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "tundaily",
+         "verified": false
+      }
+   }
+}

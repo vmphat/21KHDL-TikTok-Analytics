@@ -1,0 +1,3510 @@
+[
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "dollar origami winged heart butterfly"
+         },
+         {
+            "desc": "#origami #phongtranorigami #moneyorigami #dollarorigami #easyorigami #howtofold ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 26,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 40,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 27,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 55,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 41,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 56,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1739362747,
+      "desc": "dollar origami winged heart butterfly #origami #phongtranorigami #moneyorigami #dollarorigami #easyorigami #howtofold ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7470506033115434271",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "authorName": "MaSssuguMusic",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7f626a8c00214198a2204b0065e5b837.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/7f626a8c00214198a2204b0065e5b837.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7f626a8c00214198a2204b0065e5b837.jpeg",
+         "duration": 127,
+         "id": "6817306569852585985",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3f013dcdb5844cefb3f34bac318daf1a",
+         "title": "Ghibli-style nostalgic waltz"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 48,
+         "commentCount": 3,
+         "diggCount": 223,
+         "playCount": 7307,
+         "shareCount": 42
+      },
+      "statsV2": {
+         "collectCount": "48",
+         "commentCount": "3",
+         "diggCount": "223",
+         "playCount": "7307",
+         "repostCount": "0",
+         "shareCount": "42"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 46,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 38,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 64,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 47,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 78,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 65,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 93,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 79,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 106,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 94,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 117,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 107,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "66.47",
+         "bitrate": 1371303,
+         "bitrateInfo": [
+            {
+               "Bitrate": 1371303,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 89.523, \\\"v960\\\": 91.979, \\\"v864\\\": 93.961, \\\"v720\\\": 96.444}, \\\"ori\\\": {\\\"v1080\\\": 79.057, \\\"v960\\\": 82.396, \\\"v864\\\": 85.555, \\\"v720\\\": 89.052}}}\"",
+               "PlayAddr": {
+                  "DataSize": 15805478,
+                  "FileCs": "c:0-77081-f6d9",
+                  "FileHash": "888a750747a0ae1a4b53fc30b4da8a5a",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cum91fnog65jf4aq6rvg",
+                  "UrlKey": "v15044gf0000cum91fnog65jf4aq6rvg_h264_540p_1371303",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/okPJq8Z59CvgSALjNINRF6RAeWIaAfednFIGI8/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2678&bt=1339&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=OjQ6NGk7ZDozOzk3PGVoNkBpanV0N205cmk8eDMzaTczNEBjMDEuMS8vXl4xYmEvXmFfYSNzM15jMmRrLmpgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552270&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=0182fb3aaf028a38b5254a53eb45630e&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/okPJq8Z59CvgSALjNINRF6RAeWIaAfednFIGI8/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2678&bt=1339&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=OjQ6NGk7ZDozOzk3PGVoNkBpanV0N205cmk8eDMzaTczNEBjMDEuMS8vXl4xYmEvXmFfYSNzM15jMmRrLmpgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552270&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=0182fb3aaf028a38b5254a53eb45630e&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=b3deab29d4e648a0a72a284f114731f7&is_play_url=1&item_id=7470506033115434271&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmM2YzcwZmUzZjJhMWRhOWFjYThhOGJjMmY4YmFmZWYy&tk=tt_chain_token&video_id=v15044gf0000cum91fnog65jf4aq6rvg"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": false,
+            "hasOriginalAudio": false,
+            "noCaptionReason": 2
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/ocEAsnPEuCJAOARFggIACFEEGkDhurAVffcVZV?lk3s=81f88b70&x-expires=1739548800&x-signature=NHb7aDDUgGKlaU%2Fqli9%2FJs6ZZTA%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o8fF6QqDPCkm3pGFEQzS6AI8IItsfWOAijEdWe/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2984&bt=1492&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZDZlNDY0NzM1M2dmOGVoOkBpanV0N205cmk8eDMzaTczNEA2MzQxLjRfNjAxYTBfYi1eYSNzM15jMmRrLmpgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552270&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=0b6fc0db8c7c3dabf23fb2588a54bfdf&tk=tt_chain_token",
+         "duration": 92,
+         "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/ocEAsnPEuCJAOARFggIACFEEGkDhurAVffcVZV?lk3s=81f88b70&x-expires=1739548800&x-signature=NHb7aDDUgGKlaU%2Fqli9%2FJs6ZZTA%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7470506033115434271",
+         "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/owejNWICa65i2sqbIFF9k2AQGeAzLIBvNCePSQ?lk3s=81f88b70&x-expires=1739548800&x-signature=aNNJ0vo0LXkpYm5043GIUwc0sx8%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/okPJq8Z59CvgSALjNINRF6RAeWIaAfednFIGI8/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2678&bt=1339&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=OjQ6NGk7ZDozOzk3PGVoNkBpanV0N205cmk8eDMzaTczNEBjMDEuMS8vXl4xYmEvXmFfYSNzM15jMmRrLmpgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552270&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=0182fb3aaf028a38b5254a53eb45630e&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -16.6,
+            "Peak": 0.65313
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ocEAsnPEuCJAOARFggIACFEEGkDhurAVffcVZV~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=g81B6nonvG0BexuzhvZotlLFPKc%3D&shp=81f88b70&shcp=-",
+            "480": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ocEAsnPEuCJAOARFggIACFEEGkDhurAVffcVZV~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=gbHtU6N9eAHLR6zz7b%2F46rjfRMM%3D&shp=81f88b70&shcp=-",
+            "720": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ocEAsnPEuCJAOARFggIACFEEGkDhurAVffcVZV~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=CiXeBmzgqS4hHhhErYCZ5nxUr9Y%3D&shp=81f88b70&shcp=-",
+            "960": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ocEAsnPEuCJAOARFggIACFEEGkDhurAVffcVZV~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=vRNT9daxjj6TvywWHwGCBvgAynw%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "videoSuggestWordsList": {
+         "video_suggest_words_struct": [
+            {
+               "hint_text": "Search \u00b7 ",
+               "scene": "feed_bar",
+               "words": [
+                  {
+                     "word": "Ngh\u1ec7 Thu\u1eadt G\u1ea5p Gi\u1ea5y Origami",
+                     "word_id": "529603815191928695"
+                  }
+               ]
+            }
+         ]
+      },
+      "collectTime": 1739379385
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "anchors": [
+         {
+            "description": "CapCut \u00b7 Video Editor",
+            "extraInfo": {
+               "subtype": ""
+            },
+            "icon": {
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=81f88b70&shcp=-"
+               ]
+            },
+            "id": "0",
+            "keyword": "CapCut \u00b7 Editing made easy",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut \u00b7 Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+               "height": 64,
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=81f88b70&shcp=-"
+               ],
+               "width": 64
+            },
+            "type": 54
+         }
+      ],
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "dollar origami winged heart"
+         },
+         {
+            "desc": "#origami #dollarorigami #phongtranorigami #moneyorigami #easyorigami #howtofold ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 23,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 41,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 24,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 55,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 42,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 56,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1739275996,
+      "desc": "dollar origami winged heart #origami #dollarorigami #phongtranorigami #moneyorigami #easyorigami #howtofold ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7470133042154114335",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "album": "Life is Beautiful",
+         "authorName": "Deep Music",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/oojcYCUiZvLWABmIAksJGAEGXx5AEAdSrbiYm.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/oojcYCUiZvLWABmIAksJGAEGXx5AEAdSrbiYm.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oojcYCUiZvLWABmIAksJGAEGXx5AEAdSrbiYm.jpeg",
+         "duration": 206,
+         "id": "7394451688570193921",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ogyk5A9AWIWKiBrrDm8hQMVXUYvLZdsJFcibd",
+         "title": "Life is Beautiful"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 18200,
+         "commentCount": 124,
+         "diggCount": 36400,
+         "playCount": 1400000,
+         "shareCount": 7925
+      },
+      "statsV2": {
+         "collectCount": "18244",
+         "commentCount": "124",
+         "diggCount": "36400",
+         "playCount": "1400000",
+         "repostCount": "0",
+         "shareCount": "7925"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 36,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 28,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 51,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 37,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 69,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 52,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 83,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 70,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 96,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 84,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 107,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 97,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "70.03",
+         "bitrate": 1316735,
+         "bitrateInfo": [
+            {
+               "Bitrate": 1316735,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 88.23, \\\"v960\\\": 90.389, \\\"v864\\\": 93.008, \\\"v720\\\": 95.431}, \\\"ori\\\": {\\\"v1080\\\": 77.297, \\\"v960\\\": 80.983, \\\"v864\\\": 84.125, \\\"v720\\\": 88.582}}}\"",
+               "PlayAddr": {
+                  "DataSize": 12558525,
+                  "FileCs": "c:0-64105-667e",
+                  "FileHash": "ef3ae4b066118252a61246589fce2539",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000culjs8fog65noge8qp2g",
+                  "UrlKey": "v15044gf0000culjs8fog65noge8qp2g_h264_540p_1316735",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oYXey9EIQEAnhSqfDPFVr4iaKu4kJEAiDBzRgv/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2570&bt=1285&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZTNpNDk1O2k4ZTloNzU5N0BpanM7anE5cjtteDMzaTczNEBeMmMvXi5gNjExYTM1NjJjYSMvbmJsMmRjcGlgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552254&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=904a9299a760f4ce66226dd43b1d0ea2&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oYXey9EIQEAnhSqfDPFVr4iaKu4kJEAiDBzRgv/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2570&bt=1285&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZTNpNDk1O2k4ZTloNzU5N0BpanM7anE5cjtteDMzaTczNEBeMmMvXi5gNjExYTM1NjJjYSMvbmJsMmRjcGlgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552254&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=904a9299a760f4ce66226dd43b1d0ea2&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=f45692846ed64b459fc812a621ff50ab&is_play_url=1&item_id=7470133042154114335&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmJlMzU4MDc5MzI0MjNhYmUzNWU0MzIxMzAxMThmNzNh&tk=tt_chain_token&video_id=v15044gf0000culjs8fog65noge8qp2g"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            },
+            {
+               "Bitrate": 814234,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_lower_720_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 93.019, \\\"v960\\\": 95.363, \\\"v864\\\": 96.815, \\\"v720\\\": 98.502}, \\\"ori\\\": {\\\"v1080\\\": 82.432, \\\"v960\\\": 85.822, \\\"v864\\\": 87.791, \\\"v720\\\": 91.539}}}\"",
+               "PlayAddr": {
+                  "DataSize": 7765867,
+                  "FileCs": "c:0-64449-d04d",
+                  "FileHash": "86d9006169b0c7540429054816131484",
+                  "Height": 1280,
+                  "Uri": "v15044gf0000culjs8fog65noge8qp2g",
+                  "UrlKey": "v15044gf0000culjs8fog65noge8qp2g_bytevc1_720p_814234",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ogR9JEhkAvzIygJnKzVFE4aqQBDffOdW5ADgEi/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1590&bt=795&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=aDs8NjNkZztoaTU5NTk5O0BpanM7anE5cjtteDMzaTczNEBeY19fNi8vNWMxYDEzMi4yYSMvbmJsMmRjcGlgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552254&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=da327bc35dff468086ede13d54a831cb&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ogR9JEhkAvzIygJnKzVFE4aqQBDffOdW5ADgEi/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1590&bt=795&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=aDs8NjNkZztoaTU5NTk5O0BpanM7anE5cjtteDMzaTczNEBeY19fNi8vNWMxYDEzMi4yYSMvbmJsMmRjcGlgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552254&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=da327bc35dff468086ede13d54a831cb&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=5816566246c24ffe882d2a90b3b9f8ae&is_play_url=1&item_id=7470133042154114335&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmMyNTI1Yjk0Nzg1MGE0MWMyYWY3ODFlMDdkNTYzMzZj&tk=tt_chain_token&video_id=v15044gf0000culjs8fog65noge8qp2g"
+                  ],
+                  "Width": 720
+               },
+               "QualityType": 14
+            },
+            {
+               "Bitrate": 677823,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_540_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 88.294, \\\"v960\\\": 92.117, \\\"v864\\\": 94.931, \\\"v720\\\": 95.655}, \\\"ori\\\": {\\\"v1080\\\": 76.836, \\\"v960\\\": 80.668, \\\"v864\\\": 83.495, \\\"v720\\\": 87.947}}}\"",
+               "PlayAddr": {
+                  "DataSize": 6464827,
+                  "FileCs": "c:0-64449-9ac9",
+                  "FileHash": "e21ef66a35808af2ca4502d5b345ae2e",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000culjs8fog65noge8qp2g",
+                  "UrlKey": "v15044gf0000culjs8fog65noge8qp2g_bytevc1_540p_677823",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oIIKrzNCaAZG0AIB3yEAmiii8QB3Z1Q4xfFQAq/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1322&bt=661&cs=2&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=11&rc=NGk0aDw0aTRpNTpkPDdmOEBpanM7anE5cjtteDMzaTczNEA0NS1hYTBfX2AxYjFhNmFeYSMvbmJsMmRjcGlgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552254&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=da41d0fb35d4a05adc98437b4aec14d2&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oIIKrzNCaAZG0AIB3yEAmiii8QB3Z1Q4xfFQAq/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1322&bt=661&cs=2&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=11&rc=NGk0aDw0aTRpNTpkPDdmOEBpanM7anE5cjtteDMzaTczNEA0NS1hYTBfX2AxYjFhNmFeYSMvbmJsMmRjcGlgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552254&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=da41d0fb35d4a05adc98437b4aec14d2&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=a5dc94d94ae742cfb1bf31d9de018f71&is_play_url=1&item_id=7470133042154114335&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjg0ZWEyNmM0N2UzNTYyOTMzZDhiYTc2ODViNTY3ZDE0&tk=tt_chain_token&video_id=v15044gf0000culjs8fog65noge8qp2g"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 28
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": false,
+            "hasOriginalAudio": false,
+            "noCaptionReason": 2
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oY9W4AfBK1IAqPICCNAGEyiijtAbAzrpBEiZBg?lk3s=81f88b70&x-expires=1739548800&x-signature=Y4Uzeeo2vQUNxBctL0Z2mJ%2F%2BKZY%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oUiiyPNuIx3CqE1AZrxBfiFI8QAiQYZANGazEB/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2872&bt=1436&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=NThlNDc7OGczZGU0NjQzZ0BpanM7anE5cjtteDMzaTczNEBgYjFfLi5fNTAxNDZhMDAwYSMvbmJsMmRjcGlgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552254&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=543330eaf3fa48d58eadf4aa4414eba7&tk=tt_chain_token",
+         "duration": 76,
+         "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oY9W4AfBK1IAqPICCNAGEyiijtAbAzrpBEiZBg?lk3s=81f88b70&x-expires=1739548800&x-signature=wYPQfQEdbS2aA7B8OG8p4FIoEok%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7470133042154114335",
+         "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/owrBA1BBqIzHiqN8hqfAIxQlt3Z4PZCyAiiFhI?lk3s=81f88b70&x-expires=1739548800&x-signature=2qUas%2BenbQHQUf%2FvewpdAg5ergA%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oYXey9EIQEAnhSqfDPFVr4iaKu4kJEAiDBzRgv/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2570&bt=1285&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZTNpNDk1O2k4ZTloNzU5N0BpanM7anE5cjtteDMzaTczNEBeMmMvXi5gNjExYTM1NjJjYSMvbmJsMmRjcGlgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552254&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=904a9299a760f4ce66226dd43b1d0ea2&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -14.7,
+            "Peak": 0.89125
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oY9W4AfBK1IAqPICCNAGEyiijtAbAzrpBEiZBg~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=ID6id3VC8EC1DCLv%2FlJpHyGXnY4%3D&shp=81f88b70&shcp=-",
+            "480": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oY9W4AfBK1IAqPICCNAGEyiijtAbAzrpBEiZBg~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=tm9NR4ge7nEmefbd5Zme3EOWgXQ%3D&shp=81f88b70&shcp=-",
+            "720": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oY9W4AfBK1IAqPICCNAGEyiijtAbAzrpBEiZBg~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=I8CE5ggSYoBaOlA1Kb4zM%2FY%2FhRM%3D&shp=81f88b70&shcp=-",
+            "960": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oY9W4AfBK1IAqPICCNAGEyiijtAbAzrpBEiZBg~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=J%2FhSE4OqXGgibFm6BKSp6wlybo8%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "collectTime": 1739379390
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "anchors": [
+         {
+            "description": "CapCut \u00b7 Video Editor",
+            "extraInfo": {
+               "subtype": ""
+            },
+            "icon": {
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=81f88b70&shcp=-"
+               ]
+            },
+            "id": "0",
+            "keyword": "CapCut \u00b7 Editing made easy",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut \u00b7 Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+               "height": 64,
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=81f88b70&shcp=-"
+               ],
+               "width": 64
+            },
+            "type": 54
+         }
+      ],
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "dollar origami demon heart"
+         },
+         {
+            "desc": "#origami #phongtranorigami #moneyorigami #dollarorigami #easyorigami #howtofold ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 26,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 40,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 27,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 55,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 41,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 56,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1738753306,
+      "desc": "dollar origami demon heart #origami #phongtranorigami #moneyorigami #dollarorigami #easyorigami #howtofold ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7467887830644116766",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "album": "House Glamor Fashion",
+         "authorName": "PMsound",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/o0AbA2zNPBHJ5ARaQkHDAeI15CEIge0AeBzR9F.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/o0AbA2zNPBHJ5ARaQkHDAeI15CEIge0AeBzR9F.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/o0AbA2zNPBHJ5ARaQkHDAeI15CEIge0AeBzR9F.jpeg",
+         "duration": 108,
+         "id": "7377882334798874635",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/o4tglmnVE8LNCFjBLQDIrgA2p8BYB4D8tMXfZe",
+         "title": "House Glamor Fashion"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 256,
+         "commentCount": 53,
+         "diggCount": 1409,
+         "playCount": 56200,
+         "shareCount": 106
+      },
+      "statsV2": {
+         "collectCount": "256",
+         "commentCount": "53",
+         "diggCount": "1409",
+         "playCount": "56200",
+         "repostCount": "0",
+         "shareCount": "106"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 35,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 27,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 53,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 36,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 67,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 54,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 82,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 68,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 95,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 83,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 106,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 96,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "67.81",
+         "bitrate": 1172522,
+         "bitrateInfo": [
+            {
+               "Bitrate": 1172522,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 91.526, \\\"v960\\\": 93.182, \\\"v864\\\": 94.414, \\\"v720\\\": 96.304}, \\\"ori\\\": {\\\"v1080\\\": 79.111, \\\"v960\\\": 83.498, \\\"v864\\\": 85.678, \\\"v720\\\": 89.619}}}\"",
+               "PlayAddr": {
+                  "DataSize": 9273921,
+                  "FileCs": "c:0-53553-cca8",
+                  "FileHash": "98ad3904804574e7487a60d18639b133",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cuhk87nog65jigi4ql80",
+                  "UrlKey": "v15044gf0000cuhk87nog65jigi4ql80_h264_540p_1172522",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oIRvmEBlNjBEEAVVdICHCijzQQS6RiIZANR2y/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2290&bt=1145&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=Omk5aWloMzw0aGlmZmVoNEBpM283am05cjpueDMzaTczNEAyMWA0MC00NTAxNF8xYTBhYSM1bmZmMmRrNWVgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=21d81140942551ccb5d5fd0e85701e70&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oIRvmEBlNjBEEAVVdICHCijzQQS6RiIZANR2y/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2290&bt=1145&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=Omk5aWloMzw0aGlmZmVoNEBpM283am05cjpueDMzaTczNEAyMWA0MC00NTAxNF8xYTBhYSM1bmZmMmRrNWVgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=21d81140942551ccb5d5fd0e85701e70&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=d13edb4cbc7f4e3189700e3f7fc64f57&is_play_url=1&item_id=7467887830644116766&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjRjZThiOGM2NmMxYzg2MDRkNzQ2NTRiMmY1ZjUzY2Vj&tk=tt_chain_token&video_id=v15044gf0000cuhk87nog65jigi4ql80"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            },
+            {
+               "Bitrate": 775072,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_lower_720_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 94.608, \\\"v960\\\": 96.52, \\\"v864\\\": 97.924, \\\"v720\\\": 98.78}, \\\"ori\\\": {\\\"v1080\\\": 84.36, \\\"v960\\\": 87.318, \\\"v864\\\": 89.223, \\\"v720\\\": 93.207}}}\"",
+               "PlayAddr": {
+                  "DataSize": 6130340,
+                  "FileCs": "c:0-53817-d653",
+                  "FileHash": "d482799b0b5722ae3fd23c333847c3db",
+                  "Height": 1280,
+                  "Uri": "v15044gf0000cuhk87nog65jigi4ql80",
+                  "UrlKey": "v15044gf0000cuhk87nog65jigi4ql80_bytevc1_720p_775072",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oU0lENFVEBQRIAFzGR2jvTIQiB6iZERHVANKC/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1512&bt=756&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=NzhlOWczOWVmNmhkOjM5M0BpM283am05cjpueDMzaTczNEAuNDZhMzUuXjAxL2A2YzBiYSM1bmZmMmRrNWVgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=a363bbd0af5a00fa9f3199953c843dac&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oU0lENFVEBQRIAFzGR2jvTIQiB6iZERHVANKC/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1512&bt=756&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=NzhlOWczOWVmNmhkOjM5M0BpM283am05cjpueDMzaTczNEAuNDZhMzUuXjAxL2A2YzBiYSM1bmZmMmRrNWVgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=a363bbd0af5a00fa9f3199953c843dac&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=e036f097ca2e433cab16806dd69b7514&is_play_url=1&item_id=7467887830644116766&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjA4Y2E1NWY4YzcyMmY1MTNjNjU5YWRkYmZhNjYwZmIz&tk=tt_chain_token&video_id=v15044gf0000cuhk87nog65jigi4ql80"
+                  ],
+                  "Width": 720
+               },
+               "QualityType": 14
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": false,
+            "hasOriginalAudio": false,
+            "noCaptionReason": 2
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/o4fREEUqp2AJCAfj86CAIgSRAAFQEnA0oMDVAE?lk3s=81f88b70&x-expires=1739548800&x-signature=%2BVBYq%2FcxyKuvCodWu71rHcVS6gY%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o4lVtjEVHiSRESAQBRKR8NV6IziBYNCAQZAvE/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2590&bt=1295&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ODdnZzgzNDgzaGhnOWlkNEBpM283am05cjpueDMzaTczNEAzMzZfLWFfNjMxXi8vYDUxYSM1bmZmMmRrNWVgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=987c29055abdd3b54bb31a13022070cc&tk=tt_chain_token",
+         "duration": 63,
+         "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/o4fREEUqp2AJCAfj86CAIgSRAAFQEnA0oMDVAE?lk3s=81f88b70&x-expires=1739548800&x-signature=%2BVBYq%2FcxyKuvCodWu71rHcVS6gY%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7467887830644116766",
+         "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/ogaDFCiKoInVqFgGQB3jEfgeqiR1PQAEUIajAf?lk3s=81f88b70&x-expires=1739548800&x-signature=29rjevdYhhIPDny1PuZt9xc9sPk%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oIRvmEBlNjBEEAVVdICHCijzQQS6RiIZANR2y/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2290&bt=1145&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=Omk5aWloMzw0aGlmZmVoNEBpM283am05cjpueDMzaTczNEAyMWA0MC00NTAxNF8xYTBhYSM1bmZmMmRrNWVgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=21d81140942551ccb5d5fd0e85701e70&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -11,
+            "Peak": 0.8414
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4fREEUqp2AJCAfj86CAIgSRAAFQEnA0oMDVAE~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=PBWvZLA3r8ds3i5tt7JwP9ZCV9k%3D&shp=81f88b70&shcp=-",
+            "480": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4fREEUqp2AJCAfj86CAIgSRAAFQEnA0oMDVAE~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=scwfKV1EJVzKeeunAlTydaAHUmQ%3D&shp=81f88b70&shcp=-",
+            "720": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4fREEUqp2AJCAfj86CAIgSRAAFQEnA0oMDVAE~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=RknSjNGE9gvbTak1YFXikZ25aWE%3D&shp=81f88b70&shcp=-",
+            "960": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4fREEUqp2AJCAfj86CAIgSRAAFQEnA0oMDVAE~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=JtnT8Cvup69rStPXMgozf6WH%2BJc%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "collectTime": 1739379393
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "anchors": [
+         {
+            "description": "CapCut \u00b7 Video Editor",
+            "extraInfo": {
+               "subtype": ""
+            },
+            "icon": {
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=81f88b70&shcp=-"
+               ]
+            },
+            "id": "0",
+            "keyword": "CapCut \u00b7 Editing made easy",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut \u00b7 Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+               "height": 64,
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=81f88b70&shcp=-"
+               ],
+               "width": 64
+            },
+            "type": 54
+         }
+      ],
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "dollar origami shorts 2 "
+         },
+         {
+            "desc": "#origami #dollarorigami #moneyorigami #easyorigami #phongtranorigami #howtofold ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 23,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 37,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 24,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 50,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 38,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 51,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1738084676,
+      "desc": "dollar origami shorts 2  #origami #dollarorigami #moneyorigami #easyorigami #phongtranorigami #howtofold ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7465016535061450015",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "album": "AURA",
+         "authorName": "Ogryzek",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/okCroBAA76iArE0PWJAAAABqZGEvHYCgYAiUP.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/okCroBAA76iArE0PWJAAAABqZGEvHYCgYAiUP.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/okCroBAA76iArE0PWJAAAABqZGEvHYCgYAiUP.jpeg",
+         "duration": 60,
+         "id": "7387573619378046993",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/o8OBIgD0F1GKhAGRiZK1CBrt6f5IMQOfgmgyEE",
+         "title": "AURA"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 8759,
+         "commentCount": 119,
+         "diggCount": 22300,
+         "playCount": 1700000,
+         "shareCount": 1337
+      },
+      "statsV2": {
+         "collectCount": "8759",
+         "commentCount": "119",
+         "diggCount": "22300",
+         "playCount": "1700000",
+         "repostCount": "0",
+         "shareCount": "1337"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 33,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 25,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 48,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 34,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 62,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 49,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 75,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 63,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 93,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 76,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 104,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 94,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "69.1",
+         "bitrate": 1160112,
+         "bitrateInfo": [
+            {
+               "Bitrate": 1160112,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 91.271, \\\"v960\\\": 93.53, \\\"v864\\\": 93.951, \\\"v720\\\": 96.433}, \\\"ori\\\": {\\\"v1080\\\": 78.975, \\\"v960\\\": 83.396, \\\"v864\\\": 85.783, \\\"v720\\\": 89.45}}}\"",
+               "PlayAddr": {
+                  "DataSize": 9209407,
+                  "FileCs": "c:0-53721-af77",
+                  "FileHash": "2058ecbbdc5367a4e1f66486092ab860",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cucgtovog65hv384gbfg",
+                  "UrlKey": "v15044gf0000cucgtovog65hv384gbfg_h264_540p_1160112",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEIZEQEyRECmAbDn8FG0fWLaf7jEjEIAVQQVBC/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2264&bt=1132&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=NjNpZmVnZDs4NDY0OGQ1NkBpamU3Nms5cnJqeDMzaTczNEAxLTJjM2NhXy4xNjQuYy00YSNjZDVzMmRzcWBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=e47c89b57de627ed9a9bdcb1f0694c0c&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEIZEQEyRECmAbDn8FG0fWLaf7jEjEIAVQQVBC/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2264&bt=1132&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=NjNpZmVnZDs4NDY0OGQ1NkBpamU3Nms5cnJqeDMzaTczNEAxLTJjM2NhXy4xNjQuYy00YSNjZDVzMmRzcWBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=e47c89b57de627ed9a9bdcb1f0694c0c&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=7302fa1571934115b8dafd6bfc5f0043&is_play_url=1&item_id=7465016535061450015&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjMwZmM1ZWUzY2FlYjhhYWUwYzI5ODlhY2JhNDhjNzI1&tk=tt_chain_token&video_id=v15044gf0000cucgtovog65hv384gbfg"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            },
+            {
+               "Bitrate": 618124,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_lower_720_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 93.619, \\\"v960\\\": 95.708, \\\"v864\\\": 97.206, \\\"v720\\\": 98.581}, \\\"ori\\\": {\\\"v1080\\\": 84.538, \\\"v960\\\": 86.81, \\\"v864\\\": 88.29, \\\"v720\\\": 91.586}}}\"",
+               "PlayAddr": {
+                  "DataSize": 4906904,
+                  "FileCs": "c:0-53937-f41e",
+                  "FileHash": "e44181cf79a4de3574aa6fdbb20ccfb0",
+                  "Height": 1280,
+                  "Uri": "v15044gf0000cucgtovog65hv384gbfg",
+                  "UrlKey": "v15044gf0000cucgtovog65hv384gbfg_bytevc1_720p_618124",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ogy0AMGgWIPJL8g3fqeCj4H0aHtYJhIEAIIe0Q/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1206&bt=603&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=MzM1NDU8aTxnaTs7aDVkZkBpamU3Nms5cnJqeDMzaTczNEAtYy40XjQtXjYxYWJgYjBgYSNjZDVzMmRzcWBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=02162bc3a7c8db81e988a84c3c39f39b&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ogy0AMGgWIPJL8g3fqeCj4H0aHtYJhIEAIIe0Q/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1206&bt=603&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=MzM1NDU8aTxnaTs7aDVkZkBpamU3Nms5cnJqeDMzaTczNEAtYy40XjQtXjYxYWJgYjBgYSNjZDVzMmRzcWBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=02162bc3a7c8db81e988a84c3c39f39b&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=cc3ae2cee8d84f9da90f79a27112f000&is_play_url=1&item_id=7465016535061450015&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmJkZmZmMzBjOTA4MzBhMjgwY2I2Yzc0N2FlMDFlYjhm&tk=tt_chain_token&video_id=v15044gf0000cucgtovog65hv384gbfg"
+                  ],
+                  "Width": 720
+               },
+               "QualityType": 14
+            },
+            {
+               "Bitrate": 513209,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_540_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 90.836, \\\"v960\\\": 94.72, \\\"v864\\\": 95.381, \\\"v720\\\": 96.574}, \\\"ori\\\": {\\\"v1080\\\": 79.741, \\\"v960\\\": 83.453, \\\"v864\\\": 85.276, \\\"v720\\\": 89.303}}}\"",
+               "PlayAddr": {
+                  "DataSize": 4074047,
+                  "FileCs": "c:0-53937-92ac",
+                  "FileHash": "697e19b7da90bc4f294e18c5b214aba5",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cucgtovog65hv384gbfg",
+                  "UrlKey": "v15044gf0000cucgtovog65hv384gbfg_bytevc1_540p_513209",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oQ3MGeHHIIgqRjSt4APALC0kgfjhAig8pIpPEe/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1002&bt=501&cs=2&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=11&rc=O2VmaTRoPDlmaWdmN2Y1M0BpamU3Nms5cnJqeDMzaTczNEBiNl4yMGM1NWExXzAxLWNjYSNjZDVzMmRzcWBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=272a84ae322601c369b0b1ba5c728916&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oQ3MGeHHIIgqRjSt4APALC0kgfjhAig8pIpPEe/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1002&bt=501&cs=2&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=11&rc=O2VmaTRoPDlmaWdmN2Y1M0BpamU3Nms5cnJqeDMzaTczNEBiNl4yMGM1NWExXzAxLWNjYSNjZDVzMmRzcWBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=272a84ae322601c369b0b1ba5c728916&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=f0f20c443cbd4fdc8689fe315fac9be8&is_play_url=1&item_id=7465016535061450015&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmI2ZmFlODk5ZDBkOWZjOGY5NjZiMGI4Y2MxYjliODlm&tk=tt_chain_token&video_id=v15044gf0000cucgtovog65hv384gbfg"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 28
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": true,
+            "hasOriginalAudio": true,
+            "noCaptionReason": 3
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oM1IeehZLACjGIAIAfoIAhEqDIMLED50Pp6HAC?lk3s=81f88b70&x-expires=1739548800&x-signature=T6cJGPUHe65VhGR54kJizg%2BZvw8%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oAe3HgqGPCEHtmgLITehxAQ4IIEZeMTA0jIVOH/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2572&bt=1286&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=MzlnZDhpPDY6ZWZpNjozNUBpamU3Nms5cnJqeDMzaTczNEAwMV5fYTQxX2ExY2IzNi4zYSNjZDVzMmRzcWBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=c158f2afda8148d3626cebd5239e3771&tk=tt_chain_token",
+         "duration": 63,
+         "dynamicCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oM1IeehZLACjGIAIAfoIAhEqDIMLED50Pp6HAC?lk3s=81f88b70&x-expires=1739548800&x-signature=enjKFfQGvQUkz5wKuQpF2G25pww%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7465016535061450015",
+         "originCover": "https://p19-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oY8fQF7VAUQRVDjWIfEEj8rCSxEEmnvVAABZIa?lk3s=81f88b70&x-expires=1739548800&x-signature=vZzb9YvAUOIcCPAUMRLb0yTa3Z4%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEIZEQEyRECmAbDn8FG0fWLaf7jEjEIAVQQVBC/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2264&bt=1132&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=NjNpZmVnZDs4NDY0OGQ1NkBpamU3Nms5cnJqeDMzaTczNEAxLTJjM2NhXy4xNjQuYy00YSNjZDVzMmRzcWBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552241&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=e47c89b57de627ed9a9bdcb1f0694c0c&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -10,
+            "Peak": 0.8414
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oM1IeehZLACjGIAIAfoIAhEqDIMLED50Pp6HAC~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=LiZE%2FMi%2FlyIVerveweWe1NQ0s%2FI%3D&shp=81f88b70&shcp=-",
+            "480": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oM1IeehZLACjGIAIAfoIAhEqDIMLED50Pp6HAC~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=PTWR4tamOOFlFQWEFwtXUhXL2uc%3D&shp=81f88b70&shcp=-",
+            "720": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oM1IeehZLACjGIAIAfoIAhEqDIMLED50Pp6HAC~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=FmqtjFCB5%2FBx29mFH7%2FopihYKKM%3D&shp=81f88b70&shcp=-",
+            "960": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oM1IeehZLACjGIAIAfoIAhEqDIMLED50Pp6HAC~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=QiSSe7JhIwJCFs84P9tVmLEzMoo%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "collectTime": 1739379396
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "anchors": [
+         {
+            "description": "CapCut \u00b7 Video Editor",
+            "extraInfo": {
+               "subtype": ""
+            },
+            "icon": {
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=81f88b70&shcp=-"
+               ]
+            },
+            "id": "0",
+            "keyword": "CapCut \u00b7 Editing made easy",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut \u00b7 Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+               "height": 64,
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=81f88b70&shcp=-"
+               ],
+               "width": 64
+            },
+            "type": 54
+         }
+      ],
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "Tr\u1ea3 l\u1eddi @gurungsanam1 dollar origami letter U",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 21,
+                  "hashtagName": "",
+                  "isCommerce": false,
+                  "secUid": "MS4wLjABAAAA5R6Cbi1Ax3esvAc0h1kb9QmYu2Vh0yvhUYFPLbHHhFiiXKbjJGjpPWICpJ0nC7Jj",
+                  "start": 8,
+                  "subType": 2,
+                  "type": 0,
+                  "userId": "6952056380439626754",
+                  "userUniqueId": "gurungsanam1"
+               }
+            ]
+         },
+         {
+            "desc": "#origami #dollarorigami #phongtranorigami #moneyorigami #easyorigami #howtofold ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 23,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 41,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 24,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 55,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 42,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 56,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1737736114,
+      "desc": "Tr\u1ea3 l\u1eddi @gurungsanam1 dollar origami letter U #origami #dollarorigami #phongtranorigami #moneyorigami #easyorigami #howtofold ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7463519507345198366",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "album": "ChuChu TV Nursery Rhymes, Vol. 3",
+         "authorName": "ChuChu TV",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/oASvKnABfCBNAgDwtnjPp4EgyFZAyTHAzQEEBf.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/oASvKnABfCBNAgDwtnjPp4EgyFZAyTHAzQEEBf.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oASvKnABfCBNAgDwtnjPp4EgyFZAyTHAzQEEBf.jpeg",
+         "duration": 60,
+         "id": "6777002518967748609",
+         "isCopyrighted": true,
+         "original": false,
+         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ogi1MoGv5ngIhdWseKpzZOiUPkYBQBwABi23PA",
+         "title": "Abcd Alphabet Song"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "playlistId": "7463561180377516831",
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 133,
+         "commentCount": 38,
+         "diggCount": 858,
+         "playCount": 49600,
+         "shareCount": 19
+      },
+      "statsV2": {
+         "collectCount": "133",
+         "commentCount": "38",
+         "diggCount": "858",
+         "playCount": "49600",
+         "repostCount": "0",
+         "shareCount": "19"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 21,
+            "hashtagName": "",
+            "isCommerce": false,
+            "secUid": "MS4wLjABAAAA5R6Cbi1Ax3esvAc0h1kb9QmYu2Vh0yvhUYFPLbHHhFiiXKbjJGjpPWICpJ0nC7Jj",
+            "start": 8,
+            "subType": 2,
+            "type": 0,
+            "userId": "6952056380439626754",
+            "userUniqueId": "gurungsanam1"
+         },
+         {
+            "awemeId": "",
+            "end": 54,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 46,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 69,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 55,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 87,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 70,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 101,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 88,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 114,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 102,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 125,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 115,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "68.78",
+         "bitrate": 1158203,
+         "bitrateInfo": [
+            {
+               "Bitrate": 1158203,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 91.484, \\\"v960\\\": 93.807, \\\"v864\\\": 94.347, \\\"v720\\\": 96.921}, \\\"ori\\\": {\\\"v1080\\\": 79.544, \\\"v960\\\": 82.957, \\\"v864\\\": 85.688, \\\"v720\\\": 89.867}}}\"",
+               "PlayAddr": {
+                  "DataSize": 8881682,
+                  "FileCs": "c:0-51921-5f62",
+                  "FileHash": "109b20662a2df893a05cd1281de9860c",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cu9rt8vog65qvbsudhfg",
+                  "UrlKey": "v15044gf0000cu9rt8vog65qvbsudhfg_h264_540p_1158203",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o88bQeXNe8qH4FmTIgMAI1JXj1PAvCGIQ3Qe8M/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2262&bt=1131&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZDRnPGc4NTRkZjQ0OjtpN0Bpamt4ZXQ5cjt1eDMzaTczNEAxMDYyYDM1NjExLi4uYjM2YSNjYXBzMmRzcTZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=d2a0826ffd9da0d6013dd8e1d7d36e1e&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o88bQeXNe8qH4FmTIgMAI1JXj1PAvCGIQ3Qe8M/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2262&bt=1131&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZDRnPGc4NTRkZjQ0OjtpN0Bpamt4ZXQ5cjt1eDMzaTczNEAxMDYyYDM1NjExLi4uYjM2YSNjYXBzMmRzcTZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=d2a0826ffd9da0d6013dd8e1d7d36e1e&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=946fe81711114c4a918265cd599d314a&is_play_url=1&item_id=7463519507345198366&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQzMTg3MTU2ZGRjZGE5NmZmOGE5ZTI5ZDljOGY0N2Qw&tk=tt_chain_token&video_id=v15044gf0000cu9rt8vog65qvbsudhfg"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": false,
+            "hasOriginalAudio": false,
+            "noCaptionReason": 2
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oAAA3gAbOoPAU5rf0fIIELJIjIxGHA8qcQeJc1?lk3s=81f88b70&x-expires=1739548800&x-signature=8ZWfCaLwwtNJOfm1APqs7HW1kKI%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oQPTHiAJeAIAC1a9QGjPf8CfvIIqLIpN63JEar/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2576&bt=1288&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=OTw8OjxlOTtlaDRnMzNpNUBpamt4ZXQ5cjt1eDMzaTczNEAxMS9iNC40NWMxNTMwXzMyYSNjYXBzMmRzcTZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=d59867bede35a81690e05f68adefe876&tk=tt_chain_token",
+         "duration": 61,
+         "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oAAA3gAbOoPAU5rf0fIIELJIjIxGHA8qcQeJc1?lk3s=81f88b70&x-expires=1739548800&x-signature=8ZWfCaLwwtNJOfm1APqs7HW1kKI%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7463519507345198366",
+         "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/o03PCT0JIH7LNSvA7A1IJf6Fj1fPGIBrIeTIiq?lk3s=81f88b70&x-expires=1739548800&x-signature=ItrELRLPYi7WW2nD4kaMCPeGxvk%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o88bQeXNe8qH4FmTIgMAI1JXj1PAvCGIQ3Qe8M/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2262&bt=1131&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZDRnPGc4NTRkZjQ0OjtpN0Bpamt4ZXQ5cjt1eDMzaTczNEAxMDYyYDM1NjExLi4uYjM2YSNjYXBzMmRzcTZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=d2a0826ffd9da0d6013dd8e1d7d36e1e&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -13.1,
+            "Peak": 0.60954
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oAAA3gAbOoPAU5rf0fIIELJIjIxGHA8qcQeJc1~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=EI47%2BgTTg8RoB5MFCWIxL0BNeV8%3D&shp=81f88b70&shcp=-",
+            "480": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oAAA3gAbOoPAU5rf0fIIELJIjIxGHA8qcQeJc1~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=6UzLlOpaKwYXIB2yaEZOGFml9RU%3D&shp=81f88b70&shcp=-",
+            "720": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oAAA3gAbOoPAU5rf0fIIELJIjIxGHA8qcQeJc1~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=%2FOi0QXHnx6NTm0PYJcKlawX6nGw%3D&shp=81f88b70&shcp=-",
+            "960": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oAAA3gAbOoPAU5rf0fIIELJIjIxGHA8qcQeJc1~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=8M3Sxo3qw2ULjl9jjK%2FcOGShmjY%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "videoSuggestWordsList": {
+         "video_suggest_words_struct": [
+            {
+               "hint_text": "Search \u00b7 ",
+               "scene": "feed_bar",
+               "words": [
+                  {
+                     "word": "Ngh\u1ec7 Thu\u1eadt G\u1ea5p Gi\u1ea5y Origami",
+                     "word_id": "529603815191928695"
+                  }
+               ]
+            }
+         ]
+      },
+      "collectTime": 1739379400
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "anchors": [
+         {
+            "description": "CapCut \u00b7 Video Editor",
+            "extraInfo": {
+               "subtype": ""
+            },
+            "icon": {
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=81f88b70&shcp=-"
+               ]
+            },
+            "id": "0",
+            "keyword": "CapCut \u00b7 Editing made easy",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut \u00b7 Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+               "height": 64,
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=81f88b70&shcp=-"
+               ],
+               "width": 64
+            },
+            "type": 54
+         }
+      ],
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "dollar origami shorts"
+         },
+         {
+            "desc": "#origami #dollarorigami #phongtranorigami #moneyorigami #howtofold #easyorigami ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 23,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 41,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 24,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 55,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 42,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 66,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 56,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 67,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1737646129,
+      "desc": "dollar origami shorts #origami #dollarorigami #phongtranorigami #moneyorigami #howtofold #easyorigami ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7463133221211917598",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "album": "All Eyes On Me - Instrumental",
+         "authorName": "Dj Belite",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/352229809d50433fa19cdca9c06580bf.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/352229809d50433fa19cdca9c06580bf.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/352229809d50433fa19cdca9c06580bf.jpeg",
+         "duration": 60,
+         "id": "7182781797455890434",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ow6evlIIno19WcP6CW8dQuZIPBbkjqBQDegCtr",
+         "title": "All Eyes On Me - Instrumental"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 7982,
+         "commentCount": 223,
+         "diggCount": 40800,
+         "playCount": 3800000,
+         "shareCount": 2963
+      },
+      "statsV2": {
+         "collectCount": "7982",
+         "commentCount": "223",
+         "diggCount": "40800",
+         "playCount": "3800000",
+         "repostCount": "0",
+         "shareCount": "2963"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 30,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 22,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 45,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 31,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 63,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 46,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 77,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 64,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 88,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 78,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 101,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 89,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "66.99",
+         "bitrate": 1022577,
+         "bitrateInfo": [
+            {
+               "Bitrate": 1022577,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 91.496, \\\"v960\\\": 94.128, \\\"v864\\\": 95.603, \\\"v720\\\": 97.554}, \\\"ori\\\": {\\\"v1080\\\": 80.305, \\\"v960\\\": 83.704, \\\"v864\\\": 86.61, \\\"v720\\\": 90.374}}}\"",
+               "PlayAddr": {
+                  "DataSize": 7898005,
+                  "FileCs": "c:0-52325-3d5a",
+                  "FileHash": "328ac487e487c42465786553a8c1ddf0",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cu95v8nog65odog5t4p0",
+                  "UrlKey": "v15044gf0000cu95v8nog65odog5t4p0_h264_540p_1022577",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ok3eMuDiIFAeEwCJyQEqiYIHIwLafjCSPEECAk/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1996&bt=998&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=aTk1M2lpNTVnZ2c3Z2U4OUBpMzc4cnI5cjs4eDMzaTczNEBfYGMwYl9hXmAxXjUvYWI2YSNtcWRhMmRrczZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=06a720577ac9e38ca0189c28b293e842&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ok3eMuDiIFAeEwCJyQEqiYIHIwLafjCSPEECAk/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1996&bt=998&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=aTk1M2lpNTVnZ2c3Z2U4OUBpMzc4cnI5cjs4eDMzaTczNEBfYGMwYl9hXmAxXjUvYWI2YSNtcWRhMmRrczZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=06a720577ac9e38ca0189c28b293e842&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=96e5db2d84ad4dcda2d2bfef30f2c6bf&is_play_url=1&item_id=7463133221211917598&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjllNmJhZmM5ZDg1MTM0Yjc1MTg2MmE3NDNhYjBlNjBj&tk=tt_chain_token&video_id=v15044gf0000cu95v8nog65odog5t4p0"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            },
+            {
+               "Bitrate": 638510,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_lower_720_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 95.746, \\\"v960\\\": 97.635, \\\"v864\\\": 98.37, \\\"v720\\\": 99.075}, \\\"ori\\\": {\\\"v1080\\\": 85.39, \\\"v960\\\": 87.909, \\\"v864\\\": 89.751, \\\"v720\\\": 93.472}}}\"",
+               "PlayAddr": {
+                  "DataSize": 4931616,
+                  "FileCs": "c:0-52585-481a",
+                  "FileHash": "6a3e026cfcd0a0aa1aa4ec26587faab4",
+                  "Height": 1280,
+                  "Uri": "v15044gf0000cu95v8nog65odog5t4p0",
+                  "UrlKey": "v15044gf0000cu95v8nog65odog5t4p0_bytevc1_720p_638510",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o4CIemDWFEkiJYSNtjMyACeI3wCIEqQfAPLEUE/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1246&bt=623&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=NTZmZjRkODRnOWZmPDM0aUBpMzc4cnI5cjs4eDMzaTczNEBhLWI0Xy8uXi4xMDMuYDAuYSNtcWRhMmRrczZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=7bb096400d01f27c1bf8ea1fc4fcee84&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o4CIemDWFEkiJYSNtjMyACeI3wCIEqQfAPLEUE/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1246&bt=623&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=NTZmZjRkODRnOWZmPDM0aUBpMzc4cnI5cjs4eDMzaTczNEBhLWI0Xy8uXi4xMDMuYDAuYSNtcWRhMmRrczZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=7bb096400d01f27c1bf8ea1fc4fcee84&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1f31c0196c3c461da1152ab17cec03d2&is_play_url=1&item_id=7463133221211917598&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmM0NzJlMjkyYzVlNGI1ZmZmM2UxM2Q0NmI1ZmRiZmQ5&tk=tt_chain_token&video_id=v15044gf0000cu95v8nog65odog5t4p0"
+                  ],
+                  "Width": 720
+               },
+               "QualityType": 14
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": true,
+            "hasOriginalAudio": true,
+            "noCaptionReason": 3
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oEDSmqKiICeJCEEADfjYICwIzeryLAkEA3A8FP?lk3s=81f88b70&x-expires=1739548800&x-signature=npSQIhVdTyDbYaaPkwB9wquYZFA%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oUYLPIEweQDeACAiI0OICRESyqFDjJkEjIw3fu/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2312&bt=1156&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=NjxpOjs5NTw1aTg3aTc7OkBpMzc4cnI5cjs4eDMzaTczNEA1YWE2LWE0Xi8xNmAwLi40YSNtcWRhMmRrczZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=5229ad536e554725f846406da8766631&tk=tt_chain_token",
+         "duration": 61,
+         "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oYPvqqS3iCkILAFjwIeIEDMBCJICAJfybeYDEy?lk3s=81f88b70&x-expires=1739548800&x-signature=17MqZcDNOG6TmU64FNxCkXGNrxs%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7463133221211917598",
+         "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/owLCw9ifySbPFIAwQeDkjYJDAEwIqPBE3CJNQe?lk3s=81f88b70&x-expires=1739548800&x-signature=vf5qkmw7c1955aokjLpah%2BB4M4A%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ok3eMuDiIFAeEwCJyQEqiYIHIwLafjCSPEECAk/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1996&bt=998&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=aTk1M2lpNTVnZ2c3Z2U4OUBpMzc4cnI5cjs4eDMzaTczNEBfYGMwYl9hXmAxXjUvYWI2YSNtcWRhMmRrczZgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=06a720577ac9e38ca0189c28b293e842&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -13.1,
+            "Peak": 0.75858
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEDSmqKiICeJCEEADfjYICwIzeryLAkEA3A8FP~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=69RSVe%2FLzhjLW5HVlvrSck%2BwG70%3D&shp=81f88b70&shcp=-",
+            "480": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEDSmqKiICeJCEEADfjYICwIzeryLAkEA3A8FP~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=z0Y2z5EVU%2BtOrTiL2TWahqJR%2FpQ%3D&shp=81f88b70&shcp=-",
+            "720": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEDSmqKiICeJCEEADfjYICwIzeryLAkEA3A8FP~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=Vuz76LvWhEZMgt%2BuyZus5tgWTRo%3D&shp=81f88b70&shcp=-",
+            "960": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEDSmqKiICeJCEEADfjYICwIzeryLAkEA3A8FP~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=2TXJqTkkyEA4B0GisHNIJPW1KdY%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "collectTime": 1739379403
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "anchors": [
+         {
+            "description": "CapCut \u00b7 Video Editor",
+            "extraInfo": {
+               "subtype": ""
+            },
+            "icon": {
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=81f88b70&shcp=-"
+               ]
+            },
+            "id": "0",
+            "keyword": "CapCut \u00b7 Editing made easy",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut \u00b7 Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+               "height": 64,
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=81f88b70&shcp=-"
+               ],
+               "width": 64
+            },
+            "type": 54
+         }
+      ],
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "dollar origami easy sword"
+         },
+         {
+            "desc": "#origami #dollarorigami #phongtranorigami #moneyorigami #easyorigami #howtofold ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 23,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 41,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 24,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 55,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 42,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 56,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1737022343,
+      "desc": "dollar origami easy sword #origami #dollarorigami #phongtranorigami #moneyorigami #easyorigami #howtofold ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7460453893919591711",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "authorName": "the_phonkface",
+         "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2bd7044731566395f02264b04d59d9f5~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=21910&refresh_token=80d01015b6a5dda4ed05f31c909766d2&x-expires=1739548800&x-signature=YusrNDIHSYWAZHycAw5DOYfrGO8%3D&shp=a5d48078&shcp=81f88b70",
+         "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2bd7044731566395f02264b04d59d9f5~c5_720x720.jpeg?lk3s=a5d48078&nonce=87099&refresh_token=04847dd253be3790b0bb864431bbbc83&x-expires=1739548800&x-signature=8lji8lL3Dlx24SDsIaveTVDynwc%3D&shp=a5d48078&shcp=81f88b70",
+         "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2bd7044731566395f02264b04d59d9f5~c5_100x100.jpeg?lk3s=a5d48078&nonce=9873&refresh_token=fbbc60076c6dadb8503fcd9673e20152&x-expires=1739548800&x-signature=yk%2BvOFr9v9UG1Db9y8mH84FrFTg%3D&shp=a5d48078&shcp=81f88b70",
+         "duration": 62,
+         "id": "7349983496238041888",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://v77.tiktokcdn.com/c85d1348e02e14b47ad7a570f29bf5e3/67ae2470/video/tos/useast2a/tos-useast2a-v-2370-euttp/oIxU2fGAfQXJDsOMPHgECPBPYDAFIoRRmHMSVE/?a=1180&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7ThAvFjOXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZjY7OzY5NTZoZ2ZnZThmN0BpMzppbGo5cjY5cjMzZjU8M0AuMjYvNi9iNTYxYS81LjAuYSNvcjExMmRzMy1gLS1kMWNzcw%3D%3D&vvpl=1&l=202502130056186C8CDD3B024264158275&btag=e00090000&cc=13",
+         "title": "Originalton"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 9352,
+         "commentCount": 470,
+         "diggCount": 34800,
+         "playCount": 3300000,
+         "shareCount": 2704
+      },
+      "statsV2": {
+         "collectCount": "9352",
+         "commentCount": "470",
+         "diggCount": "34800",
+         "playCount": "3300000",
+         "repostCount": "0",
+         "shareCount": "2704"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 34,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 26,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 49,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 35,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 67,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 50,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 81,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 68,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 94,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 82,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 105,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 95,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "67.85",
+         "bitrate": 1161347,
+         "bitrateInfo": [
+            {
+               "Bitrate": 1161347,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 91.57, \\\"v960\\\": 94.058, \\\"v864\\\": 95.606, \\\"v720\\\": 97.071}, \\\"ori\\\": {\\\"v1080\\\": 80.319, \\\"v960\\\": 84.333, \\\"v864\\\": 86.033, \\\"v720\\\": 90.439}}}\"",
+               "PlayAddr": {
+                  "DataSize": 9054009,
+                  "FileCs": "c:0-52781-b576",
+                  "FileHash": "85a1bf5e93b019527a1db56eee5a1731",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cu4dffnog65srgkdgevg",
+                  "UrlKey": "v15044gf0000cu4dffnog65srgkdgevg_h264_540p_1161347",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEIoIPwImCaIqAjF5GEAmFEI92DldEQduffe5q/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2268&bt=1134&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZDtpOmY3ZzY7PDY4ZTk5OEBpamhnanY5cmlneDMzaTczNEBfNDVfMWEzNi4xMDY0MmIuYSNzZGhvMmRrYzFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552240&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=a8d902e047da4adc60802abb9965c063&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEIoIPwImCaIqAjF5GEAmFEI92DldEQduffe5q/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2268&bt=1134&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZDtpOmY3ZzY7PDY4ZTk5OEBpamhnanY5cmlneDMzaTczNEBfNDVfMWEzNi4xMDY0MmIuYSNzZGhvMmRrYzFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552240&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=a8d902e047da4adc60802abb9965c063&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=15e6567b95334918936dd44cb78f78ba&is_play_url=1&item_id=7460453893919591711&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjI3YjI2NDFhMjNjZDA3MTJmNjA3OWY2MWY2NTE2Yjc4&tk=tt_chain_token&video_id=v15044gf0000cu4dffnog65srgkdgevg"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            },
+            {
+               "Bitrate": 541245,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_lower_720_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 94.877, \\\"v960\\\": 97.248, \\\"v864\\\": 97.452, \\\"v720\\\": 99.08}, \\\"ori\\\": {\\\"v1080\\\": 84.551, \\\"v960\\\": 87.257, \\\"v864\\\": 89.365, \\\"v720\\\": 92.594}}}\"",
+               "PlayAddr": {
+                  "DataSize": 4219615,
+                  "FileCs": "c:0-53009-73bf",
+                  "FileHash": "83114b81617d84d23c4a2aa5fe558562",
+                  "Height": 1280,
+                  "Uri": "v15044gf0000cu4dffnog65srgkdgevg",
+                  "UrlKey": "v15044gf0000cu4dffnog65srgkdgevg_bytevc1_720p_541245",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oYd53PBifACXQFDeIKiI9uEAGFjsaEKEwqEIIf/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1056&bt=528&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=ZzxnNjw6ZDRnNWRoM2k3NUBpamhnanY5cmlneDMzaTczNEBgX2JiMDM2XjExLjNjLzRfYSNzZGhvMmRrYzFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552240&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=48abcaf0d3ca0211a36472367926623e&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oYd53PBifACXQFDeIKiI9uEAGFjsaEKEwqEIIf/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1056&bt=528&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=ZzxnNjw6ZDRnNWRoM2k3NUBpamhnanY5cmlneDMzaTczNEBgX2JiMDM2XjExLjNjLzRfYSNzZGhvMmRrYzFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552240&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=48abcaf0d3ca0211a36472367926623e&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=b2742ff06e1a424da19a6739e3edb9cd&is_play_url=1&item_id=7460453893919591711&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjA0ZjgzM2U0MjlmMGZmZTYyNWRlZTdlZDE3MzQ0MjE2&tk=tt_chain_token&video_id=v15044gf0000cu4dffnog65srgkdgevg"
+                  ],
+                  "Width": 720
+               },
+               "QualityType": 14
+            },
+            {
+               "Bitrate": 460768,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_540_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 92.106, \\\"v960\\\": 95.653, \\\"v864\\\": 97.294, \\\"v720\\\": 98.269}, \\\"ori\\\": {\\\"v1080\\\": 80.396, \\\"v960\\\": 84.082, \\\"v864\\\": 85.413, \\\"v720\\\": 89.07}}}\"",
+               "PlayAddr": {
+                  "DataSize": 3592211,
+                  "FileCs": "c:0-53009-a7ea",
+                  "FileHash": "34f013b27c89032827e424325c3ce4a6",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cu4dffnog65srgkdgevg",
+                  "UrlKey": "v15044gf0000cu4dffnog65srgkdgevg_bytevc1_540p_460768",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/og1e95QfIEdGKoDIa3PIIDHCEEdFqwbfAAuFSj/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=898&bt=449&cs=2&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=11&rc=ODM2Z2Q5NTo0aDw5OzlmZEBpamhnanY5cmlneDMzaTczNEBfMTJiLjQtXzQxLV81X2NeYSNzZGhvMmRrYzFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552240&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=4c9b1312a6b8c2fa92e32ae9f11c0765&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/og1e95QfIEdGKoDIa3PIIDHCEEdFqwbfAAuFSj/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=898&bt=449&cs=2&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=11&rc=ODM2Z2Q5NTo0aDw5OzlmZEBpamhnanY5cmlneDMzaTczNEBfMTJiLjQtXzQxLV81X2NeYSNzZGhvMmRrYzFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552240&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=4c9b1312a6b8c2fa92e32ae9f11c0765&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=aafcb688b6094e71b702761aed5340b5&is_play_url=1&item_id=7460453893919591711&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjI0ODEyODZlNmNjZjI0NTY3MmJjMDVkNGQ5OTIwMTli&tk=tt_chain_token&video_id=v15044gf0000cu4dffnog65srgkdgevg"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 28
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": true,
+            "hasOriginalAudio": true,
+            "noCaptionReason": 3
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oEcKQlCPIAwg0Mj8eIfweE7AR90GELz9aqgtNI?lk3s=81f88b70&x-expires=1739548800&x-signature=7Y%2FHwXB9gEp8DIJCGF88N4vVSos%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ooOIwuFEdIDse5QA9fwAfFEuPIESjDGIqJ5a2C/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2564&bt=1282&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZjkzZzwzZzUzMzMzOTs2NEBpamhnanY5cmlneDMzaTczNEBjLV9gMDAvXi4xMzU2YWM1YSNzZGhvMmRrYzFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552240&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=8885d596bcc487dfdbc4a20dfb292d30&tk=tt_chain_token",
+         "duration": 62,
+         "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/o4jIgqLE7QGW9zEA9eeAeKIcPIQkjhNIqL4a2C?lk3s=81f88b70&x-expires=1739548800&x-signature=Uet3QyYPt7puh9CFbxYtT7UP%2B2s%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7460453893919591711",
+         "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oM4aVDEQIAqeudBI5I2EPw9KlI2jAxFGPICFff?lk3s=81f88b70&x-expires=1739548800&x-signature=6MymzWoDkpXiMyNz7VN4atyo85U%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEIoIPwImCaIqAjF5GEAmFEI92DldEQduffe5q/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2268&bt=1134&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZDtpOmY3ZzY7PDY4ZTk5OEBpamhnanY5cmlneDMzaTczNEBfNDVfMWEzNi4xMDY0MmIuYSNzZGhvMmRrYzFgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552240&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=a8d902e047da4adc60802abb9965c063&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -13,
+            "Peak": 0.79433
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEcKQlCPIAwg0Mj8eIfweE7AR90GELz9aqgtNI~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=HMvWszjfy%2F12L33lmadnnccx09w%3D&shp=81f88b70&shcp=-",
+            "480": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEcKQlCPIAwg0Mj8eIfweE7AR90GELz9aqgtNI~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=VBwkA%2BRgdIlfe2ToMfHsLZzwZjw%3D&shp=81f88b70&shcp=-",
+            "720": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEcKQlCPIAwg0Mj8eIfweE7AR90GELz9aqgtNI~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=os0%2BmrsAt77jX6BYFunnHnBVJWw%3D&shp=81f88b70&shcp=-",
+            "960": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEcKQlCPIAwg0Mj8eIfweE7AR90GELz9aqgtNI~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=p0YTWQvdCByV5oSnMEUT6sR537o%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "videoSuggestWordsList": {
+         "video_suggest_words_struct": [
+            {
+               "hint_text": "Search \u00b7 ",
+               "scene": "feed_bar",
+               "words": [
+                  {
+                     "word": "Ngh\u1ec7 Thu\u1eadt G\u1ea5p Gi\u1ea5y Origami",
+                     "word_id": "529603815191928695"
+                  }
+               ]
+            }
+         ]
+      },
+      "collectTime": 1739379406
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "anchors": [
+         {
+            "description": "CapCut \u00b7 Video Editor",
+            "extraInfo": {
+               "subtype": ""
+            },
+            "icon": {
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=81f88b70&shcp=-"
+               ]
+            },
+            "id": "0",
+            "keyword": "CapCut \u00b7 Editing made easy",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut \u00b7 Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+               "height": 64,
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=81f88b70&shcp=-"
+               ],
+               "width": 64
+            },
+            "type": 54
+         }
+      ],
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "dollar origami arrows indicate direction"
+         },
+         {
+            "desc": "#origami #dollarorigami #phongtranorigami #moneyorigami #howtofold #easyorigami ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 23,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 41,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 24,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 55,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 42,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 66,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 56,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 67,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1736944958,
+      "desc": "dollar origami arrows indicate direction #origami #dollarorigami #phongtranorigami #moneyorigami #howtofold #easyorigami ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7460121740132257054",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "authorName": "ALONE IS BETTER",
+         "coverLarge": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/b32f42e6fd8fa230d0a4044dde4c240a.jpeg?lk3s=a5d48078&nonce=31850&refresh_token=6bbe430cb4fc57dbf4a3b661d1856892&x-expires=1739548800&x-signature=3ynIunJcbBlZbdvsGHi5BHdgCc0%3D&shp=a5d48078&shcp=81f88b70",
+         "coverMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/b32f42e6fd8fa230d0a4044dde4c240a.jpeg?lk3s=a5d48078&nonce=56702&refresh_token=9f8f568abd34e11ca68cd8905bb0c178&x-expires=1739548800&x-signature=7nMns%2FtHuHnS6hec4OWfcgXxjwk%3D&shp=a5d48078&shcp=81f88b70",
+         "coverThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/b32f42e6fd8fa230d0a4044dde4c240a.jpeg?lk3s=a5d48078&nonce=12898&refresh_token=f1bbdd31449e43b371b9581cf831d5ed&x-expires=1739548800&x-signature=Y%2Ffc3r98du3V%2BLX6WYfsPFAh%2BNQ%3D&shp=a5d48078&shcp=81f88b70",
+         "duration": 60,
+         "id": "7191706646124088065",
+         "isCopyrighted": true,
+         "original": false,
+         "playUrl": "https://v77.tiktokcdn.com/70b563ba68aea0c8a6f95010eb1d95de/67ae246e/video/tos/alisg/tos-alisg-v-27dcd7/ocnO9DCdMoJzoeeULQrb2ghldClaBJgIcjQhCB/?a=1180&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7ThAvFjOXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZDk5aGY1aWZkNDxlO2g4NkBpajgzNDQ6ZmQ0aTMzODU8NEA0Ni1iMGEwNS8xYl9eNWIvYSNqL24vcjQwMzRgLS1kMS1zcw%3D%3D&vvpl=1&l=202502130056186C8CDD3B024264158275&btag=e00090000&cc=13",
+         "title": "MY LOVE"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 91,
+         "commentCount": 18,
+         "diggCount": 513,
+         "playCount": 41800,
+         "shareCount": 39
+      },
+      "statsV2": {
+         "collectCount": "91",
+         "commentCount": "18",
+         "diggCount": "513",
+         "playCount": "41800",
+         "repostCount": "0",
+         "shareCount": "39"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 49,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 41,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 64,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 50,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 82,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 65,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 96,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 83,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 107,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 97,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 120,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 108,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "68.52",
+         "bitrate": 991856,
+         "bitrateInfo": [
+            {
+               "Bitrate": 991856,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 90.847, \\\"v960\\\": 92.413, \\\"v864\\\": 94.641, \\\"v720\\\": 96.257}, \\\"ori\\\": {\\\"v1080\\\": 79.325, \\\"v960\\\": 82.889, \\\"v864\\\": 84.756, \\\"v720\\\": 89.577}}}\"",
+               "PlayAddr": {
+                  "DataSize": 7594520,
+                  "FileCs": "c:0-51849-6bf0",
+                  "FileHash": "5f03cc36ffb752cc83bf83ec35c87cc4",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cu3qp5fog65tcf6kcg4g",
+                  "UrlKey": "v15044gf0000cu3qp5fog65tcf6kcg4g_h264_540p_991856",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o8ZKZ9QJIiQ181Hi9rzCHBUAwEJ8qGPfAAYiiI/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1936&bt=968&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=aWQ2NWQ7aDRlNzMzNjc1NkBpampuaXc5cjh0eDMzaTczNEBeXy5jL180XjQxMF5gNi0zYSMxYDNgMmRjbTBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=ee1f3412ae8423876643e8ca5e5459a0&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o8ZKZ9QJIiQ181Hi9rzCHBUAwEJ8qGPfAAYiiI/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1936&bt=968&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=aWQ2NWQ7aDRlNzMzNjc1NkBpampuaXc5cjh0eDMzaTczNEBeXy5jL180XjQxMF5gNi0zYSMxYDNgMmRjbTBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=ee1f3412ae8423876643e8ca5e5459a0&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=630294c3a030447ba17eb82af213baaf&is_play_url=1&item_id=7460121740132257054&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmRjZDc2MDA0ZmQwMGU4ZWQxM2Y0ZWMwZTBlNzRjNzg2&tk=tt_chain_token&video_id=v15044gf0000cu3qp5fog65tcf6kcg4g"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            },
+            {
+               "Bitrate": 494978,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_lower_720_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 95.366, \\\"v960\\\": 97.123, \\\"v864\\\": 98.268, \\\"v720\\\": 99.183}, \\\"ori\\\": {\\\"v1080\\\": 86.102, \\\"v960\\\": 88.329, \\\"v864\\\": 90.34, \\\"v720\\\": 93.132}}}\"",
+               "PlayAddr": {
+                  "DataSize": 3789986,
+                  "FileCs": "c:0-52153-2c58",
+                  "FileHash": "e024c28f1134754072f71d985e44b255",
+                  "Height": 1280,
+                  "Uri": "v15044gf0000cu3qp5fog65tcf6kcg4g",
+                  "UrlKey": "v15044gf0000cu3qp5fog65tcf6kcg4g_bytevc1_720p_494978",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEx5Q4BnEAOIesRSHEGLfggAPVZDhF6y6VMXqE/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=966&bt=483&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=ZTpoMzppOmk1ZzU3N2Q6NEBpampuaXc5cjh0eDMzaTczNEBeYDQzLmJfNWIxLTRjMTYxYSMxYDNgMmRjbTBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=36a106a76db5d572ecb32f99ddc45843&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oEx5Q4BnEAOIesRSHEGLfggAPVZDhF6y6VMXqE/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=966&bt=483&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=ZTpoMzppOmk1ZzU3N2Q6NEBpampuaXc5cjh0eDMzaTczNEBeYDQzLmJfNWIxLTRjMTYxYSMxYDNgMmRjbTBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=36a106a76db5d572ecb32f99ddc45843&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=41974af474024de28fb7ef17607ec7ab&is_play_url=1&item_id=7460121740132257054&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjg5MTNiODJkNWVkOWM5NzBiM2JmZDUwNjFhNzBlZDM5&tk=tt_chain_token&video_id=v15044gf0000cu3qp5fog65tcf6kcg4g"
+                  ],
+                  "Width": 720
+               },
+               "QualityType": 14
+            },
+            {
+               "Bitrate": 389484,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_540_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 91.738, \\\"v960\\\": 95.761, \\\"v864\\\": 96.511, \\\"v720\\\": 97.863}, \\\"ori\\\": {\\\"v1080\\\": 81.278, \\\"v960\\\": 84.55, \\\"v864\\\": 85.696, \\\"v720\\\": 89.94}}}\"",
+               "PlayAddr": {
+                  "DataSize": 2982234,
+                  "FileCs": "c:0-52093-b684",
+                  "FileHash": "1c6df4d668a357fec880caf563b6de9f",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cu3qp5fog65tcf6kcg4g",
+                  "UrlKey": "v15044gf0000cu3qp5fog65tcf6kcg4g_bytevc1_540p_389484",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/owERqpIP6Ee5sNDMBAfSFxAVgyQgFFXVE6hnXE/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=760&bt=380&cs=2&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=11&rc=Mzc5Ojo8ZTozZDM5O2U8NkBpampuaXc5cjh0eDMzaTczNEAtNWEwMS8vXl8xYmFjXjI0YSMxYDNgMmRjbTBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=547e0f1d60f0048ee4a6d31ab48e20e4&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/owERqpIP6Ee5sNDMBAfSFxAVgyQgFFXVE6hnXE/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=760&bt=380&cs=2&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=11&rc=Mzc5Ojo8ZTozZDM5O2U8NkBpampuaXc5cjh0eDMzaTczNEAtNWEwMS8vXl8xYmFjXjI0YSMxYDNgMmRjbTBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=547e0f1d60f0048ee4a6d31ab48e20e4&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=7359abf8d6e04ab0a72b294737d68400&is_play_url=1&item_id=7460121740132257054&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmEzZmFhNDU2ZGMxNTUyNDA0NTQzZjBjYWYwNzU1NWE5&tk=tt_chain_token&video_id=v15044gf0000cu3qp5fog65tcf6kcg4g"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 28
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": true,
+            "hasOriginalAudio": true,
+            "noCaptionReason": 3
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/owzyqlHYKAQE9AiI9iGI8TzA4wC1AcfCSZrBiJ?lk3s=81f88b70&x-expires=1739548800&x-signature=5hzjSPSHKqh6t%2BGY3mmu8XiCKEU%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oQjZIqJYKBAUr8IuW9i9iIzQ2CGAQAywE1f8Hi/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2234&bt=1117&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=PGlnNjg4aTg2Zzg7M2RpZEBpampuaXc5cjh0eDMzaTczNEAxYWBeLWM2XmIxMTEwXjA0YSMxYDNgMmRjbTBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=80ed8d6a512b63fcd505f8dd6b58440e&tk=tt_chain_token",
+         "duration": 61,
+         "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oUB8ni9BZIrwKiACQqAfC1gURGVJAIAYHzI9Ai?lk3s=81f88b70&x-expires=1739548800&x-signature=fA233rl2A1vxaMA9RcUsbifKQvw%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7460121740132257054",
+         "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oIiZUxTzwATGiQKAi989OIrAqCHfIs1mCYJAIB?lk3s=81f88b70&x-expires=1739548800&x-signature=wabLYFrhziMJlm1G1uOWkoIc5Nw%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o8ZKZ9QJIiQ181Hi9rzCHBUAwEJ8qGPfAAYiiI/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1936&bt=968&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=aWQ2NWQ7aDRlNzMzNjc1NkBpampuaXc5cjh0eDMzaTczNEBeXy5jL180XjQxMF5gNi0zYSMxYDNgMmRjbTBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552239&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=ee1f3412ae8423876643e8ca5e5459a0&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -12.1,
+            "Peak": 0.76736
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owzyqlHYKAQE9AiI9iGI8TzA4wC1AcfCSZrBiJ~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=JKDf%2BeWSxnRvtb7OzyQ8kgWmKts%3D&shp=81f88b70&shcp=-",
+            "480": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owzyqlHYKAQE9AiI9iGI8TzA4wC1AcfCSZrBiJ~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=pIhiIdv0Wwd2m5B4EYNBpJm3FI0%3D&shp=81f88b70&shcp=-",
+            "720": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owzyqlHYKAQE9AiI9iGI8TzA4wC1AcfCSZrBiJ~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=QAT5BdKMK1pT0vQOSkhwMUO%2BEI0%3D&shp=81f88b70&shcp=-",
+            "960": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/owzyqlHYKAQE9AiI9iGI8TzA4wC1AcfCSZrBiJ~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=eXT1OMfq9bzWPt1qYHSnfGTTgH0%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "videoSuggestWordsList": {
+         "video_suggest_words_struct": [
+            {
+               "hint_text": "Search \u00b7 ",
+               "scene": "feed_bar",
+               "words": [
+                  {
+                     "word": "Ngh\u1ec7 Thu\u1eadt G\u1ea5p Gi\u1ea5y Origami",
+                     "word_id": "529603815191928695"
+                  }
+               ]
+            }
+         ]
+      },
+      "collectTime": 1739379409
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 120,
+      "anchors": [
+         {
+            "description": "CapCut \u00b7 Video Editor",
+            "extraInfo": {
+               "subtype": ""
+            },
+            "icon": {
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/capcut_logo_64px_bk.png?shp=81f88b70&shcp=-"
+               ]
+            },
+            "id": "0",
+            "keyword": "CapCut \u00b7 Editing made easy",
+            "logExtra": "{\"anchor_id\":0,\"anchor_name\":\"CapCut \u00b7 Editing made easy\",\"anchor_title_detail\":\"None\",\"anchor_title_id\":21502485763,\"anchor_type\":\"TT_CAPCUT\",\"capability_key\":\"default\",\"if_race_trigger\":0,\"is_two_line\":0,\"landing_page_style_id\":21502486275,\"maker_source\":\"\",\"publish_key\":\"default\",\"template_id\":\"none\",\"tutorial_id\":\"none\",\"viamaker_anchor_capability_key_weight\":1,\"viamaker_anchor_style_idx\":-1,\"viamaker_anchor_style_source\":3,\"video_source\":1,\"video_type_id\":1}",
+            "schema": "https://www.capcut.com/editor?scenario=tiktok&utm_source=tiktok_anchor_tool&utm_medium=tiktok_anchor&utm_campaign=70361230",
+            "thumbnail": {
+               "height": 64,
+               "urlList": [
+                  "https://p9-sg.tiktokcdn.com/obj/tiktok-obj/64x_Capcut3x.png?shp=81f88b70&shcp=-"
+               ],
+               "width": 64
+            },
+            "type": 54
+         }
+      ],
+      "author": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=35818&refresh_token=9808bbd06794ff246a37f20d2f80b01d&x-expires=1739548800&x-signature=WONRxBJA8h6ejOH4e6sJeaaZylY%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=53630&refresh_token=f4c4c2f1b91739ba88ad5007141020be&x-expires=1739548800&x-signature=pydfhPF8QHBWMwhCiIBa3b7ThzM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ef117e80211dc8b95ce7455bc7eb8751~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=69111&refresh_token=1bda8a11212d65e7bd7fb8a5027e2b8a&x-expires=1739548800&x-signature=4LFLrZSuf1KAoJhVIIXj%2BudmjS0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "7166860322149073963",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Phong Tran Origami",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8KLXvGtPbt2IYaJmM-mjenJTyoAGCUggZwMsvGX7boEtpq2hVPPSkl3bVnj23mms",
+         "secret": false,
+         "signature": "Tutorial on Phong Tran Origami youtube channel\n\nDONATE\n\u2b07\ufe0f",
+         "stitchSetting": 0,
+         "uniqueId": "phongtranorigami",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 148,
+         "followerCount": 669700,
+         "followingCount": 777,
+         "friendCount": 0,
+         "heart": 7300000,
+         "heartCount": 7300000,
+         "videoCount": 35
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "O is for Origami",
+            "id": "35154",
+            "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/77faff2eb4483c3800d5febeb5ab18d4?shp=81f88b70&shcp=-",
+            "title": "origami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "25365195",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "dollarorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1665152054494209",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "phongtranorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "73369931",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "easyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "58859309",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "moneyorigami"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "17049276",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "howtofold"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "dollar origami $"
+         },
+         {
+            "desc": "#origami #dollarorigami #phongtranorigami #easyorigami #moneyorigami #howtofold ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 8,
+                  "hashtagName": "origami",
+                  "isCommerce": false,
+                  "start": 0,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 23,
+                  "hashtagName": "dollarorigami",
+                  "isCommerce": false,
+                  "start": 9,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 41,
+                  "hashtagName": "phongtranorigami",
+                  "isCommerce": false,
+                  "start": 24,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 54,
+                  "hashtagName": "easyorigami",
+                  "isCommerce": false,
+                  "start": 42,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "moneyorigami",
+                  "isCommerce": false,
+                  "start": 55,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 79,
+                  "hashtagName": "howtofold",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1736864340,
+      "desc": "dollar origami $ #origami #dollarorigami #phongtranorigami #easyorigami #moneyorigami #howtofold ",
+      "digged": false,
+      "diversificationId": 10033,
+      "duetDisplay": 0,
+      "duetEnabled": true,
+      "forFriend": false,
+      "id": "7459775404241472798",
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "album": "Candy Dream",
+         "authorName": "chill kawaii girl",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/oAEAwmet0BGAngZRy5ECAFEB3bD0NMAO7faTdQ.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/oAEAwmet0BGAngZRy5ECAFEB3bD0NMAO7faTdQ.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oAEAwmet0BGAngZRy5ECAFEB3bD0NMAO7faTdQ.jpeg",
+         "duration": 238,
+         "id": "7363505876412418064",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/owe7gF3fNggkDIYMBYLeDCAoi29XuoQ8zHGOap",
+         "title": "Candy Dream"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 2228,
+         "commentCount": 167,
+         "diggCount": 5605,
+         "playCount": 335600,
+         "shareCount": 923
+      },
+      "statsV2": {
+         "collectCount": "2228",
+         "commentCount": "167",
+         "diggCount": "5605",
+         "playCount": "335600",
+         "repostCount": "0",
+         "shareCount": "923"
+      },
+      "stitchDisplay": 0,
+      "stitchEnabled": true,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 25,
+            "hashtagName": "origami",
+            "isCommerce": false,
+            "start": 17,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 40,
+            "hashtagName": "dollarorigami",
+            "isCommerce": false,
+            "start": 26,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 58,
+            "hashtagName": "phongtranorigami",
+            "isCommerce": false,
+            "start": 41,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 71,
+            "hashtagName": "easyorigami",
+            "isCommerce": false,
+            "start": 59,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 85,
+            "hashtagName": "moneyorigami",
+            "isCommerce": false,
+            "start": 72,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 96,
+            "hashtagName": "howtofold",
+            "isCommerce": false,
+            "start": 86,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "en",
+      "textTranslatable": true,
+      "video": {
+         "VQScore": "68.33",
+         "bitrate": 1073392,
+         "bitrateInfo": [
+            {
+               "Bitrate": 1073392,
+               "CodecType": "h264",
+               "GearName": "normal_540_0",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 90.624, \\\"v960\\\": 92.88, \\\"v864\\\": 95.06, \\\"v720\\\": 96.53}, \\\"ori\\\": {\\\"v1080\\\": 79.672, \\\"v960\\\": 82.994, \\\"v864\\\": 86.156, \\\"v720\\\": 89.619}}}\"",
+               "PlayAddr": {
+                  "DataSize": 8938542,
+                  "FileCs": "c:0-56057-6a3e",
+                  "FileHash": "179aedc1be14df980963310c57eaed2e",
+                  "Height": 1024,
+                  "Uri": "v15044gf0000cu372pvog65tcf5sbg40",
+                  "UrlKey": "v15044gf0000cu372pvog65tcf5sbg40_h264_540p_1073392",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ocG8AwBQhEzIimFiNqfAIYzDm9wcczCvAiiIII/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2096&bt=1048&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZTg1ODRoZjdnNThlODdoO0BpM2p2aXc5cnM6eDMzaTczNEAzYF9fNjZfNmMxNS80Xi4tYSMxXzJgMmRzLzBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552244&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=c99190c7f96fe56093786b8706765e2b&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ocG8AwBQhEzIimFiNqfAIYzDm9wcczCvAiiIII/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2096&bt=1048&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZTg1ODRoZjdnNThlODdoO0BpM2p2aXc5cnM6eDMzaTczNEAzYF9fNjZfNmMxNS80Xi4tYSMxXzJgMmRzLzBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552244&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=c99190c7f96fe56093786b8706765e2b&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=081ea4752b8542fd94bc9e91b5b2c56b&is_play_url=1&item_id=7459775404241472798&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmNjMjVkYWIzMWNjZmNiNzAxNTUzY2VlYTY0ZTZmOGE4&tk=tt_chain_token&video_id=v15044gf0000cu372pvog65tcf5sbg40"
+                  ],
+                  "Width": 576
+               },
+               "QualityType": 20
+            },
+            {
+               "Bitrate": 688691,
+               "CodecType": "h265_hvc1",
+               "GearName": "adapt_lower_720_1",
+               "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 95.479, \\\"v960\\\": 96.544, \\\"v864\\\": 98.038, \\\"v720\\\": 99.015}, \\\"ori\\\": {\\\"v1080\\\": 84.798, \\\"v960\\\": 88.206, \\\"v864\\\": 90.165, \\\"v720\\\": 93.507}}}\"",
+               "PlayAddr": {
+                  "DataSize": 5734995,
+                  "FileCs": "c:0-56557-b692",
+                  "FileHash": "91ed3377c5dfd266a3b7b446403938a3",
+                  "Height": 1280,
+                  "Uri": "v15044gf0000cu372pvog65tcf5sbg40",
+                  "UrlKey": "v15044gf0000cu372pvog65tcf5sbg40_bytevc1_720p_688691",
+                  "UrlList": [
+                     "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oIydLgKQPCIGNgeGC1LIALGPIDAjIkeIQjeLqO/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1344&bt=672&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=OjtlNzo5NztoODw0OmlnaEBpM2p2aXc5cnM6eDMzaTczNEBgMGMuXzYtXy0xYTNjYDQtYSMxXzJgMmRzLzBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552244&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=5b0a473ea89e50fef9c49ea30c21bae5&tk=tt_chain_token",
+                     "https://v19-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/oIydLgKQPCIGNgeGC1LIALGPIDAjIkeIQjeLqO/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1344&bt=672&cs=2&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=14&rc=OjtlNzo5NztoODw0OmlnaEBpM2p2aXc5cnM6eDMzaTczNEBgMGMuXzYtXy0xYTNjYDQtYSMxXzJgMmRzLzBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552244&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=5b0a473ea89e50fef9c49ea30c21bae5&tk=tt_chain_token",
+                     "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=0e7dcff761d9450eb80496b714fb38c7&is_play_url=1&item_id=7459775404241472798&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjhlYjQ1ZjQ1NjlhZTM2MDVhMjkyODEzODVjMjVhNDI2&tk=tt_chain_token&video_id=v15044gf0000cu372pvog65tcf5sbg40"
+                  ],
+                  "Width": 720
+               },
+               "QualityType": 14
+            }
+         ],
+         "claInfo": {
+            "enableAutoCaption": false,
+            "hasOriginalAudio": false,
+            "noCaptionReason": 2
+         },
+         "codecType": "h264",
+         "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/ooSivcFlEY9CqHwAwGPBfiIIizAiAVzA6F9zI8?lk3s=81f88b70&x-expires=1739548800&x-signature=14%2Bh6BJE2pfPvScwA06l4D0t6fw%3D&shp=81f88b70&shcp=-",
+         "definition": "540p",
+         "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/o4qQwifi9AwmzzIqYEAiIFAvJ8IMivCwB9azcG/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2398&bt=1199&cs=0&ds=3&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=NzQ3PGg2OGlmZjY6ZTo6aEBpM2p2aXc5cnM6eDMzaTczNEAyNjItY2E1NTIxNTFeXi1jYSMxXzJgMmRzLzBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552244&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=5245ed9c8435141fed9197003055cd9a&tk=tt_chain_token",
+         "duration": 66,
+         "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oYPbIjbDAL1jAQeKPcQkyfLHILIMqOe5CgBQG0?lk3s=81f88b70&x-expires=1739548800&x-signature=JdzdFllY9KmVsLP0%2F9fByFyi9Nw%3D&shp=81f88b70&shcp=-",
+         "encodeUserTag": "",
+         "encodedType": "normal",
+         "format": "mp4",
+         "height": 1024,
+         "id": "7459775404241472798",
+         "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast8-p-0068-tx2/oAdGLCejOI1AgeLGQBilIeQPqcD6PQAyKILjAS?lk3s=81f88b70&x-expires=1739548800&x-signature=sP5QzrrPRxmADNDdf7OMV31N5zk%3D&shp=81f88b70&shcp=-",
+         "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/maliva/tos-maliva-ve-0068c799-us/ocG8AwBQhEzIimFiNqfAIYzDm9wcczCvAiiIII/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2096&bt=1048&cs=0&ds=6&ft=-Csk_m7nPD12Na5BSE-UxG42KY6e3wv25ycAp&mime_type=video_mp4&qs=0&rc=ZTg1ODRoZjdnNThlODdoO0BpM2p2aXc5cnM6eDMzaTczNEAzYF9fNjZfNmMxNS80Xi4tYSMxXzJgMmRzLzBgLS1kMTJzcw%3D%3D&btag=e00090000&expire=1739552244&l=202502130056186C8CDD3B024264158275&ply_type=2&policy=2&signature=c99190c7f96fe56093786b8706765e2b&tk=tt_chain_token",
+         "ratio": "540p",
+         "videoQuality": "normal",
+         "volumeInfo": {
+            "Loudness": -12.7,
+            "Peak": 0.74989
+         },
+         "width": 576,
+         "zoomCover": {
+            "240": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooSivcFlEY9CqHwAwGPBfiIIizAiAVzA6F9zI8~tplv-photomode-zoomcover:240:240.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=XDuPz9p%2B4J%2FUg0KVZJj12WUZ6QM%3D&shp=81f88b70&shcp=-",
+            "480": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooSivcFlEY9CqHwAwGPBfiIIizAiAVzA6F9zI8~tplv-photomode-zoomcover:480:480.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=oXlxh1ewW5zmGHMN2c9EXKu%2BD90%3D&shp=81f88b70&shcp=-",
+            "720": "https://p19-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooSivcFlEY9CqHwAwGPBfiIIizAiAVzA6F9zI8~tplv-photomode-zoomcover:720:720.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=stEyzIeUJO8gN9LG4k6ryXJ4YoE%3D&shp=81f88b70&shcp=-",
+            "960": "https://p16-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ooSivcFlEY9CqHwAwGPBfiIIizAiAVzA6F9zI8~tplv-photomode-zoomcover:960:960.jpeg?lk3s=81f88b70&x-expires=1739548800&x-signature=GAdR03HMiEV%2FTJ8zexxpoU0jZ7A%3D&shp=81f88b70&shcp=-"
+         }
+      },
+      "collectTime": 1739379412
+   }
+]

@@ -1,0 +1,61 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250212234835D2F87706AE4ABA11A94F",
+      "now": 1739375315000
+   },
+   "log_pb": {
+      "impr_id": "20250212234835D2F87706AE4ABA11A94F"
+   },
+   "shareMeta": {
+      "desc": "@zangphanhtruelove 630.5k Followers, 13 Following, 18.0m Likes - Watch awesome short videos created by T\u1ea1p Ho\u00e1 C\u1ea9u L\u01b0\u01a1ng \u2764\ufe0f",
+      "title": "T\u1ea1p Ho\u00e1 C\u1ea9u L\u01b0\u01a1ng \u2764\ufe0f on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 630500,
+         "followingCount": 13,
+         "friendCount": 8,
+         "heart": 18000000,
+         "heartCount": 18000000,
+         "videoCount": 360
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b7048b25d8751e8e0a555e31e734157a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=3740&refresh_token=eea0b3d3315e0c24e2e4506454f7830f&x-expires=1739545200&x-signature=eV%2FMyi3WzEZcQ1RzG62Ass%2BkR0k%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b7048b25d8751e8e0a555e31e734157a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=46216&refresh_token=c726657e7df7187ac183e4fec5666891&x-expires=1739545200&x-signature=qstsZDS69oLsvEAdoFEoFHezh6E%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b7048b25d8751e8e0a555e31e734157a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=50886&refresh_token=972f971511e2861eaafe01eab129d187&x-expires=1739545200&x-signature=lY4X%2BSnB83cT7BZ1yDPnLUyP%2BJE%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7294602808623186945",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1709786217,
+         "nickname": "T\u1ea1p Ho\u00e1 C\u1ea9u L\u01b0\u01a1ng \u2764\ufe0f",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAlMY7FQKXKN-B4mTikquvr5tCojj6H6PQumbyaSQHT1Gt8wRyt2xUp-GMv-_K7LUF",
+         "secret": false,
+         "signature": "C\u1eadn V\u0103n\u2764\ufe0fH\u00e0 Ph\u01b0\u01a1ng Anh\nBooking FB C\u1eadn V\u0103n(H\u00e0 Ph\u01b0\u01a1ng Anh)\n@Z\u0103ng Phanh Riu L\u1edbp\u2764\ufe0f",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "zangphanhtruelove",
+         "verified": false
+      }
+   }
+}

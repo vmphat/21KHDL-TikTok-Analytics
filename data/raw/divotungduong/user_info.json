@@ -1,0 +1,61 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025021223271701F5E56DE5FEAD11E711",
+      "now": 1739374037000
+   },
+   "log_pb": {
+      "impr_id": "2025021223271701F5E56DE5FEAD11E711"
+   },
+   "shareMeta": {
+      "desc": "@divotungduong 1.4m Followers, 2 Following, 7.2m Likes - Watch awesome short videos created by Tung Duong",
+      "title": "Tung Duong on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1400000,
+         "followingCount": 2,
+         "friendCount": 2,
+         "heart": 7200000,
+         "heartCount": 7200000,
+         "videoCount": 228
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/151225161045b46dfbf942a6d621a47c~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=48429&refresh_token=a6779a6261085f226481c137817047c0&x-expires=1739545200&x-signature=x%2BKXdmF%2BZqUh1L6IIVRfXyPECIk%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/151225161045b46dfbf942a6d621a47c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=91614&refresh_token=3acdbb98c21f00cc2c707f7c414d2f24&x-expires=1739545200&x-signature=SR%2BjaOHW0g8hrZpBxtkwit39aQQ%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/151225161045b46dfbf942a6d621a47c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=23924&refresh_token=1bec6d99d7f28999048a772a6781665c&x-expires=1739545200&x-signature=ez63oTGY%2BJu7eY%2FVQsQ%2FqhjxAIs%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6758725048977343489",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Tung Duong",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showMusicTab": true,
+            "showPlayListTab": false
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA8FE84pQRrKiPrf1zzv2cbrzBWIg6i6JMNZ6R37DbdSIMuYRS5mZKWTnIta1O-jF-",
+         "secret": false,
+         "signature": "K\u00eanh TikTok- Official c\u1ee7a T\u00f9ng D\u01b0\u01a1ng",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "divotungduong",
+         "verified": true
+      }
+   }
+}

@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213000007B3FE6C57FACA4C12CBDE",
+      "now": 1739376008000
+   },
+   "log_pb": {
+      "impr_id": "20250213000007B3FE6C57FACA4C12CBDE"
+   },
+   "shareMeta": {
+      "desc": "@_dieulinh16_ 3.8m Followers, 125 Following, 142.8m Likes - Watch awesome short videos created by \ud835\udcd3\ud835\udcf2\ud835\udcee\u0323\u0302\ud835\udcfe \ud835\udcdb\ud835\udcf2\ud835\udcf7\ud835\udcf1",
+      "title": "\ud835\udcd3\ud835\udcf2\ud835\udcee\u0323\u0302\ud835\udcfe \ud835\udcdb\ud835\udcf2\ud835\udcf7\ud835\udcf1 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 3800000,
+         "followingCount": 125,
+         "friendCount": 116,
+         "heart": 142800000,
+         "heartCount": 142800000,
+         "videoCount": 380
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/8ffc91fc9e00a23492c185af03f2301b.jpeg?lk3s=a5d48078&nonce=1173&refresh_token=c861ec0f07debeb792921db0c017536d&x-expires=1739548800&x-signature=%2BY1OevJThUk6g730q9MtBob8uGA%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/8ffc91fc9e00a23492c185af03f2301b.jpeg?lk3s=a5d48078&nonce=48215&refresh_token=940dcef385ce6d1f729783d819571469&x-expires=1739548800&x-signature=2uceCgVFwwh1qtvbfxtvFt50JSY%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/8ffc91fc9e00a23492c185af03f2301b.jpeg?lk3s=a5d48078&nonce=35253&refresh_token=48c9702799e78bab35045e5cc7e115ba&x-expires=1739548800&x-signature=vyDsMzA4wvisrFno9YKnu5pCnYg%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "https://beacons.ai/ngdiuninh",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6530916235440832513",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1679071875,
+         "nickname": "\ud835\udcd3\ud835\udcf2\ud835\udcee\u0323\u0302\ud835\udcfe \ud835\udcdb\ud835\udcf2\ud835\udcf7\ud835\udcf1",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": false
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAiS0P3otm3jvhFqGw1xjFvT42Kh_zXC1b50nbOGgG6jNVWr3ofpx3aWZXd3R4n5WE",
+         "secret": false,
+         "signature": "Instagram : _dieulinh16_ \n\ud83d\udce9 : forworkdieulinh@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "_dieulinh16_",
+         "verified": false
+      }
+   }
+}

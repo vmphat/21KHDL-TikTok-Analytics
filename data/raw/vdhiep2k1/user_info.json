@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025021301033120C1E7C606D23B151F8C",
+      "now": 1739379811000
+   },
+   "log_pb": {
+      "impr_id": "2025021301033120C1E7C606D23B151F8C"
+   },
+   "shareMeta": {
+      "desc": "@vdhiep2k1 1.5m Followers, 67 Following, 83.7m Likes - Watch awesome short videos created by Vm\u0169 Hi\u1ec7mp",
+      "title": "Vm\u0169 Hi\u1ec7mp on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1500000,
+         "followingCount": 67,
+         "friendCount": 62,
+         "heart": 83700000,
+         "heartCount": 83700000,
+         "videoCount": 680
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/96ac516534c87081b458ff108d8405c7~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=29142&refresh_token=5576bf8088ffa3a54c65c5998ee97ae8&x-expires=1739552400&x-signature=%2BNeMwwh1P2yjsUCQ%2FW561lcAGGE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/96ac516534c87081b458ff108d8405c7~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=82031&refresh_token=c3df1d0f248f1a04ff5329d7ec62de54&x-expires=1739552400&x-signature=DFQBtcYxoSMJ3zDB%2F1dGyISrXrM%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/96ac516534c87081b458ff108d8405c7~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=43734&refresh_token=63fa12d417577534a2be12e7a599efab&x-expires=1739552400&x-signature=z7ICF8yOg%2F%2FfrpOgwMF8akG2mqk%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "http://hiepvd2001.kol.eco",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6860441477689754626",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1631004529,
+         "nickname": "Vm\u0169 Hi\u1ec7mp",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA96CyCrOnWgSAwl4x1aA6Dy3gvWoD1FP2llRUMoBtVss3Uom45ljFEO0-f5d6m7XG",
+         "secret": false,
+         "signature": "Ins: vdhiep2k1\nWork: vudaihiep260701@gmail.com\nDUY NH\u1ea4T 1 NICK\nT\u00ecm g\u00ec c\u01a1 ? \ud83d\udc47",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "vdhiep2k1",
+         "verified": false
+      }
+   }
+}

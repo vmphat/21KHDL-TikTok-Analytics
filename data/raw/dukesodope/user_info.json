@@ -1,0 +1,62 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213003635C428FAB1E18A75159611",
+      "now": 1739378195000
+   },
+   "log_pb": {
+      "impr_id": "20250213003635C428FAB1E18A75159611"
+   },
+   "shareMeta": {
+      "desc": "@dukesodope 1.6m Followers, 286 Following, 64.8m Likes - Watch awesome short videos created by Ng\u01b0\u1eddi Vi\u1ec7t g\u1ed1c c\u00e2y \ud83c\udf32",
+      "title": "Ng\u01b0\u1eddi Vi\u1ec7t g\u1ed1c c\u00e2y \ud83c\udf32 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1600000,
+         "followingCount": 286,
+         "friendCount": 205,
+         "heart": 64800000,
+         "heartCount": 64800000,
+         "videoCount": 914
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/31f53d5dff56428c112e50a8e2bfed64~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=58593&refresh_token=a60d77c259673111f25a02dfceeef6ec&x-expires=1739548800&x-signature=t%2F25PMSZ7JELAma%2BeRybkSysXA8%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/31f53d5dff56428c112e50a8e2bfed64~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=36856&refresh_token=6971cb3bb3ff9546e25491122be42fb2&x-expires=1739548800&x-signature=541feaVDkkpySZQGuolFDcd7jE4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/31f53d5dff56428c112e50a8e2bfed64~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=47067&refresh_token=c2cdb290b4c69e99e32746141c43aeec&x-expires=1739548800&x-signature=IItZwABXSFaBpfa9o6OyK%2FQyc74%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6578419013243125762",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1637592534,
+         "nickname": "Ng\u01b0\u1eddi Vi\u1ec7t g\u1ed1c c\u00e2y \ud83c\udf32",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA-8KC9vecSTTFxxz0HRKHms2eDPJPvywc8SmcbvpQaUC9LlCo4s_G6pH5RV9dhEFY",
+         "secret": false,
+         "signature": "IG: dukecuoihehe",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "dukesodope",
+         "verified": false
+      }
+   }
+}

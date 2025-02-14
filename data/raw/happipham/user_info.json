@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202502122337529FF086758D8335136B3B",
+      "now": 1739374672000
+   },
+   "log_pb": {
+      "impr_id": "202502122337529FF086758D8335136B3B"
+   },
+   "shareMeta": {
+      "desc": "@happipham 1.0m Followers, 830 Following, 36.2m Likes - Watch awesome short videos created by Happi Pham",
+      "title": "Happi Pham on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1000000,
+         "followingCount": 830,
+         "friendCount": 56,
+         "heart": 36200000,
+         "heartCount": 36200000,
+         "videoCount": 782
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/d8ff45a14e4febe6972bf9bed4ad7647.jpeg?lk3s=a5d48078&nonce=7462&refresh_token=48012e6f91fd99183a68562d0a7dbee3&x-expires=1739545200&x-signature=RTDH%2ByxpCoiSGemqYhTYDaLkcMY%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/d8ff45a14e4febe6972bf9bed4ad7647.jpeg?lk3s=a5d48078&nonce=45514&refresh_token=1ae4f55541ba8fd1dfa6bb140330e624&x-expires=1739545200&x-signature=NfNUhbS3T2USUNwptrhdqpn6rgI%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/d8ff45a14e4febe6972bf9bed4ad7647.jpeg?lk3s=a5d48078&nonce=72358&refresh_token=e1b59673df2307a77b29ac963bc515b6&x-expires=1739545200&x-signature=sI7Q8WeBGn%2Biqaw%2BcRvFv%2B1Ja8E%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "https://shopee.vn/nhilu_store",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 3,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6888406561250804741",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1669367321,
+         "nickname": "Happi Pham",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAAw5fwRvPsBr-lKer4S8b2No0ti4YpBghVuJvg9hx06GXHYZQzUWW_15XjkqmfsqO",
+         "secret": false,
+         "signature": "CHUY\u00caN KHOA L\u00d4NG,T\u00d3C-\u00daC\nInternational Association of Trichologists\ud83c\uddfb\ud83c\uddf3\ud83c\udde6\ud83c\uddfa\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "happipham",
+         "verified": false
+      }
+   }
+}

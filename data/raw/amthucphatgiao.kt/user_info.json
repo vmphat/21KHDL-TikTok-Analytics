@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213003332323F8E538821A316BC96",
+      "now": 1739378012000
+   },
+   "log_pb": {
+      "impr_id": "20250213003332323F8E538821A316BC96"
+   },
+   "shareMeta": {
+      "desc": "@amthucphatgiao.kt 2.9m Followers, 40 Following, 65.3m Likes - Watch awesome short videos created by Th\u00edch Kh\u1ea3i Tu\u1ea5n\ud83c\udf31",
+      "title": "Th\u00edch Kh\u1ea3i Tu\u1ea5n\ud83c\udf31 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 2900000,
+         "followingCount": 40,
+         "friendCount": 38,
+         "heart": 65300000,
+         "heartCount": 65300000,
+         "videoCount": 276
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/5439f59cfa0b64c22075bb8b0a3250c0.jpeg?lk3s=a5d48078&nonce=45740&refresh_token=146e72b8fc63fb00f65f242304d10d24&x-expires=1739548800&x-signature=Yl4RdJL%2FqgP0Y%2Fwc6FwyC1zGD1A%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/5439f59cfa0b64c22075bb8b0a3250c0.jpeg?lk3s=a5d48078&nonce=24405&refresh_token=7aabd0fcce6a57bd3bb8609f03d7f43f&x-expires=1739548800&x-signature=w%2BAINEWYKrz3a5tV2Oips9qZ8nY%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5439f59cfa0b64c22075bb8b0a3250c0.jpeg?lk3s=a5d48078&nonce=69025&refresh_token=792984604c497604486c568ed4424553&x-expires=1739548800&x-signature=3WH%2BzzkG2%2BY2kzAIdjzmHQvEsbo%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "https://linkbio.co/Thichkhaituan",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6881527545289425922",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1618552122,
+         "nickname": "Th\u00edch Kh\u1ea3i Tu\u1ea5n\ud83c\udf31",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAQz7ft9EXopqPPx9f9xPfhFQQJrwMyPzNNRfRnh0eaNTmkGhzbs8K4-9AJ5mXmWWH",
+         "secret": false,
+         "signature": "B\u1ea1n n\u00e0o c\u00f3 t\u00e2m nguy\u1ec7n xu\u1ea5t gia th\u00ec k\u1ebft b\u1ea1n za l\u00f4 : o9&116&212. k. Tu\u1ea5n h\u01b0\u1edbng d\u1eabn",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "amthucphatgiao.kt",
+         "verified": true
+      }
+   }
+}

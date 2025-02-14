@@ -1,0 +1,60 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213003536D9ACB2EAE447A514FE4F",
+      "now": 1739378136000
+   },
+   "log_pb": {
+      "impr_id": "20250213003536D9ACB2EAE447A514FE4F"
+   },
+   "shareMeta": {
+      "desc": "@lamvlog 2.0m Followers, 12 Following, 17.8m Likes - Watch awesome short videos created by L\u00e2m Vlog",
+      "title": "L\u00e2m Vlog on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 2000000,
+         "followingCount": 12,
+         "friendCount": 5,
+         "heart": 17800000,
+         "heartCount": 17800000,
+         "videoCount": 109
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e416d4b46d63ae974ed3c0cc7f0ac8fc~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=5696&refresh_token=9565c4b7f789d836d5d5944812745d0c&x-expires=1739548800&x-signature=rFL4MmyKdsoTz6Cvgqt1KwJEr%2BA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e416d4b46d63ae974ed3c0cc7f0ac8fc~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=79686&refresh_token=192e04b2acbe53a3973f170818f7f67d&x-expires=1739548800&x-signature=piOnYY2U5lEfkmDF6MUNj3oYOsA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e416d4b46d63ae974ed3c0cc7f0ac8fc~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=48609&refresh_token=1551a6bafc9cae9e51d9263bb0de484e&x-expires=1739548800&x-signature=dR6n2%2FQyWow57m0xzgeWbw0frjI%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6645167631564816386",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "L\u00e2m Vlog",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAsWQEEzT7k80boJ-RN69cP5Ba9qN9h-C_RaK_SvU-eSxvSk2r315AAvob1Tyyut5J",
+         "secret": false,
+         "signature": "Li\u00ean h\u1ec7 t\u00e0i tr\u1ee3/qu\u1ea3ng c\u00e1o: ChauNguyen@LamVlog.com (Mrs. Ch\u00e2u)",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "lamvlog",
+         "verified": false
+      }
+   }
+}
