@@ -2,6 +2,7 @@
 logs/*
 # Ignore all virtual environments
 .venv/*
+myenv/*
 # Ignore all files in development folder
 development/*
 # Ignore all videos
