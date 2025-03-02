@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202503022306108654313F9C00BEE49990",
+      "now": 1740927970000
+   },
+   "log_pb": {
+      "impr_id": "202503022306108654313F9C00BEE49990"
+   },
+   "shareMeta": {
+      "desc": "@chi.lam.0129 527.6k Followers, 143 Following, 20.5m Likes - Watch awesome short videos created by \u00d4ng ch\u00fa ng\u01b0\u1eddi B\u00f4ng",
+      "title": "\u00d4ng ch\u00fa ng\u01b0\u1eddi B\u00f4ng on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 527600,
+         "followingCount": 143,
+         "friendCount": 49,
+         "heart": 20500000,
+         "heartCount": 20500000,
+         "videoCount": 418
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7375397881417498657~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=93082&refresh_token=d6afa44c0df17c3b2d1dab05a3ea8d56&x-expires=1741100400&x-signature=vnW%2BIYU4wl0iOOHgZQBXBbbtCJI%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7375397881417498657~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=63047&refresh_token=80bf9eae589ce421027bdff4a4b103b2&x-expires=1741100400&x-signature=KegEPV6jQl5oBU7mlCLns8hdpcE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7375397881417498657~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=12893&refresh_token=8da44f9529149f1bdad1deeb3f8d1870&x-expires=1741100400&x-signature=OuRqWMdViHkY9RBtea6GTzcqQBY%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://chilam.koc.asia",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "7060391700820509723",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1651497979,
+         "nickname": "\u00d4ng ch\u00fa ng\u01b0\u1eddi B\u00f4ng",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAnqTP4alfahqhKQK07m98sxQfttn8-2D5euYaH8qn0QvrPcl6eed6ykVH373Ym7d3",
+         "secret": false,
+         "signature": "\u00d4ng ch\u00fa ng\u01b0\u1eddi Hoa\nChia s\u1ebb ch\u00fat v\u1ec1 \u1ea9m th\u1ef1c\nForwork Booking:090.773.9103",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "chi.lam.0129",
+         "verified": true
+      }
+   }
+}

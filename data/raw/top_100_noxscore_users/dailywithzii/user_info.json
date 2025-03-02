@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213000439DA19496835326813C8B4",
+      "now": 1739376279000
+   },
+   "log_pb": {
+      "impr_id": "20250213000439DA19496835326813C8B4"
+   },
+   "shareMeta": {
+      "desc": "@dailywithzii 464.7k Followers, 116 Following, 10.3m Likes - Watch awesome short videos created by Duy Nh\u1ea5t",
+      "title": "Duy Nh\u1ea5t on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 464700,
+         "followingCount": 116,
+         "friendCount": 95,
+         "heart": 10300000,
+         "heartCount": 10300000,
+         "videoCount": 372
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/1b84fab409b4c366cda07b8dac3aa079~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=46428&refresh_token=e9bb084a28578a583bd4641c5bed42d5&x-expires=1739548800&x-signature=5ztqkunALjXszxrJH6ucV3CYiew%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/1b84fab409b4c366cda07b8dac3aa079~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=83093&refresh_token=a091bd7bcb239b47966df7f21bc0c518&x-expires=1739548800&x-signature=oj8fVqT4WdyYArHgZ3ldgu3WdCU%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/1b84fab409b4c366cda07b8dac3aa079~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=30273&refresh_token=82110676bb98ea97f80aa0b7e2774c21&x-expires=1739548800&x-signature=7jKkiXJHk8Wevf8NpOfbqsSaiLo%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "beacons.ai/dailywithzii",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6871826133525316609",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1726158868,
+         "nickname": "Duy Nh\u1ea5t",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAvn8NQdclKrLW7EKKIc9EZWMASXKUMyY2JA1Awi-3Y82No5DmvPWPnICPyXOsnhuC",
+         "secret": false,
+         "signature": "TOP 10 KOC VIETNAM\ud83c\uddfb\ud83c\uddf3\n\ud83d\udd34Live 10:00-15:00\nForwork dailywithzii.booking@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "dailywithzii",
+         "verified": false
+      }
+   }
+}

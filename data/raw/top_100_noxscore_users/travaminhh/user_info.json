@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202502130052575D54F700F23F551538C5",
+      "now": 1739379177000
+   },
+   "log_pb": {
+      "impr_id": "202502130052575D54F700F23F551538C5"
+   },
+   "shareMeta": {
+      "desc": "@travaminhh 762.1k Followers, 22 Following, 34.7m Likes - Watch awesome short videos created by Ch\u00e0 v\u00e0 Minh",
+      "title": "Ch\u00e0 v\u00e0 Minh on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 762100,
+         "followingCount": 22,
+         "friendCount": 10,
+         "heart": 34700000,
+         "heartCount": 34700000,
+         "videoCount": 422
+      },
+      "user": {
+         "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/abdbbf1f1f865a85456012a3f7fd5a03~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=33565&refresh_token=cbf18684fd86cfec8eb14514cbe16fb2&x-expires=1739548800&x-signature=HLy4NrUjsGbInM9drrfF29yYN%2B4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/abdbbf1f1f865a85456012a3f7fd5a03~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=42241&refresh_token=91d61476b7a83ba534f5fc4a526beafe&x-expires=1739548800&x-signature=X74TrmVOXPPQsHl9wLwAGRuAaTM%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/abdbbf1f1f865a85456012a3f7fd5a03~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=91185&refresh_token=fbacf5053a9bb48329cc27405c8703fa&x-expires=1739548800&x-signature=Y%2BfKDX0721KD8PfI%2BZiKArj%2Bo%2BA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "Influzee.com/travaminhh",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6830260539474953218",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1662031377,
+         "nickname": "Ch\u00e0 v\u00e0 Minh",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAUe1Izj8aTf5ybq-nPqZKjNTAyG_WEFVoSz38jOU7sowMlAOMB-gD3F3hQbf7KLt-",
+         "secret": false,
+         "signature": "H\u1ea1nh ph\u00fac \u1edf \u0111\u00e2y n\u00e8 \ud83e\udef6\ud83e\udef6\n\ud83c\udf89 For Work: 09.1326.6399\n\ud83d\udce9 work.travaminh@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "travaminhh",
+         "verified": true
+      }
+   }
+}

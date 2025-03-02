@@ -1,0 +1,64 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202502130051404ABAAE4B239D931690A0",
+      "now": 1739379100000
+   },
+   "log_pb": {
+      "impr_id": "202502130051404ABAAE4B239D931690A0"
+   },
+   "shareMeta": {
+      "desc": "@xuanhinhofficial 897.9k Followers, 7 Following, 8.9m Likes - Watch awesome short videos created by Xu\u00e2n Hinh",
+      "title": "Xu\u00e2n Hinh on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 897900,
+         "followingCount": 7,
+         "friendCount": 5,
+         "heart": 8900000,
+         "heartCount": 8900000,
+         "videoCount": 197
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6d2000fe95c878489d8e32f7a08feaa0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=71414&refresh_token=779c3359ce51191bfe33862e0a8d0d14&x-expires=1739548800&x-signature=nd%2B0FYAS9klFywamwLYmfRFmeSA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6d2000fe95c878489d8e32f7a08feaa0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=82144&refresh_token=976feb9933b51552d834e7c176cf3ff1&x-expires=1739548800&x-signature=WPdqV8tejzWCqMeioRXknL%2F1uKk%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6d2000fe95c878489d8e32f7a08feaa0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=71229&refresh_token=a3c34d261cbca523a3b6abbeaca8fdd9&x-expires=1739548800&x-signature=hCetDBGlJ12BZ9dpWlMQUb0DUAc%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://www.facebook.com/xuanhinhfcvn/",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6801727132932588546",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Xu\u00e2n Hinh",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAUYqoCN19jrckGC2OTYa0KucUwFqV4hjMcwazvilQZ52HhWlYLvwkHgWEl4tVNMdI",
+         "secret": false,
+         "signature": "Fb: Xu\u00e2n Hinh, B\u1ea3o T\u00e0ng \u0110\u1ea1o M\u1eabu\nYtb: Xu\u00e2n Hinh Official, B\u1ea3o T\u00e0ng \u0110\u1ea1o M\u1eabu",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "xuanhinhofficial",
+         "verified": true
+      }
+   }
+}

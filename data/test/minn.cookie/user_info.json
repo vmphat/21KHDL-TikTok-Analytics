@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250302223553C0F9476A2B0C6B7E6B57",
+      "now": 1740926153000
+   },
+   "log_pb": {
+      "impr_id": "20250302223553C0F9476A2B0C6B7E6B57"
+   },
+   "shareMeta": {
+      "desc": "@minn.cookie 789.5k Followers, 389 Following, 30.5m Likes - Watch awesome short videos created by Minn Cookie",
+      "title": "Minn Cookie on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 789500,
+         "followingCount": 389,
+         "friendCount": 222,
+         "heart": 30500000,
+         "heartCount": 30500000,
+         "videoCount": 1152
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=29866&refresh_token=ce22a44bc971c090cee2e7725f316b42&x-expires=1741096800&x-signature=8koYaLFLe3YymURR9ZD92iGNbyc%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=24433&refresh_token=84ce1e4b2047431dfa4efcf58969abc6&x-expires=1741096800&x-signature=gm2U%2BwwxRSriO8cyV849sJ%2BO89g%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=76967&refresh_token=f0562bddc448d4607edf922907387702&x-expires=1741096800&x-signature=bPvyHCzJwP2Eu7tSQy695kw0nEc%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "beacons.ai/minn.cookie",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6981736067704226843",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1625564633,
+         "nickname": "Minn Cookie",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAlh9F5DPBfaKMAZpO9bdNYBvh9wjg-Z0m7r5HStmhTNNChFdzySejhJ_7us0UTn-y",
+         "secret": false,
+         "signature": "\u2728 C\u00f4 b\u00e9 m\u1eadp t\u00ean Y\u1ebfn \u2728\n-FORWORK: 0365048235\nNguy\u00ean li\u1ec7u v\u00e0 \u0111\u1ed3 d\u00f9ng n\u1ea5u \u0103n n\u00e8 \u2b07\ufe0f",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "minn.cookie",
+         "verified": false
+      }
+   }
+}

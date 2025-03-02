@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250212231226119300FDED211C10D4BD",
+      "now": 1739373146000
+   },
+   "log_pb": {
+      "impr_id": "20250212231226119300FDED211C10D4BD"
+   },
+   "shareMeta": {
+      "desc": "@anhmoney 1.3m Followers, 50 Following, 37.5m Likes - Watch awesome short videos created by Anh Money \ud83d\udcb0",
+      "title": "Anh Money \ud83d\udcb0 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1300000,
+         "followingCount": 50,
+         "friendCount": 13,
+         "heart": 37500000,
+         "heartCount": 37500000,
+         "videoCount": 790
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/e6a3583c2ce7a1a52aa2c1aa2c109c88.jpeg?lk3s=a5d48078&nonce=14194&refresh_token=640ae5daaf6cc6d9e3f1bcddf3091985&x-expires=1739545200&x-signature=N5r3Ia3y8vXaCV6rc%2BhQfRLKpKU%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e6a3583c2ce7a1a52aa2c1aa2c109c88.jpeg?lk3s=a5d48078&nonce=74236&refresh_token=490913077d7141bb1be27eb5449bf4d8&x-expires=1739545200&x-signature=HRnFrcTquQmn%2BjAsJIC6bmwFHCk%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/e6a3583c2ce7a1a52aa2c1aa2c109c88.jpeg?lk3s=a5d48078&nonce=77022&refresh_token=a269fdc8121962c6cd18bd4a2e7a8e87&x-expires=1739545200&x-signature=StrdKE0swiSm3rSI2%2F0Mu%2BCpIYk%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "https://beacons.ai/dohoangtien1105",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7141389257331377179",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1717595832,
+         "nickname": "Anh Money \ud83d\udcb0",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAXUaY_kx4G5TKleIudsMCfceWC6k_OyI1vW4LlKydyponUoVBrN1HHj77ytvoVJdy",
+         "secret": false,
+         "signature": "Follow tui \u0111i cho \u0111\u1eddi th\u00eam vui\ud83e\udd23\n\ud83c\udf1a You\u2022Tu\u2022be : Anh Money \nEmail & TK M\u1ea1ng XH\ud83d\udc47",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "anhmoney",
+         "verified": false
+      }
+   }
+}

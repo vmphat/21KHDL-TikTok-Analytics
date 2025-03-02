@@ -1,0 +1,67 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025030222361934908C93FE7CD27765DD",
+      "now": 1740926179000
+   },
+   "log_pb": {
+      "impr_id": "2025030222361934908C93FE7CD27765DD"
+   },
+   "shareMeta": {
+      "desc": "@angithuongoi 402.0k Followers, 74 Following, 14.1m Likes - Watch awesome short videos created by \u0102n G\u00ec Th\u01b0\u01a1ng \u01a0i",
+      "title": "\u0102n G\u00ec Th\u01b0\u01a1ng \u01a0i on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 402000,
+         "followingCount": 74,
+         "friendCount": 57,
+         "heart": 14100000,
+         "heartCount": 14100000,
+         "videoCount": 563
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/24a708f4432ad5c76da1d6f89f18dffb~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=84020&refresh_token=af3d070337b191c55859a1820be242a3&x-expires=1741096800&x-signature=SFpavviwmWttRiPbliHudZThhjU%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/24a708f4432ad5c76da1d6f89f18dffb~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=41581&refresh_token=bb02dc6da9bee8dc909308656741a01c&x-expires=1741096800&x-signature=ZdSPoP9udVQrLzmIyDWqXinSxKM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/24a708f4432ad5c76da1d6f89f18dffb~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=68141&refresh_token=9d474eb055b797b028819e2fc488bfc2&x-expires=1741096800&x-signature=PRHW3wZann7aLw3zwt%2FA%2Fwhl9Qw%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "category": "Food & Beverage",
+            "categoryButton": false,
+            "commerceUser": true,
+            "downLoadLink": {
+               "android": "",
+               "ios": ""
+            }
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7255941113726321666",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1700482781,
+         "nickname": "\u0102n G\u00ec Th\u01b0\u01a1ng \u01a0i",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": false
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA-cH1FUBnUuYKuBQF90xd_4TplxWhg35inepylyCIoTsnlwjxAG_BZ8BReGxLhSvV",
+         "secret": false,
+         "signature": "\u0102n G\u00ec Th\u01b0\u01a1ng \u01a0i? \u0102n m\u00f3n Vi\u1ec7t Nam \ud83c\uddfb\ud83c\uddf3\n        Forwork: 0.9.1.1.0.0.6.8.6.6",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "angithuongoi",
+         "verified": false
+      }
+   }
+}

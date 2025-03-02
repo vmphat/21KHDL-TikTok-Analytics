@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250302223544726A71D2CC8DF78C0F04",
+      "now": 1740926144000
+   },
+   "log_pb": {
+      "impr_id": "20250302223544726A71D2CC8DF78C0F04"
+   },
+   "shareMeta": {
+      "desc": "@nhisayhi178 272.1k Followers, 50 Following, 5.4m Likes - Watch awesome short videos created by Nhi say Hi",
+      "title": "Nhi say Hi on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 272100,
+         "followingCount": 50,
+         "friendCount": 31,
+         "heart": 5400000,
+         "heartCount": 5400000,
+         "videoCount": 222
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e69b5fac9554d61bbc28371c8d0bdc5e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=18800&refresh_token=3d72953948522ea8cd21a37d27fe1444&x-expires=1741096800&x-signature=E8Zhu8nP0NJMqTfxuwEJErSHoV8%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e69b5fac9554d61bbc28371c8d0bdc5e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=24353&refresh_token=9e39e9ce9c08410b6584a5498683bdb2&x-expires=1741096800&x-signature=0tvRwfbUijDafhy0U9B%2FauAlFAA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e69b5fac9554d61bbc28371c8d0bdc5e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=42453&refresh_token=896011f56b50a438a58b78325ac44d4b&x-expires=1741096800&x-signature=VGWdkZ2ZeQ9WMNEagbclQQP6llg%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://beacons.ai/nhisayhi178",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7239327771674330118",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1686231679,
+         "nickname": "Nhi say Hi",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAASs7N3hoOCox4wf0YYebtzI6aKZ3ABjozHzKsk3x5IyhzvSYzkt1Pg_kwRXovtoOW",
+         "secret": false,
+         "signature": "C\u1ea3m \u01a1n b\u1ea1n \u0111\u00e3 \u1ee7ng h\u1ed9 m\u00ecnh v\u00e0 nh\u1eefng chi\u1ebfc vid c\u00f2n r\u1ea5t nhi\u1ec1u v\u1ee5ng v\u1ec1 \ud83d\udc96\u2728",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "nhisayhi178",
+         "verified": false
+      }
+   }
+}

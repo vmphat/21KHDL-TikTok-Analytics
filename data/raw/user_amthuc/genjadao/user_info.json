@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250302230513F259E772FDAE8089DF7D",
+      "now": 1740927913000
+   },
+   "log_pb": {
+      "impr_id": "20250302230513F259E772FDAE8089DF7D"
+   },
+   "shareMeta": {
+      "desc": "@genjadao 2.8m Followers, 117 Following, 53.7m Likes - Watch awesome short videos created by \u00f4ng Anh th\u00edch n\u1ea5u \u0103n",
+      "title": "\u00f4ng Anh th\u00edch n\u1ea5u \u0103n on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 2800000,
+         "followingCount": 117,
+         "friendCount": 37,
+         "heart": 53700000,
+         "heartCount": 53700000,
+         "videoCount": 844
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/f9cfcf7f8dcc42faec605d75b1465741~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=68347&refresh_token=a2943add9e51876af60e5dd25b2f43de&x-expires=1741100400&x-signature=MqtuNj4tUG5icaOr%2BYh%2BRI5verU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/f9cfcf7f8dcc42faec605d75b1465741~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=46249&refresh_token=b185578eb35eef5b4971b37855166e8c&x-expires=1741100400&x-signature=I36XuhGrDp2rBSWZcqpWwhmjREk%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/f9cfcf7f8dcc42faec605d75b1465741~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=62964&refresh_token=af81f6fc4b6ece22a511a1c6eb67275a&x-expires=1741100400&x-signature=RQ7yyUqCX9gt60k551%2Feu5OmRr4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://beacons.ai/oatna",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6913858551564043265",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1656658041,
+         "nickname": "\u00f4ng Anh th\u00edch n\u1ea5u \u0103n",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAiO4IT78-53oCL7Xh3aKxC3yGG_8eA1gaJUw3_KtJDyUiaIWXjhfiAaLn97ppWI-H",
+         "secret": false,
+         "signature": "L\u00e0 m\u1ed9t ng\u01b0\u1eddi tuy l\u01b0\u1eddi nh\u01b0ng \u0111\u01b0\u1ee3c c\u00e1i th\u00edch n\u1ea5u \u0103n\nCV: onganhthichnauan@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "genjadao",
+         "verified": true
+      }
+   }
+}

@@ -1,0 +1,68 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202503022235433E4D209FAD76D77D5EFD",
+      "now": 1740926143000
+   },
+   "log_pb": {
+      "impr_id": "202503022235433E4D209FAD76D77D5EFD"
+   },
+   "shareMeta": {
+      "desc": "@hoshiphan 6.4m Followers, 49 Following, 87.3m Likes - Watch awesome short videos created by Hoshi Phan",
+      "title": "Hoshi Phan on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 6400000,
+         "followingCount": 49,
+         "friendCount": 25,
+         "heart": 87300000,
+         "heartCount": 87300000,
+         "videoCount": 457
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7356959130311589921~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=40948&refresh_token=5702e850621cff9d93b1d91367bc385d&x-expires=1741096800&x-signature=4Kz8S3CH%2BrIbEVT8pdCSMd5ECWI%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7356959130311589921~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=14704&refresh_token=a063854a21f1acdf4dc2b45f53844eb8&x-expires=1741096800&x-signature=txWnwa2WSrOCFtNqI%2BgAAioY5is%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7356959130311589921~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=43581&refresh_token=ac10d0319269696fcb8c341ed617f3ad&x-expires=1741096800&x-signature=4OIrUomoMshmqWKrWNu774MtUn4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "category": "Others",
+            "categoryButton": false,
+            "commerceUser": true,
+            "downLoadLink": {
+               "android": "",
+               "ios": ""
+            }
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6861142615255188482",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1650127503,
+         "nickname": "Hoshi Phan",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA631uEbZN0Ptu0Z90nkTni3gEYTeiwyPYYahfEbBe5x_b4uf-URTY6dZrs9zztIuG",
+         "secret": false,
+         "signature": "Gia D\u1ee5ng Cao C\u1ea5p Hoshi \u0110\u1ec3 D\u01b0\u1edbi Gi\u1ecf H\u00e0ng Nhee\n\u0110\u00e0o T\u1ea1o \u0110\u1ea7u B\u1ebfp \ud83d\udc47\ud83c\udffb Chuy\u00ean Nghi\u1ec7p",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "hoshiphan",
+         "verified": true
+      }
+   }
+}

@@ -1,0 +1,61 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213003148E0D18DA9A074B512D1D5",
+      "now": 1739377908000
+   },
+   "log_pb": {
+      "impr_id": "20250213003148E0D18DA9A074B512D1D5"
+   },
+   "shareMeta": {
+      "desc": "@remind.ne 425.9k Followers, 56 Following, 8.5m Likes - Watch awesome short videos created by Remind n\u00e8",
+      "title": "Remind n\u00e8 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 425900,
+         "followingCount": 56,
+         "friendCount": 18,
+         "heart": 8500000,
+         "heartCount": 8500000,
+         "videoCount": 136
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2a9922227e426148b38b56b0db46ad29~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=5741&refresh_token=e3147255fcac8019f814cc80514a61a0&x-expires=1739548800&x-signature=p95LiZ7LrAWfV9HaTYS9tY4WbcA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2a9922227e426148b38b56b0db46ad29~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=40253&refresh_token=3b1767bc9ce6ff7bde7d5f71e7eb8e85&x-expires=1739548800&x-signature=hF3V0XAb%2FYbDU3C%2BVvSXWWU0ByY%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2a9922227e426148b38b56b0db46ad29~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=95420&refresh_token=de24242e9fe32d6c7b82cfe50a3e8d39&x-expires=1739548800&x-signature=YiHa1laCKdB6t9AP2nKm5TUyzKE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6680350304054002690",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1676803672,
+         "nickname": "Remind n\u00e8",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": false
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAATT9lBP2nawqaiT8wFqY_bU2xZWY9XYpRYRkJV5QGAFFrnPw1tm94hZCSLBk35R_C",
+         "secret": false,
+         "signature": "Vietnamese /Content Creator /Streamer\nbento.me/remindne",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "remind.ne",
+         "verified": false
+      }
+   }
+}

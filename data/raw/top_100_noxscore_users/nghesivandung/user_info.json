@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202502130031227ACACBE229F273147F2C",
+      "now": 1739377882000
+   },
+   "log_pb": {
+      "impr_id": "202502130031227ACACBE229F273147F2C"
+   },
+   "shareMeta": {
+      "desc": "@nghesivandung 606.5k Followers, 2 Following, 5.7m Likes - Watch awesome short videos created by V\u00e2n Dung",
+      "title": "V\u00e2n Dung on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 606500,
+         "followingCount": 2,
+         "friendCount": 1,
+         "heart": 5700000,
+         "heartCount": 5700000,
+         "videoCount": 81
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/5c415537821fcdd8fb420fbc1b68d8ff~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=22005&refresh_token=01f330d0d71b3bd545741742272ccbcf&x-expires=1739548800&x-signature=uRFE74zu8lmkpXIdu7zTR0%2BzhBk%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/5c415537821fcdd8fb420fbc1b68d8ff~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=20494&refresh_token=67317980049a90e44789a3a779955e70&x-expires=1739548800&x-signature=G68Zftm73eqVuyFVb4hGV4GEVZk%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/5c415537821fcdd8fb420fbc1b68d8ff~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=46689&refresh_token=f530098290eeac6eb9da3f56cb6a273b&x-expires=1739548800&x-signature=GZdkCQh9Zy9pVtpenYTAjC2VrtM%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://www.facebook.com/NgheSyVanDung",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6657024805399052289",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "V\u00e2n Dung",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA7nMRasJDZLypZmAYyn02UFTvUxsYGpPuvVJnQfDv5KYweArvpzAlKyc1za1P99S7",
+         "secret": false,
+         "signature": "Gi\u00fap B\u1ea1n C\u01b0\u1eddi Nhi\u1ec1u H\u01a1n M\u1ed7i Ng\u00e0y. Follow \u0110\u1ec3 Tham Gia..!",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "nghesivandung",
+         "verified": false
+      }
+   }
+}

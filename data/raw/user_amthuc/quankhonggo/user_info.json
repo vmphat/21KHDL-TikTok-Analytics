@@ -1,0 +1,61 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250302230711F1952BB76969BFE01CC0",
+      "now": 1740928031000
+   },
+   "log_pb": {
+      "impr_id": "20250302230711F1952BB76969BFE01CC0"
+   },
+   "shareMeta": {
+      "desc": "@quankhonggo 4.5m Followers, 329 Following, 183.1m Likes - Watch awesome short videos created by Quan kh\u00f4ng g\u1edd",
+      "title": "Quan kh\u00f4ng g\u1edd on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 4500000,
+         "followingCount": 329,
+         "friendCount": 224,
+         "heart": 183100000,
+         "heartCount": 183100000,
+         "videoCount": 1318
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2da2c7691e1038336005d7b7b1eef42b~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=40216&refresh_token=c29b45dd89a405e68334e719c01420d6&x-expires=1741100400&x-signature=Y1R1o1r6W1WbqJhkG61INKdheGc%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2da2c7691e1038336005d7b7b1eef42b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=98642&refresh_token=8abca4863980e665f57d923450063136&x-expires=1741100400&x-signature=P%2FSwE8IKoTdh03QqZMo4%2FSCeCtQ%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2da2c7691e1038336005d7b7b1eef42b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=12197&refresh_token=0f9f0e52b8dc0c72198b5a50cb417e00&x-expires=1741100400&x-signature=Kt06WK5tF9Eg1JG5scGdaU5TLPY%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6606514447400370177",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1636260127,
+         "nickname": "Quan kh\u00f4ng g\u1edd",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAcN36YrxC8EcBOPDDj4aptUGBtZV6fc4LwOcK_bWce9jyAUcCFu6M-YOeQ0yrB94W",
+         "secret": false,
+         "signature": "\ud83d\udce9: quankhonggo.contact@gmail.com\nFor work: 0.9.8.2.8.0.9.0.6.5",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "quankhonggo",
+         "verified": true
+      }
+   }
+}

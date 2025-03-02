@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202503022236171A54B6CD252E91657ED1",
+      "now": 1740926177000
+   },
+   "log_pb": {
+      "impr_id": "202503022236171A54B6CD252E91657ED1"
+   },
+   "shareMeta": {
+      "desc": "@dieutrinh_1407 1.1m Followers, 62 Following, 30.0m Likes - Watch awesome short videos created by Di\u1ec7u Trinh",
+      "title": "Di\u1ec7u Trinh on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1100000,
+         "followingCount": 62,
+         "friendCount": 11,
+         "heart": 30000000,
+         "heartCount": 30000000,
+         "videoCount": 361
+      },
+      "user": {
+         "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a209efcf0b50ee6c836ba4c4e5d54e03~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=38904&refresh_token=16cdbee80212510d00a146137246a9dd&x-expires=1741096800&x-signature=xMEgQJL3JOl7Eq2TC2TO2V9CAv0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a209efcf0b50ee6c836ba4c4e5d54e03~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=2184&refresh_token=c7d75a3a4913078a5a0931674b311da5&x-expires=1741096800&x-signature=inal0%2FDaIbImHEBykV9EsJogVNA%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a209efcf0b50ee6c836ba4c4e5d54e03~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=61296&refresh_token=be3496c68deffe6bed1d51dbe4f2c135&x-expires=1741096800&x-signature=XiGBOkUnEjgtEuC7WPQWGci7CMU%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://dieutrinh.passio.eco",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 3,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "71922264056",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1729806480,
+         "nickname": "Di\u1ec7u Trinh",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAydR9PnQp7jfAlAYXVO4zqiRKteLZ-QMfd_ncRsIVcvg",
+         "secret": false,
+         "signature": "For work: 0.7.9.6.8.1.7.4.3.1\n\u0110\u1ed3 t\u1edb d\u00f9ng \ud83d\udc47",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "dieutrinh_1407",
+         "verified": false
+      }
+   }
+}

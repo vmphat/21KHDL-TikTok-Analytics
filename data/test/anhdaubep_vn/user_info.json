@@ -1,0 +1,71 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025030222353348CDB3E5D3E8138D2085",
+      "now": 1740926134000
+   },
+   "log_pb": {
+      "impr_id": "2025030222353348CDB3E5D3E8138D2085"
+   },
+   "shareMeta": {
+      "desc": "@anhdaubep_vn 1.3m Followers, 68 Following, 17.1m Likes - Watch awesome short videos created by Anh \u0110\u1ea7u B\u1ebfp",
+      "title": "Anh \u0110\u1ea7u B\u1ebfp on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1300000,
+         "followingCount": 68,
+         "friendCount": 9,
+         "heart": 17100000,
+         "heartCount": 17100000,
+         "videoCount": 218
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ab9cc8f229cf92803e1fb3f224614c1d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=345&refresh_token=6e45ffc9b31111ec389fffbc89252b27&x-expires=1741096800&x-signature=SDSWqHQ6l%2FirgDqWzDvuJXWSwOE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ab9cc8f229cf92803e1fb3f224614c1d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=12784&refresh_token=60dfd1185b038f2661a51b4578dd7d14&x-expires=1741096800&x-signature=kRvlo6qeXfc222JeDEjrlgXEnS8%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/ab9cc8f229cf92803e1fb3f224614c1d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=39660&refresh_token=1f333f82afcc55bf1031f3abf00f264a&x-expires=1741096800&x-signature=KW0lwy7O7vylGNPL0ti8NOygPbM%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "anhdaubep.vn",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "category": "Food & Beverage",
+            "categoryButton": false,
+            "commerceUser": true,
+            "downLoadLink": {
+               "android": "",
+               "ios": ""
+            }
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7085538372689691650",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1649756826,
+         "nickname": "Anh \u0110\u1ea7u B\u1ebfp",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAbMQglcOsYSxPPp1dckb2Yc7mZ6Hrg6uQyNsisbqycDB77010piClvUldaFKhW5vH",
+         "secret": false,
+         "signature": "Xin Ch\u00e0o, m\u00ecnh l\u00e0 1 Anh \u0110\u1ea7u B\u1ebfp th\u00edch chia s\u1ebb nh\u1eefng m\u00f3n \u0103n ngon t\u1edbi m\u1ecdi ng\u01b0\u1eddi",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "anhdaubep_vn",
+         "verified": false
+      }
+   }
+}

@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202503022304496AD9CEADD353D78C6A5A",
+      "now": 1740927889000
+   },
+   "log_pb": {
+      "impr_id": "202503022304496AD9CEADD353D78C6A5A"
+   },
+   "shareMeta": {
+      "desc": "@sammy.becool 1.9m Followers, 1062 Following, 65.5m Likes - Watch awesome short videos created by Sammy \ud83c\udf46",
+      "title": "Sammy \ud83c\udf46 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1900000,
+         "followingCount": 1062,
+         "friendCount": 269,
+         "heart": 65500000,
+         "heartCount": 65500000,
+         "videoCount": 1419
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/36bff621c8831c5f027a42c7e1c5f335~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=76424&refresh_token=d4dbe75771167efba34214550723638b&x-expires=1741100400&x-signature=o%2BuDjFfoXXR4eN99VoQ8jk7UDgo%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/36bff621c8831c5f027a42c7e1c5f335~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=57259&refresh_token=6b0a19228245eab2628a437a6790adc5&x-expires=1741100400&x-signature=ozyNrc391wgRrzPW01zh99C5o04%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/36bff621c8831c5f027a42c7e1c5f335~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=86363&refresh_token=4bc6aaef5a4d0bbeb86d8f047133a116&x-expires=1741100400&x-signature=bWgZtxUfa1Kaw%2BpchNHA2f2%2BNCo%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://beacons.ai/sammy.becool",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6627359296702414849",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1670218874,
+         "nickname": "Sammy \ud83c\udf46",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAQdyMbw09JaM7QIs7FYK2FU4Qk3333WRguRo5lRp_gcv9ypv8H8ySUfbDLvsuMBCC",
+         "secret": false,
+         "signature": "Work contact: 0762709303 zalo: Ms.Zoey",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "sammy.becool",
+         "verified": false
+      }
+   }
+}

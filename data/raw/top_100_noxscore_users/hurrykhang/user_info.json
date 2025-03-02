@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213003013DE373E9052D2B613F3F0",
+      "now": 1739377813000
+   },
+   "log_pb": {
+      "impr_id": "20250213003013DE373E9052D2B613F3F0"
+   },
+   "shareMeta": {
+      "desc": "@hurrykhang 855.1k Followers, 75 Following, 11.7m Likes - Watch awesome short videos created by HURRYKNG",
+      "title": "HURRYKNG on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 855100,
+         "followingCount": 75,
+         "friendCount": 40,
+         "heart": 11700000,
+         "heartCount": 11700000,
+         "videoCount": 156
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7325022261046411282~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=32515&refresh_token=2aad1d0f6eda385b6e8262b3d3a99686&x-expires=1739548800&x-signature=gs1kn3SFNlLzxEeKsJB2Az6R1gU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7325022261046411282~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=85299&refresh_token=8d244ecc27f17eec8ae53213ad55030d&x-expires=1739548800&x-signature=z7xmO3S8QHqVfBCesG%2Fi98r1jbY%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7325022261046411282~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=23173&refresh_token=986f450c0aa66029d5dbc5ef9f8b5230&x-expires=1739548800&x-signature=epWYSfFaHe2yvQclR2VPgfG8fGw%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://youtu.be/WSVQ_KO8_II?si=qkirAaJyFy2Tp9Ko",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6535091477667643403",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1690938076,
+         "nickname": "HURRYKNG",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showMusicTab": true,
+            "showPlayListTab": false
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA2IZ28DHj8wnHtruh9ZlE0qME1DdHRus7Yp-5lq031OZtBqSdagiGD2RTylCmrwm4",
+         "secret": false,
+         "signature": "\u0110\u00e2y l\u00e0 account ch\u00ednh th\u1ee9c c\u1ee7a HURRYKNG \u2705\n\u00c2M L\u00caN 100 is OUT NOW !!!",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "hurrykhang",
+         "verified": false
+      }
+   }
+}

@@ -1,0 +1,61 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202502130039559A034472E5AA3B15D12C",
+      "now": 1739378396000
+   },
+   "log_pb": {
+      "impr_id": "202502130039559A034472E5AA3B15D12C"
+   },
+   "shareMeta": {
+      "desc": "@anhtusinger 1.4m Followers, 165 Following, 26.9m Likes - Watch awesome short videos created by Nguy\u1ec5n Anh T\u00fa",
+      "title": "Nguy\u1ec5n Anh T\u00fa on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1400000,
+         "followingCount": 165,
+         "friendCount": 50,
+         "heart": 26900000,
+         "heartCount": 26900000,
+         "videoCount": 409
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4d7cd2daed86694d93949b0fd2e53d2f~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=89901&refresh_token=d4f79526883de3f6caa534b3c1a89f34&x-expires=1739548800&x-signature=RAYjl0TJgpaLZoVfWGeH5oJ9ZUo%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4d7cd2daed86694d93949b0fd2e53d2f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=81401&refresh_token=544a70d7de0b3b1e175ab694e8a2ef2c&x-expires=1739548800&x-signature=0LgMSF3oL1Fiv1dWSYSJEHDBhgw%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4d7cd2daed86694d93949b0fd2e53d2f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=68288&refresh_token=c873bc5a06eb95b501f7395226478b7f&x-expires=1739548800&x-signature=KKvTNOcJwS46oHON%2F3vGoiW1mOQ%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6525420830788567041",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Nguy\u1ec5n Anh T\u00fa",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showMusicTab": true,
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAycq8gWq2hwvjMx3sd3O6sYHmFZO8vfNtyD4tCBfcP_uj004k-5J0QDjgrU-Ifow9",
+         "secret": false,
+         "signature": "H\u00e1t b\u1eb1ng c\u1ea3 t\u00ednh m\u1ea1ng \ud83e\udd18\ud83c\udffb",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "anhtusinger",
+         "verified": true
+      }
+   }
+}

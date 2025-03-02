@@ -1,0 +1,756 @@
+[
+   {
+      "AIGCDescription": "",
+      "CategoryType": 0,
+      "author": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32cdd53caa6abf91b53f28bc495cc1f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=96034&refresh_token=a96cb0cd2adb03ee721c1ae520be9c8c&x-expires=1739552400&x-signature=TQd8ErBaqJnupq5kZ%2BYwwOYT0V4%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32cdd53caa6abf91b53f28bc495cc1f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=75872&refresh_token=594a762bfad90e8cb2f7fd50446b8bc6&x-expires=1739552400&x-signature=wvJdTXqfxECMR0Wrvyshk8vnnEA%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32cdd53caa6abf91b53f28bc495cc1f9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=96391&refresh_token=a043cfbdc1f26c1072b6752b721367cd&x-expires=1739552400&x-signature=oxaS9xwYUot7qr3Mb3Twy%2Bty9hc%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "217273669184565248",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Gowiththuong",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA6Gz8Sq0MqUCXIdcRCrPNm4bMDwQvfkGMjfY4hLtr5QQ1W2aqOdo3V-CSiFzDGjG5",
+         "secret": false,
+         "signature": "Nh\u1eafn tin IG: @gowiththuongg \u0111\u1ec3 book l\u1ecbch ch\u1ee5p \u2764\ufe0f\nLINK MUA PH\u1ee4 KI\u1ec6N CH\u1ee4P \u1ea2NH\ud83d\udc47\ud83c\udffb",
+         "stitchSetting": 0,
+         "uniqueId": "gowiththuong",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 1114,
+         "followerCount": 730100,
+         "followingCount": 0,
+         "friendCount": 0,
+         "heart": 21300000,
+         "heartCount": 21300000,
+         "videoCount": 126
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1601603015843841",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "chupanh"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "51442727",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "chupanhtet"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "602326",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "hanoi"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "614841",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "tet"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "2890838",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "aodai"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "B\u1ed9 \u1ea3nh tui ch\u1ee5p cho b\u00e9 Qu\u1ef3nh Anh \ud83d\udc95 #chupanh #chupanhtet #hanoi #tet #aodai ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 44,
+                  "hashtagName": "chupanh",
+                  "isCommerce": false,
+                  "start": 36,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 56,
+                  "hashtagName": "chupanhtet",
+                  "isCommerce": false,
+                  "start": 45,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 63,
+                  "hashtagName": "hanoi",
+                  "isCommerce": false,
+                  "start": 57,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "tet",
+                  "isCommerce": false,
+                  "start": 64,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 75,
+                  "hashtagName": "aodai",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1736854385,
+      "desc": "B\u1ed9 \u1ea3nh tui ch\u1ee5p cho b\u00e9 Qu\u1ef3nh Anh \ud83d\udc95 #chupanh #chupanhtet #hanoi #tet #aodai ",
+      "digged": false,
+      "duetDisplay": 0,
+      "forFriend": false,
+      "id": "7459732762019237138",
+      "imagePost": {
+         "cover": {
+            "imageHeight": 1170,
+            "imageURL": {
+               "urlList": [
+                  "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=a0QNIo2UivXA6Sizs%2F7QO2vd9O8%3D&shp=81f88b70&shcp=-",
+                  "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=4%2FWpRJXGO0rtubtQBZLyeE1eIiA%3D&shp=81f88b70&shcp=-"
+               ]
+            },
+            "imageWidth": 1755
+         },
+         "images": [
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/35baebb816e0473abb2c8b46087ef8bd~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=UhyBBioOVC6ZNrfA4IWA2wUE11E%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/35baebb816e0473abb2c8b46087ef8bd~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=o%2BEE44piy2LT7pIM7Q5NVFqdfCo%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 2160,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/9cf7f382e9a34a14a280c785f185c15a~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=jTE4hh42z1v45A9RXIhKrfPFlY4%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/9cf7f382e9a34a14a280c785f185c15a~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=e3BJK0NQgMQ%2BZAn122uD96Uck24%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 3240
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/b38b0d47648b4290a37ab18bd9febd28~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=VjpSsPeLV6KpT69pbwmDwpeKnf4%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/b38b0d47648b4290a37ab18bd9febd28~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=IzEII7ktGX%2FrwQshfpZ9KLPetKc%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/a9418caf9f4141478898d17a15111e8b~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=3IglNkUAPIxWhIM4LHPZXCmgcVU%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/a9418caf9f4141478898d17a15111e8b~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=xH2aa%2BS0B6voN5tEcMhb3Z%2FRAu4%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2562
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/22def0f3922942ff8c19769d4cd5edec~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=IdG2tVhu%2BDGICVGWH780ZLwxHVI%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/22def0f3922942ff8c19769d4cd5edec~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=h9y2UaMkVirZ3sHKAwFOVb0QUro%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/bdd584aacbe34ef2a74a71e7ae1a71dd~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=HSRZL9MCtx3NCujK1Q8kZBXy9q0%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/bdd584aacbe34ef2a74a71e7ae1a71dd~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=Dx3dhbNIFdVaES6efo7QSsNIH7k%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2562
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/c29e256015d946239b42f610d47c98d1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=uHNlt2miw%2B8sYELBl0Jsnep0KXo%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/c29e256015d946239b42f610d47c98d1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=iSVMQnuwHW%2B%2FWrn5Zwr6fBxDnqo%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/dfa0a7acb9c0470797fbcadd2e0ad3a4~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=y1F%2FCznX1qGLVnyY4XjE8%2B9TW%2FA%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/dfa0a7acb9c0470797fbcadd2e0ad3a4~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=HgkjhVMfg9z3lwi6tvL1TXy%2BbH8%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 1440,
+               "imageURL": {
+                  "urlList": [
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/23b3791abbdc4d9394556c88138fcc4b~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=PJRNdCqbQHKzrSxok6iVb4vzcIw%3D&shp=81f88b70&shcp=-",
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/23b3791abbdc4d9394556c88138fcc4b~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=1nDn5LzsdJ3OHPGiiIu82iMYfOY%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2160
+            },
+            {
+               "imageHeight": 1440,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/985e4adfd4e843aa913e105443fab8ee~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=njfGldA614g54vvCfgQctpEciA0%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/985e4adfd4e843aa913e105443fab8ee~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=wtWblkP6%2BeMenu7FAEpvF%2Bdroeo%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2160
+            }
+         ],
+         "shareCover": {
+            "imageHeight": 1170,
+            "imageURL": {
+               "urlList": [
+                  "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=a0QNIo2UivXA6Sizs%2F7QO2vd9O8%3D&shp=81f88b70&shcp=-",
+                  "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=4%2FWpRJXGO0rtubtQBZLyeE1eIiA%3D&shp=81f88b70&shcp=-"
+               ]
+            },
+            "imageWidth": 1755
+         },
+         "title": "C\u00e1c n\u00e0ng \u0111\u00e3 \u0111i ch\u1ee5p \u1ea3nh T\u1ebft h\u1ebft ch\u01b0aa \ud83c\udf38"
+      },
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "album": "M\u00e1 H\u1ed3ng",
+         "authorName": "To The Top Squad",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/o4VTWCIWtB2AQAAyo7AjPIEAir2iZErVUYOB0.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/o4VTWCIWtB2AQAAyo7AjPIEAir2iZErVUYOB0.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/o4VTWCIWtB2AQAAyo7AjPIEAir2iZErVUYOB0.jpeg",
+         "duration": 60,
+         "id": "7143194613849786369",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ocFsjqZnYCe7BEYdE0S6zZVBQiHfYFX2tOogQD",
+         "title": "M\u00e1 H\u1ed3ng"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 511,
+         "commentCount": 15,
+         "diggCount": 5941,
+         "playCount": 106800,
+         "shareCount": 252
+      },
+      "statsV2": {
+         "collectCount": "511",
+         "commentCount": "15",
+         "diggCount": "5941",
+         "playCount": "106800",
+         "repostCount": "0",
+         "shareCount": "252"
+      },
+      "stitchDisplay": 0,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 44,
+            "hashtagName": "chupanh",
+            "isCommerce": false,
+            "start": 36,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 56,
+            "hashtagName": "chupanhtet",
+            "isCommerce": false,
+            "start": 45,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 63,
+            "hashtagName": "hanoi",
+            "isCommerce": false,
+            "start": 57,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 68,
+            "hashtagName": "tet",
+            "isCommerce": false,
+            "start": 64,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 75,
+            "hashtagName": "aodai",
+            "isCommerce": false,
+            "start": 69,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "vi",
+      "textTranslatable": true,
+      "titleLanguage": "vi",
+      "titleTranslatable": true,
+      "video": {
+         "cover": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=a0QNIo2UivXA6Sizs%2F7QO2vd9O8%3D&shp=81f88b70&shcp=-",
+         "duration": 0,
+         "height": 0,
+         "id": "7459732762019237138",
+         "originCover": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=a0QNIo2UivXA6Sizs%2F7QO2vd9O8%3D&shp=81f88b70&shcp=-",
+         "ratio": "",
+         "volumeInfo": {},
+         "width": 0
+      },
+      "collectTime": 1739381588
+   },
+   {
+      "AIGCDescription": "",
+      "CategoryType": 0,
+      "author": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32cdd53caa6abf91b53f28bc495cc1f9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=3294&refresh_token=928f76601094c2873b184b5618c091bb&x-expires=1739552400&x-signature=TQd8ErBaqJnupq5kZ%2BYwwOYT0V4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32cdd53caa6abf91b53f28bc495cc1f9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=70825&refresh_token=796eee952894033ea5c37213ba1d5a6e&x-expires=1739552400&x-signature=wvJdTXqfxECMR0Wrvyshk8vnnEA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32cdd53caa6abf91b53f28bc495cc1f9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=25821&refresh_token=830b93ef0083d8ba2afe1c60db81288b&x-expires=1739552400&x-signature=3pToUrwe%2F0x579nccfMFnqGhjfE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "commentSetting": 0,
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "ftc": false,
+         "id": "217273669184565248",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Gowiththuong",
+         "openFavorite": false,
+         "privateAccount": false,
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA6Gz8Sq0MqUCXIdcRCrPNm4bMDwQvfkGMjfY4hLtr5QQ1W2aqOdo3V-CSiFzDGjG5",
+         "secret": false,
+         "signature": "Nh\u1eafn tin IG: @gowiththuongg \u0111\u1ec3 book l\u1ecbch ch\u1ee5p \u2764\ufe0f\nLINK MUA PH\u1ee4 KI\u1ec6N CH\u1ee4P \u1ea2NH\ud83d\udc47\ud83c\udffb",
+         "stitchSetting": 0,
+         "uniqueId": "gowiththuong",
+         "verified": false
+      },
+      "authorStats": {
+         "diggCount": 1114,
+         "followerCount": 730100,
+         "followingCount": 0,
+         "friendCount": 0,
+         "heart": 21300000,
+         "heartCount": 21300000,
+         "videoCount": 126
+      },
+      "backendSourceEventTracking": "",
+      "challenges": [
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "1601603015843841",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "chupanh"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "51442727",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "chupanhtet"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "602326",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "hanoi"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "614841",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "tet"
+         },
+         {
+            "coverLarger": "",
+            "coverMedium": "",
+            "coverThumb": "",
+            "desc": "",
+            "id": "2890838",
+            "profileLarger": "",
+            "profileMedium": "",
+            "profileThumb": "",
+            "title": "aodai"
+         }
+      ],
+      "collected": false,
+      "contents": [
+         {
+            "desc": "B\u1ed9 \u1ea3nh tui ch\u1ee5p cho b\u00e9 Qu\u1ef3nh Anh \ud83d\udc95 #chupanh #chupanhtet #hanoi #tet #aodai ",
+            "textExtra": [
+               {
+                  "awemeId": "",
+                  "end": 44,
+                  "hashtagName": "chupanh",
+                  "isCommerce": false,
+                  "start": 36,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 56,
+                  "hashtagName": "chupanhtet",
+                  "isCommerce": false,
+                  "start": 45,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 63,
+                  "hashtagName": "hanoi",
+                  "isCommerce": false,
+                  "start": 57,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 68,
+                  "hashtagName": "tet",
+                  "isCommerce": false,
+                  "start": 64,
+                  "subType": 0,
+                  "type": 1
+               },
+               {
+                  "awemeId": "",
+                  "end": 75,
+                  "hashtagName": "aodai",
+                  "isCommerce": false,
+                  "start": 69,
+                  "subType": 0,
+                  "type": 1
+               }
+            ]
+         }
+      ],
+      "createTime": 1736854385,
+      "desc": "B\u1ed9 \u1ea3nh tui ch\u1ee5p cho b\u00e9 Qu\u1ef3nh Anh \ud83d\udc95 #chupanh #chupanhtet #hanoi #tet #aodai ",
+      "digged": false,
+      "duetDisplay": 0,
+      "forFriend": false,
+      "id": "7459732762019237138",
+      "imagePost": {
+         "cover": {
+            "imageHeight": 1170,
+            "imageURL": {
+               "urlList": [
+                  "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=4%2FWpRJXGO0rtubtQBZLyeE1eIiA%3D&shp=81f88b70&shcp=-",
+                  "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=a0QNIo2UivXA6Sizs%2F7QO2vd9O8%3D&shp=81f88b70&shcp=-"
+               ]
+            },
+            "imageWidth": 1755
+         },
+         "images": [
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/35baebb816e0473abb2c8b46087ef8bd~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=UhyBBioOVC6ZNrfA4IWA2wUE11E%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/35baebb816e0473abb2c8b46087ef8bd~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=o%2BEE44piy2LT7pIM7Q5NVFqdfCo%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 2160,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/9cf7f382e9a34a14a280c785f185c15a~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=jTE4hh42z1v45A9RXIhKrfPFlY4%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/9cf7f382e9a34a14a280c785f185c15a~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=e3BJK0NQgMQ%2BZAn122uD96Uck24%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 3240
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/b38b0d47648b4290a37ab18bd9febd28~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=VjpSsPeLV6KpT69pbwmDwpeKnf4%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/b38b0d47648b4290a37ab18bd9febd28~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=IzEII7ktGX%2FrwQshfpZ9KLPetKc%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/a9418caf9f4141478898d17a15111e8b~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=3IglNkUAPIxWhIM4LHPZXCmgcVU%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/a9418caf9f4141478898d17a15111e8b~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=xH2aa%2BS0B6voN5tEcMhb3Z%2FRAu4%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2562
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/22def0f3922942ff8c19769d4cd5edec~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=IdG2tVhu%2BDGICVGWH780ZLwxHVI%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/22def0f3922942ff8c19769d4cd5edec~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=h9y2UaMkVirZ3sHKAwFOVb0QUro%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/bdd584aacbe34ef2a74a71e7ae1a71dd~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=HSRZL9MCtx3NCujK1Q8kZBXy9q0%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/bdd584aacbe34ef2a74a71e7ae1a71dd~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=Dx3dhbNIFdVaES6efo7QSsNIH7k%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2562
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/c29e256015d946239b42f610d47c98d1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=iSVMQnuwHW%2B%2FWrn5Zwr6fBxDnqo%3D&shp=81f88b70&shcp=-",
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/c29e256015d946239b42f610d47c98d1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=uHNlt2miw%2B8sYELBl0Jsnep0KXo%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 1708,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/dfa0a7acb9c0470797fbcadd2e0ad3a4~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=y1F%2FCznX1qGLVnyY4XjE8%2B9TW%2FA%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/dfa0a7acb9c0470797fbcadd2e0ad3a4~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=HgkjhVMfg9z3lwi6tvL1TXy%2BbH8%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2564
+            },
+            {
+               "imageHeight": 1440,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/23b3791abbdc4d9394556c88138fcc4b~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=1nDn5LzsdJ3OHPGiiIu82iMYfOY%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/23b3791abbdc4d9394556c88138fcc4b~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=PJRNdCqbQHKzrSxok6iVb4vzcIw%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2160
+            },
+            {
+               "imageHeight": 1440,
+               "imageURL": {
+                  "urlList": [
+                     "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/985e4adfd4e843aa913e105443fab8ee~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=njfGldA614g54vvCfgQctpEciA0%3D&shp=81f88b70&shcp=-",
+                     "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/985e4adfd4e843aa913e105443fab8ee~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=wtWblkP6%2BeMenu7FAEpvF%2Bdroeo%3D&shp=81f88b70&shcp=-"
+                  ]
+               },
+               "imageWidth": 2160
+            }
+         ],
+         "shareCover": {
+            "imageHeight": 1170,
+            "imageURL": {
+               "urlList": [
+                  "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=4%2FWpRJXGO0rtubtQBZLyeE1eIiA%3D&shp=81f88b70&shcp=-",
+                  "https://p9-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=a0QNIo2UivXA6Sizs%2F7QO2vd9O8%3D&shp=81f88b70&shcp=-"
+               ]
+            },
+            "imageWidth": 1755
+         },
+         "title": "C\u00e1c n\u00e0ng \u0111\u00e3 \u0111i ch\u1ee5p \u1ea3nh T\u1ebft h\u1ebft ch\u01b0aa \ud83c\udf38"
+      },
+      "itemCommentStatus": 0,
+      "item_control": {
+         "can_repost": true
+      },
+      "music": {
+         "album": "M\u00e1 H\u1ed3ng",
+         "authorName": "To The Top Squad",
+         "coverLarge": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/o4VTWCIWtB2AQAAyo7AjPIEAir2iZErVUYOB0.jpeg",
+         "coverMedium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/o4VTWCIWtB2AQAAyo7AjPIEAir2iZErVUYOB0.jpeg",
+         "coverThumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/o4VTWCIWtB2AQAAyo7AjPIEAir2iZErVUYOB0.jpeg",
+         "duration": 60,
+         "id": "7143194613849786369",
+         "isCopyrighted": false,
+         "original": false,
+         "playUrl": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/ocFsjqZnYCe7BEYdE0S6zZVBQiHfYFX2tOogQD",
+         "title": "M\u00e1 H\u1ed3ng"
+      },
+      "officalItem": false,
+      "originalItem": false,
+      "privateItem": false,
+      "secret": false,
+      "shareEnabled": true,
+      "stats": {
+         "collectCount": 511,
+         "commentCount": 15,
+         "diggCount": 5941,
+         "playCount": 106800,
+         "shareCount": 252
+      },
+      "statsV2": {
+         "collectCount": "511",
+         "commentCount": "15",
+         "diggCount": "5941",
+         "playCount": "106800",
+         "repostCount": "0",
+         "shareCount": "252"
+      },
+      "stitchDisplay": 0,
+      "textExtra": [
+         {
+            "awemeId": "",
+            "end": 44,
+            "hashtagName": "chupanh",
+            "isCommerce": false,
+            "start": 36,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 56,
+            "hashtagName": "chupanhtet",
+            "isCommerce": false,
+            "start": 45,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 63,
+            "hashtagName": "hanoi",
+            "isCommerce": false,
+            "start": 57,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 68,
+            "hashtagName": "tet",
+            "isCommerce": false,
+            "start": 64,
+            "subType": 0,
+            "type": 1
+         },
+         {
+            "awemeId": "",
+            "end": 75,
+            "hashtagName": "aodai",
+            "isCommerce": false,
+            "start": 69,
+            "subType": 0,
+            "type": 1
+         }
+      ],
+      "textLanguage": "vi",
+      "textTranslatable": true,
+      "titleLanguage": "vi",
+      "titleTranslatable": true,
+      "video": {
+         "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=4%2FWpRJXGO0rtubtQBZLyeE1eIiA%3D&shp=81f88b70&shcp=-",
+         "duration": 0,
+         "height": 0,
+         "id": "7459732762019237138",
+         "originCover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/41ce5ba4af9d41e99584441161363da1~tplv-photomode-image.jpeg?lk3s=81f88b70&x-expires=1739552400&x-signature=4%2FWpRJXGO0rtubtQBZLyeE1eIiA%3D&shp=81f88b70&shcp=-",
+         "ratio": "",
+         "volumeInfo": {},
+         "width": 0
+      },
+      "collectTime": 1739381591
+   }
+]

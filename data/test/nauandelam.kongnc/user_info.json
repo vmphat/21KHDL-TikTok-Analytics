@@ -1,0 +1,61 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250302223537421E1665E9DD5F903AFF",
+      "now": 1740926137000
+   },
+   "log_pb": {
+      "impr_id": "20250302223537421E1665E9DD5F903AFF"
+   },
+   "shareMeta": {
+      "desc": "@nauandelam.kongnc 285.8k Followers, 79 Following, 5.5m Likes - Watch awesome short videos created by N\u1ea5u \u0102n D\u1ec5 L\u1eafm \ud83e\udd24",
+      "title": "N\u1ea5u \u0102n D\u1ec5 L\u1eafm \ud83e\udd24 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 285800,
+         "followingCount": 79,
+         "friendCount": 33,
+         "heart": 5500000,
+         "heartCount": 5500000,
+         "videoCount": 348
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e0a5e0beadea208dc51050e8fcb489fc~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=60337&refresh_token=0c6d977c159b815949ef7d705c6e393a&x-expires=1741096800&x-signature=GkXPX%2B12Rd3SVemFU838k7iSR04%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e0a5e0beadea208dc51050e8fcb489fc~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=72327&refresh_token=b4f6510419a1c0843e9e5aba58863f3c&x-expires=1741096800&x-signature=tBbZmcBTWE9Y8jVACAiVCo8qDYI%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/e0a5e0beadea208dc51050e8fcb489fc~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=905&refresh_token=6006dd181d03b5a1707f9b8853c40f8c&x-expires=1741096800&x-signature=cn9A%2F%2Bm%2BTZp7lZCE5RYg1i9ebOo%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7357945653743469585",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1726656984,
+         "nickname": "N\u1ea5u \u0102n D\u1ec5 L\u1eafm \ud83e\udd24",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAi2_2VnK9P6UOx66dwba89kiZVCraqz9KAL-sAk0NqBuUfA0SiSWdxHe-kaopDzOw",
+         "secret": false,
+         "signature": "N\u1ea5u \u0103n d\u1ec5 l\u1eafm!!!\n@K O N G \nForwork: kongnc1010@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "nauandelam.kongnc",
+         "verified": false
+      }
+   }
+}

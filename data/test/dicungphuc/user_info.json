@@ -1,0 +1,61 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202503022236234780A9045281CD943243",
+      "now": 1740926184000
+   },
+   "log_pb": {
+      "impr_id": "202503022236234780A9045281CD943243"
+   },
+   "shareMeta": {
+      "desc": "@dicungphuc 384.0k Followers, 85 Following, 11.0m Likes - Watch awesome short videos created by \u0110i C\u00f9ng Ph\u00fac",
+      "title": "\u0110i C\u00f9ng Ph\u00fac on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 384000,
+         "followingCount": 85,
+         "friendCount": 81,
+         "heart": 11000000,
+         "heartCount": 11000000,
+         "videoCount": 2273
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/384e69bb9b6a51e596556ec33c7eff44~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=7694&refresh_token=eb27ebbe460ce03c9afba3e65e276fd7&x-expires=1741096800&x-signature=jG%2Ffvs7JlZHDpFy%2BoOx4LoVHGCQ%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/384e69bb9b6a51e596556ec33c7eff44~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=80570&refresh_token=44bbd817df23e4251df4d655899b625f&x-expires=1741096800&x-signature=4PYR%2FMMW5tt9azi6dkIw2R0hroQ%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/384e69bb9b6a51e596556ec33c7eff44~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=6434&refresh_token=4684fe81fa9143cdce5c1353554fc080&x-expires=1741096800&x-signature=eh4gDE9F9WJjRCcyPkFiRmxBbls%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 3,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6741580738694775809",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "\u0110i C\u00f9ng Ph\u00fac",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA0VTxHQwmFvV8ooi9v-1W5B_89mIPkEQeTU5REifsEkWEl4pvidc6g5kDZNSK-LK7",
+         "secret": false,
+         "signature": "\ud83c\udfd6\ud83c\udfd5Travel Vlogger\ud83c\udf34\u2708\ufe0f\nS\u1eafp \u0111i B\u00ecnh Thu\u1eadn, VTau, Nha Trang\nNt ZL: 0934030690",
+         "stitchSetting": 3,
+         "ttSeller": false,
+         "uniqueId": "dicungphuc",
+         "verified": false
+      }
+   }
+}

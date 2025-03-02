@@ -1,0 +1,62 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202503022236032FA09928D509B5891298",
+      "now": 1740926163000
+   },
+   "log_pb": {
+      "impr_id": "202503022236032FA09928D509B5891298"
+   },
+   "shareMeta": {
+      "desc": "@titbeolaocai 621.1k Followers, 393 Following, 29.6m Likes - Watch awesome short videos created by Tr\u00e1ng A Thanh",
+      "title": "Tr\u00e1ng A Thanh on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 621100,
+         "followingCount": 393,
+         "friendCount": 45,
+         "heart": 29600000,
+         "heartCount": 29600000,
+         "videoCount": 945
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d34ca3b463143762c67371c416475e2d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=81692&refresh_token=5b939cf1ba67b6e7c2433b10fdc0152d&x-expires=1741096800&x-signature=PfeE3c51MirFkyPTupz2DJQANu4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d34ca3b463143762c67371c416475e2d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=97661&refresh_token=1b986788c3cdd49b4a01628b0c899278&x-expires=1741096800&x-signature=iQhrRnL474pWA7CgJ7J%2F08DH4U8%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d34ca3b463143762c67371c416475e2d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=40696&refresh_token=67947bbda1aa324d5a98068ae3003e3c&x-expires=1741096800&x-signature=D8fCDe9nX%2FpD1GX4OKVA2RkXgN4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7034481891899229186",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1701551777,
+         "nickname": "Tr\u00e1ng A Thanh",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAGqqzifkAUJq1rnEWuwVqJxiI42mLL2GTgotqs3GHCXSqdAGmUC9wfi2T83ZWM3ey",
+         "secret": false,
+         "signature": "Chuy\u1ec7n c\u1ee7a T\u00edt B\u00e9o\nContact for work: 0911116868\nBooking.trangathanh@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": true,
+         "uniqueId": "titbeolaocai",
+         "verified": false
+      }
+   }
+}

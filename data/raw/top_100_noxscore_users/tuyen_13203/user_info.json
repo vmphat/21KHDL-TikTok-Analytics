@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025021300540044302B756467D5160A34",
+      "now": 1739379240000
+   },
+   "log_pb": {
+      "impr_id": "2025021300540044302B756467D5160A34"
+   },
+   "shareMeta": {
+      "desc": "@tuyen_13203 745.4k Followers, 144 Following, 5.9m Likes - Watch awesome short videos created by Thanh Tuy\u1ec1n_\ud83e\udd5f",
+      "title": "Thanh Tuy\u1ec1n_\ud83e\udd5f on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 745400,
+         "followingCount": 144,
+         "friendCount": 142,
+         "heart": 5900000,
+         "heartCount": 5900000,
+         "videoCount": 263
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/834b7696d3a8339a0446acf21eff345f.jpeg?lk3s=a5d48078&nonce=94107&refresh_token=afbba3523b1f678ef6f837cb0d78b6c7&x-expires=1739548800&x-signature=zponpoYbwbNCw1ZaSA%2FVDNdT%2FQI%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/834b7696d3a8339a0446acf21eff345f.jpeg?lk3s=a5d48078&nonce=29318&refresh_token=053d87fe4db74d8da158d515f306f70f&x-expires=1739548800&x-signature=2INXOwUIxiogaBx04FiFeAZAtTs%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/834b7696d3a8339a0446acf21eff345f.jpeg?lk3s=a5d48078&nonce=169&refresh_token=5779f391f2f491c53dc5890eedf4b6eb&x-expires=1739548800&x-signature=ot%2FOCxX%2FRVSqapKrlJ5jecd6QSk%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "beacons.ai/ntt.t13",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6763445633753629698",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1663413290,
+         "nickname": "Thanh Tuy\u1ec1n_\ud83e\udd5f",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": false,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAABtMEZu70djMlGx-e9YE7keBx8Gc76BVi_uDeyF5Y1SeCBBje7N6UOCTocRumu8kz",
+         "secret": false,
+         "signature": "FB: Thanhh Tuy\u1ec1n",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "tuyen_13203",
+         "verified": false
+      }
+   }
+}

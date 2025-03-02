@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202503022305312148A4CA28438C83A1E3",
+      "now": 1740927932000
+   },
+   "log_pb": {
+      "impr_id": "202503022305312148A4CA28438C83A1E3"
+   },
+   "shareMeta": {
+      "desc": "@ngay3bua.official 328.5k Followers, 33 Following, 6.5m Likes - Watch awesome short videos created by Ng\u00e0y 3 B\u1eefa",
+      "title": "Ng\u00e0y 3 B\u1eefa on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 328500,
+         "followingCount": 33,
+         "friendCount": 21,
+         "heart": 6500000,
+         "heartCount": 6500000,
+         "videoCount": 245
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7117932768747044891~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=57783&refresh_token=bf1aac64b945bb96cb0bc9bb05358c45&x-expires=1741100400&x-signature=wGH%2BNpHW3bH9q%2Bbd3HMWEuJH5Tk%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7117932768747044891~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=60644&refresh_token=d9e2ed0a9a58d71aae4ad520d2dc4e39&x-expires=1741100400&x-signature=VyRAHiiW4CEEHek%2F%2FlLrxh5eryo%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/7117932768747044891~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=98975&refresh_token=fd7b515865d0bd414bf98ba75fd02eed&x-expires=1741100400&x-signature=t4TGBBhQwYZEqD9IGTFFmDg8qkA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://shopee.vn/product/987373161/27968564141?d_id=e835b&uls_trackid=51iouppm01oh&utm_content=44pgE5Hh9mrt4Wz3k1ziNtEMph2o",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7117932322938373147",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1726504169,
+         "nickname": "Ng\u00e0y 3 B\u1eefa",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAO3DeQtsiJ091jxwH5YAK_mD0lFsh7T7cQl-zqJY3SDGVL03ZI7FfjIx7TwhQredm",
+         "secret": false,
+         "signature": "Hello! Ng\u00e0y 3 B\u1eefa ch\u00e0o b\u1ea1n\ud83d\udc69\ud83c\udffb\u200d\ud83c\udf73\ud83d\udc68\ud83c\udffb\u200d\ud83c\udf73\n\ud83d\udc8c partners@schannel.vn",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "ngay3bua.official",
+         "verified": false
+      }
+   }
+}

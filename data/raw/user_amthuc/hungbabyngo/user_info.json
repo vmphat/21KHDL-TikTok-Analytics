@@ -1,0 +1,62 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025030223070665B3C5AA03D579D46822",
+      "now": 1740928026000
+   },
+   "log_pb": {
+      "impr_id": "2025030223070665B3C5AA03D579D46822"
+   },
+   "shareMeta": {
+      "desc": "@hungbabyngo 647.4k Followers, 82 Following, 12.1m Likes - Watch awesome short videos created by Hungbaby Ng\u1ed1 (L\u00ea Vi\u1ec7t H\u00f9ng)",
+      "title": "Hungbaby Ng\u1ed1 (L\u00ea Vi\u1ec7t H\u00f9ng) on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 647400,
+         "followingCount": 82,
+         "friendCount": 41,
+         "heart": 12100000,
+         "heartCount": 12100000,
+         "videoCount": 792
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/b32706abb7b63d5e239f3c778d2b636f~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=24687&refresh_token=b3c302f16c1906aedb97666ae4e44305&x-expires=1741100400&x-signature=C3T66QL5VrA0mEYKFREaoCof64U%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/b32706abb7b63d5e239f3c778d2b636f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=17139&refresh_token=9ea99f138b8d9f7552a9e0be0d286a99&x-expires=1741100400&x-signature=N9a4%2FCm3XBlE6WA93DCtJyRShnE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/b32706abb7b63d5e239f3c778d2b636f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=98450&refresh_token=96fc4ce7aadf02bd687e3408484d43dd&x-expires=1741100400&x-signature=YNxsE4zQGOPHBbL58Yoi1H91qKw%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 3,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6806136176660825089",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1684327518,
+         "nickname": "Hungbaby Ng\u1ed1 (L\u00ea Vi\u1ec7t H\u00f9ng)",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAmM0raxg5ReUTRYjkcIzTUX1MuZPUac40Io6asfUeMgCDS6gtA35D8pSAKVqs6HLX",
+         "secret": false,
+         "signature": "hungledt66@gmail.com\n\ud83c\udf88H\u1ed6 TR\u1ee2 REVIEW QU\u1ea2NG B\u00c1\ud83c\udf88",
+         "stitchSetting": 0,
+         "ttSeller": true,
+         "uniqueId": "hungbabyngo",
+         "verified": false
+      }
+   }
+}

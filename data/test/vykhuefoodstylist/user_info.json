@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250302223557BF1486EE694719935CAE",
+      "now": 1740926157000
+   },
+   "log_pb": {
+      "impr_id": "20250302223557BF1486EE694719935CAE"
+   },
+   "shareMeta": {
+      "desc": "@vykhuefoodstylist 739.5k Followers, 26 Following, 19.5m Likes - Watch awesome short videos created by Vy Khue LAB",
+      "title": "Vy Khue LAB on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 739500,
+         "followingCount": 26,
+         "friendCount": 6,
+         "heart": 19500000,
+         "heartCount": 19500000,
+         "videoCount": 587
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=3448&refresh_token=f2b32499f05fba330c339b114f9417a9&x-expires=1741096800&x-signature=mUvqTJEp83rCd5ux%2Bj8wlqeALqI%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=25210&refresh_token=6c40bbe06f34282e6a862d1aa18dfe7b&x-expires=1741096800&x-signature=J0IxMt8%2FAdX1hEu0ql93opo%2BDT4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=41257&refresh_token=046d5748668c73145ddf2db2d6245a01&x-expires=1741096800&x-signature=QPVPbvdUDM7NWGWZjgz8ywTHWwQ%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://linktr.ee/VYKHUELAB",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6805955242359079937",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1734799509,
+         "nickname": "Vy Khue LAB",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAQh2Pp92MtIUUnQgYCdZobXiw7oGS6gCdtsbXDWflytTYic0Z5USP5vSLinlvQ39E",
+         "secret": false,
+         "signature": "Li\u00ean h\u1ec7: vykhuefoodstylist@gmail.com\n\u0110\u0102NG K\u00dd L\u1edaP B\u00c1NH ONLINE \n\ud83d\udc47\ud83d\udc47\ud83d\udc47",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "vykhuefoodstylist",
+         "verified": false
+      }
+   }
+}
