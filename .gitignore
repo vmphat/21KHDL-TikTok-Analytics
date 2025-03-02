@@ -7,3 +7,4 @@ myenv/*
 development/*
 # Ignore all videos
 *.mp4
+myenv/
