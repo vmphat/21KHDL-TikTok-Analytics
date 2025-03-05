@@ -1,65 +1,48 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230718A563BD7E5E38BDD91D94",
-      "now": 1740928038000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 557100,
+      "followingCount": 445,
+      "friendCount": 115,
+      "heart": 24300000,
+      "heartCount": 24300000,
+      "videoCount": 2238
    },
-   "log_pb": {
-      "impr_id": "20250302230718A563BD7E5E38BDD91D94"
-   },
-   "shareMeta": {
-      "desc": "@tebefood 557.0k Followers, 445 Following, 24.3m Likes - Watch awesome short videos created by Tebefood",
-      "title": "Tebefood on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 557000,
-         "followingCount": 445,
-         "friendCount": 114,
-         "heart": 24300000,
-         "heartCount": 24300000,
-         "videoCount": 2235
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/39724e382ef3080ac0890a4cdc42d455~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=eabc533c&x-expires=1741348800&x-signature=nViS%2BpHkl3blBpkQoriIPYQHsew%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/39724e382ef3080ac0890a4cdc42d455~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=2d7514e6&x-expires=1741348800&x-signature=G%2B2cOrwBLElbwQCEnmk6sui%2Fn30%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/39724e382ef3080ac0890a4cdc42d455~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=7c875757&x-expires=1741348800&x-signature=HQlkDaEZbAq3tvzcufaPWzJNDjw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://discovery.koc.com.vn/influencer/tebefood",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/39724e382ef3080ac0890a4cdc42d455~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=62076&refresh_token=376f8f238d3a8a2f109d77e550a6affb&x-expires=1741100400&x-signature=He7nNbZExwZwGB5EVoNWgUAcWHA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/39724e382ef3080ac0890a4cdc42d455~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=86703&refresh_token=8fd68291f93ad2045f5cd49d40459f1b&x-expires=1741100400&x-signature=gP4khzT2BTJvMTNKYapOElr19A8%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/39724e382ef3080ac0890a4cdc42d455~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=83399&refresh_token=9a96877fa6d546767ed59ce65b38af8b&x-expires=1741100400&x-signature=QKCDO%2FsCRN0%2BNGhZZuZxFDXtQFY%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://discovery.koc.com.vn/influencer/tebefood",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "6658040828780429313",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickname": "Tebefood",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAA8hp8XAWYUQS4NG9jWCnn1cuLonbaXUKZdI9iwn5ftk6yq5CskNicHnb3mUeXXjx_",
-         "secret": false,
-         "signature": "Food Rapper vui nh\u1ed9n l\u00e0 tui \u0111\u00e2y \ud83e\udd23\nFor work: tebefood2020@gmail.com",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "tebefood",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6658040828780429313",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "Tebefood",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA8hp8XAWYUQS4NG9jWCnn1cuLonbaXUKZdI9iwn5ftk6yq5CskNicHnb3mUeXXjx_",
+      "secret": false,
+      "signature": "Food Rapper vui nh\u1ed9n l\u00e0 tui \u0111\u00e2y \ud83e\udd23\nFor work: tebefood2020@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "tebefood",
+      "verified": false
    }
 }

@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 113100,
+      "followingCount": 0,
+      "friendCount": 0,
+      "heart": 6600000,
+      "heartCount": 6600000,
+      "videoCount": 512
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/442adddaae8bccab58cd11581dbd91ce~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=d74a2f4c&x-expires=1741348800&x-signature=bqpqDuI%2BI%2FbItpm1n7ABBzLWx%2Bk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/442adddaae8bccab58cd11581dbd91ce~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=8eeb6625&x-expires=1741348800&x-signature=m%2FvtVGM4rKXghI1D11kHGoam%2BOQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/442adddaae8bccab58cd11581dbd91ce~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=33205c06&x-expires=1741348800&x-signature=t4Es8aeVqQ61HpcRnvVIF3jqCs0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7202268714212869147",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1680797186,
+      "nickname": "\u0102n Nh\u01b0ng Kh\u00f4ng B\u00e9o",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAXNpbCxNYRZFcTVLKsysKvX4aye6i1JqT0LC8CDKI57vR5J0X9FG-RPrDFnpNKAzP",
+      "secret": false,
+      "signature": "C\u00f9ng b\u1ecdn m\u00ecnh truy l\u00f9ng \u0111\u1ed3 \u0103n ngon nha\nFor work zl: Kh\u00f4ng9Kh\u00f4ng-433-4641",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "annhungkhongbeo",
+      "verified": false
+   }
+}

@@ -1,0 +1,45 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 8600000,
+      "followingCount": 81,
+      "friendCount": 26,
+      "heart": 187400000,
+      "heartCount": 187400000,
+      "videoCount": 1120
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/94e1267b55fd9631f367cdc8bc167996~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=3e29593c&x-expires=1741348800&x-signature=zKzuoH%2BP84ZWxy7vKc8h4rYJcmQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/94e1267b55fd9631f367cdc8bc167996~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=3cf290e1&x-expires=1741348800&x-signature=wpJQGiix8sFeUgDWn9y5kEs3sOo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/94e1267b55fd9631f367cdc8bc167996~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c68fec65&x-expires=1741348800&x-signature=9eix5JsufcdmvwKYGQeXoWGUxIQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6579989736419753986",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1658659689,
+      "nickname": "Dj Mie",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showMusicTab": true,
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAgyTGnXeAG04e_hZJX0Mw15FB_RxQxuuhsZvBQl9ZwKtXrtrehOQ7aKTvoDy_h43_",
+      "secret": false,
+      "signature": "Youtube & Fanpage: Dj Mie Official",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "djmievn",
+      "verified": true
+   }
+}

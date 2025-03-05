@@ -1,0 +1,54 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 69000,
+      "followingCount": 12,
+      "friendCount": 9,
+      "heart": 1700000,
+      "heartCount": 1700000,
+      "videoCount": 351
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9e44a0090e9aa388b7a6bbdf94ffedad~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=eb09ae50&x-expires=1741348800&x-signature=Oi6bJlxvI2hSqmTNoLDNkNCBytk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9e44a0090e9aa388b7a6bbdf94ffedad~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=4ba84c09&x-expires=1741348800&x-signature=tEGTpa49xjbs%2FI3ev3iBczD4QBM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/9e44a0090e9aa388b7a6bbdf94ffedad~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=30ee6968&x-expires=1741348800&x-signature=GPBHDHa0lMLrZW7905SXY2fxOpU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "http://beacons.ai/jaynitravel/",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Travel & Tourism",
+         "categoryButton": false,
+         "commerceUser": true,
+         "downLoadLink": {
+            "android": "",
+            "ios": ""
+         }
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6982362200951292954",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1681462773,
+      "nickname": "Jayni\u2002Travel",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA-3DXO1caVPil5bUpMASY6fMWNuYrNL4Q1Is104n1xaR3XyR5V-tqvwHv913cQC-A",
+      "secret": false,
+      "signature": "Next: Th\u00e1i Lan, Ph\u00fa Qu\u00fd, T\u00e2y Ninh",
+      "stitchSetting": 0,
+      "ttSeller": true,
+      "uniqueId": "jaynitravel",
+      "verified": false
+   }
+}

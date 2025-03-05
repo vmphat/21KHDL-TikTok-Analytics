@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1000000,
+      "followingCount": 84,
+      "friendCount": 13,
+      "heart": 66800000,
+      "heartCount": 66800000,
+      "videoCount": 525
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/80c2069a2087c06fa29a78b3492f47b4~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=51a0c620&x-expires=1741348800&x-signature=k5YmkcHrVD%2B7Bt3JRJYBp2hS81g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/80c2069a2087c06fa29a78b3492f47b4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=cf619989&x-expires=1741348800&x-signature=fpA8KI0DtQw68iOJFkPFlG3%2FDNQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/80c2069a2087c06fa29a78b3492f47b4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2739165e&x-expires=1741348800&x-signature=d6TU%2Bh6e%2BApBdLDJny2DKBNeVVw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6675890617647940609",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1652990093,
+      "nickname": "\u2728 \ud835\udc07 \ud835\udc08 \ud835\udc0c & \ud835\udc0d\ud835\udc20\ud835\udc28\u0323\ud835\udc2d \u2728",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA5kf47HVmQu1UvLODx0w-vSRsNOs_A8biz_m-CKKuk8TXkRClDOtxUmLV7GM3w56-",
+      "secret": false,
+      "signature": "For work: himxngot@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "himxngot",
+      "verified": false
+   }
+}

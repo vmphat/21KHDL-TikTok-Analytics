@@ -1,66 +1,49 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230752EBE24000711FEBD9154F",
-      "now": 1740928072000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 453000,
+      "followingCount": 772,
+      "friendCount": 226,
+      "heart": 19200000,
+      "heartCount": 19200000,
+      "videoCount": 1248
    },
-   "log_pb": {
-      "impr_id": "20250302230752EBE24000711FEBD9154F"
-   },
-   "shareMeta": {
-      "desc": "@hukha.foodaholic 453.1k Followers, 772 Following, 19.2m Likes - Watch awesome short videos created by Hukha Foodaholic \u2728",
-      "title": "Hukha Foodaholic \u2728 on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 453100,
-         "followingCount": 772,
-         "friendCount": 225,
-         "heart": 19200000,
-         "heartCount": 19200000,
-         "videoCount": 1247
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56c75a95b51f0d1e19a27f7a34552287~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=3b984dc2&x-expires=1741348800&x-signature=diFNmxEbXBHM8mnO7oDzxHLdRO0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56c75a95b51f0d1e19a27f7a34552287~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=c77ecfba&x-expires=1741348800&x-signature=XCdfYHtcehXEP1H9YMqygJQc4bI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56c75a95b51f0d1e19a27f7a34552287~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=ea5dc970&x-expires=1741348800&x-signature=FJ9Qitz5DLQG2qgJLdGHpiZ9t3k%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://linktr.ee/Hukhafoodaholic",
+         "risk": 0
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56c75a95b51f0d1e19a27f7a34552287~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=34463&refresh_token=fc6bd1a8d055d9eecadefb6b8ce43c23&x-expires=1741100400&x-signature=2H8sbzsNYP2hC8sIBrU7DVcEwfU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56c75a95b51f0d1e19a27f7a34552287~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=82788&refresh_token=ce54d95f345a11ce2c020a78e32b6db4&x-expires=1741100400&x-signature=WqC2f6GwfVdg5%2Fhv%2F9VVRwuG410%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56c75a95b51f0d1e19a27f7a34552287~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=35557&refresh_token=10f147410515afd39bf7e6306c74f385&x-expires=1741100400&x-signature=0VR4WrYeOooI9sR0AytbBJxVD1Q%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://linktr.ee/Hukhafoodaholic",
-            "risk": 0
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "6614822677406466050",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1695444277,
-         "nickname": "Hukha Foodaholic \u2728",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAWDAT_KOB8eJNN5cVontbCE-vvpZb44k-hNzkQke3zaBscKFt_nkAQmIdIHU01hkJ",
-         "secret": false,
-         "signature": "\u0110i \u0103n \u0111i u\u1ed1ng v\u00e0 du l\u1ecbch kh\u1eafp n\u01a1iii \ud83d\udc95\n\ud83d\udce9 for work:capcasaigon@gmail.com",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "hukha.foodaholic",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6614822677406466050",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1695444277,
+      "nickname": "Hukha Foodaholic \u2728",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAWDAT_KOB8eJNN5cVontbCE-vvpZb44k-hNzkQke3zaBscKFt_nkAQmIdIHU01hkJ",
+      "secret": false,
+      "signature": "\u0110i \u0103n \u0111i u\u1ed1ng v\u00e0 du l\u1ecbch kh\u1eafp n\u01a1iii \ud83d\udc95\n\ud83d\udce9 for work:capcasaigon@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "hukha.foodaholic",
+      "verified": false
    }
 }

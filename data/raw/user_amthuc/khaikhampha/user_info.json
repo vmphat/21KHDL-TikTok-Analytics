@@ -1,62 +1,45 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230743E257AD3B53CC9AD670B9",
-      "now": 1740928064000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1700000,
+      "followingCount": 112,
+      "friendCount": 99,
+      "heart": 52200000,
+      "heartCount": 52200000,
+      "videoCount": 1107
    },
-   "log_pb": {
-      "impr_id": "20250302230743E257AD3B53CC9AD670B9"
-   },
-   "shareMeta": {
-      "desc": "@khaikhampha 1.7m Followers, 112 Following, 52.2m Likes - Watch awesome short videos created by Kh\u1ea3i Kh\u00e1m Ph\u00e1",
-      "title": "Kh\u1ea3i Kh\u00e1m Ph\u00e1 on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 1700000,
-         "followingCount": 112,
-         "friendCount": 100,
-         "heart": 52200000,
-         "heartCount": 52200000,
-         "videoCount": 1106
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8e54e4b113005c89f4dc53820eb0b2ee~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=bc85e24b&x-expires=1741348800&x-signature=vLao9PLZYogkWHtcCZrxlc3TXMk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8e54e4b113005c89f4dc53820eb0b2ee~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=fddcf54a&x-expires=1741348800&x-signature=SixdQMZUCb22d8WWHQPSR3dKYJ4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8e54e4b113005c89f4dc53820eb0b2ee~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=20d80f3d&x-expires=1741348800&x-signature=%2BwFavq%2BU5J1%2B%2FY2dRqOmMo1hbhg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8e54e4b113005c89f4dc53820eb0b2ee~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=43141&refresh_token=cd78f1e50bd8022d9376ebfaccc05678&x-expires=1741100400&x-signature=vMYQKB26xAcGuJSdTajf%2FbyBFcE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8e54e4b113005c89f4dc53820eb0b2ee~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=15842&refresh_token=b41109d2b27d02c066be9335b814c17c&x-expires=1741100400&x-signature=dYixj17eLP%2B4R5FsCOyLlmwf33Y%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8e54e4b113005c89f4dc53820eb0b2ee~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=17401&refresh_token=cc8da35805d758589d95cb2e0fd6f6f7&x-expires=1741100400&x-signature=R8NTlevZa9%2Fka0ny9koKYp3KSTQ%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "6979538599804978177",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1667982051,
-         "nickname": "Kh\u1ea3i Kh\u00e1m Ph\u00e1",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": false,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAASZHbBcMvDWKKfR0dkCfamO7gR1lzRABhIczu9EEmkr-LT5CxHhWKt_t-E6fcd_j",
-         "secret": false,
-         "signature": "Forwork Zalo: 0937.355.831 (Kh\u1ea3i)\n\ud83d\udce9: khaikhampha.booking@gmail.com",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "khaikhampha",
-         "verified": true
-      }
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6979538599804978177",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1667982051,
+      "nickname": "Kh\u1ea3i Kh\u00e1m Ph\u00e1",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAASZHbBcMvDWKKfR0dkCfamO7gR1lzRABhIczu9EEmkr-LT5CxHhWKt_t-E6fcd_j",
+      "secret": false,
+      "signature": "Forwork Zalo: 0937.355.831 (Kh\u1ea3i)\n\ud83d\udce9: khaikhampha.booking@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "khaikhampha",
+      "verified": true
    }
 }

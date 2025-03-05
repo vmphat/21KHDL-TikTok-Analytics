@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 123600,
+      "followingCount": 17,
+      "friendCount": 15,
+      "heart": 6000000,
+      "heartCount": 6000000,
+      "videoCount": 459
+   },
+   "user": {
+      "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/5fb279d8265496e486dea7acc588f505~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=31bd366a&x-expires=1741348800&x-signature=UBPfqp7jEnzIbfC35qyQm%2FkfcKI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/5fb279d8265496e486dea7acc588f505~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=6b18ef37&x-expires=1741348800&x-signature=WIhKDv%2FB5rybXzGcYTm3H3TIEp4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/5fb279d8265496e486dea7acc588f505~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=7dd6be70&x-expires=1741348800&x-signature=UAPP9fjlzBg0oEljgeZ104eI2Kg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/annievu259",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7231454716248818693",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1683704464,
+      "nickname": "Annie Vu ( An Y\u1ebfn )",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAGOydL_2ZDWSrnzXX6nb-21IEL7t8hrxauOz8cL0yZsz4ZFtzad7jA7Nzt0E_h_Z-",
+      "secret": false,
+      "signature": "Contact for work: 0878826767 (Zalo)\nIg: imannie.25\n\u0110\u1ed3 tui m\u1eb7c\ud83d\udc47\ud83c\udffb",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "annievu259",
+      "verified": false
+   }
+}

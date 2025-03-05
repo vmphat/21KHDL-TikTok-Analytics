@@ -1,0 +1,51 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 599200,
+      "followingCount": 92,
+      "friendCount": 52,
+      "heart": 19200000,
+      "heartCount": 19200000,
+      "videoCount": 712
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/10222202257aa47ce6e3a8055680f002~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=4c161a5a&x-expires=1741348800&x-signature=hkH51ovqXUXr4%2FHML57WI7k9zd8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/10222202257aa47ce6e3a8055680f002~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=bbba070b&x-expires=1741348800&x-signature=ORcTW6T1pqGiRjv1mbKiqnQtkOY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/10222202257aa47ce6e3a8055680f002~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=5f8392db&x-expires=1741348800&x-signature=y0%2BAQEIuRWRshzMywr9CspJQpeE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "http://ldp.to/6j1TZ",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Health & Wellness",
+         "categoryButton": false,
+         "commerceUser": true
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6856185937224221697",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1614766510,
+      "nickname": "S\u01b0 T\u1eed \u0102n Chay",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAWsBgD4qY1CpjbpXOMW7hrku3-gr4yfOiXAsSS3G8uVBYPAECwIGJMIPlsI32_09E",
+      "secret": false,
+      "signature": "\ud83c\udfcb\ud83c\udffcH\u00e0nh tr\u00ecnh vdv \u0103n chay \u0110\u1ea6U TI\u00caN\nsutuanchay0708@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "sutuanchay_78",
+      "verified": false
+   }
+}

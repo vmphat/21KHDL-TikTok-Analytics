@@ -1,0 +1,43 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 631300,
+      "followingCount": 112,
+      "friendCount": 91,
+      "heart": 20600000,
+      "heartCount": 20600000,
+      "videoCount": 255
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/49483f03b6994fafe5cfaab608bc353f~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=6c0c6d6e&x-expires=1741348800&x-signature=m41XQlEtqGOHOOGtNm8gFsEXrtE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/49483f03b6994fafe5cfaab608bc353f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=2bf46e09&x-expires=1741348800&x-signature=xSI6B7gl84qu4yaBaQ6fsFCdeLw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/49483f03b6994fafe5cfaab608bc353f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=b24bd1e5&x-expires=1741348800&x-signature=kpu7HXT6Up43gaepmhmXoHlT7IU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "100238275432398848",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "Tr\u1ecbnh H\u00e0 Vi",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAACQ2iLnZ8DnXRb4lPpWQ6Hzo4k2smpQORAli-W7XxcMpQ50YFbjIr9y-pGHV1FjAC",
+      "secret": false,
+      "signature": "\uff61\uff9f\u2570\ud83c\udf37\ud83c\udf80 \uff9f\u2661\n\n\ud83d\udceepartners@schannel.vn",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "_trinhhavi_",
+      "verified": false
+   }
+}

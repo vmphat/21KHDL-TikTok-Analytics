@@ -1,0 +1,45 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1500000,
+      "followingCount": 163,
+      "friendCount": 102,
+      "heart": 41100000,
+      "heartCount": 41100000,
+      "videoCount": 767
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b51dffcb2c21c797354f03b0d1fe16e2~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=733d6645&x-expires=1741348800&x-signature=Zv7ZRNSmTUmNkzlNfiDbG1mAL4A%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b51dffcb2c21c797354f03b0d1fe16e2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=6daed817&x-expires=1741348800&x-signature=4HiuhfF3QS8%2FxUAPM4O1Zn2ZEL8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b51dffcb2c21c797354f03b0d1fe16e2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a390caaf&x-expires=1741348800&x-signature=SNtuG%2F6FuYOn9%2FepqDW8tAUgLi4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6968898955178542081",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1680075084,
+      "nickname": "Mu\u1ed9i Today",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAXh1ggEcPrfhIFDJtt7QlL-ZnaWOjK-Vrk6DfzCYjxHAkYAYHBUKQyuGu3U87jirM",
+      "secret": false,
+      "signature": "For work: 0768.078.748\nmuoitoday.contact@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": true,
+      "uniqueId": "muoitoday",
+      "verified": true
+   }
+}

@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 70400,
+      "followingCount": 1,
+      "friendCount": 0,
+      "heart": 3900000,
+      "heartCount": 3900000,
+      "videoCount": 180
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/49b454f956b4c17b1a173605e080c81a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=2d7fc766&x-expires=1741348800&x-signature=xcJkr6wjeN4bnX25vl5W%2Fq%2F0PJE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/49b454f956b4c17b1a173605e080c81a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=60d33385&x-expires=1741348800&x-signature=d8BPLijtRjae7NT6VhKr6sply2w%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/49b454f956b4c17b1a173605e080c81a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=e03267bc&x-expires=1741348800&x-signature=DVXk2XJ3%2BGRyGb5md8a3mWqQ8Bc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7104563866130400258",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1673090962,
+      "nickname": "Meo \ud83d\ude3b",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAL1fcUYsdhYTfZvzh-88Wfiz6P_LnxxjPdQoFbIpT8wG_jRMW8t-l-orxFU9Nb0aF",
+      "secret": false,
+      "signature": "AppGrap: \"M\u1ef3 Tr\u1ed9n Ng\u0169 S\u1eafc, L\u1ea9u Ly - Dudi\"\n18 T\u00f4n Th\u1ea5t Thi\u1ec7p - \u0110\u00e0 N\u1eb5ng",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "meo99814",
+      "verified": false
+   }
+}

@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 222000,
+      "followingCount": 49,
+      "friendCount": 17,
+      "heart": 6000000,
+      "heartCount": 6000000,
+      "videoCount": 226
+   },
+   "user": {
+      "avatarLarger": "https://lh3.googleusercontent.com/a-/AOh14Gj2ZPB1d3iqiULpYeLMcJpgZ0dCEZfS6M5Q3MpB=s300-c",
+      "avatarMedium": "https://lh3.googleusercontent.com/a-/AOh14Gj2ZPB1d3iqiULpYeLMcJpgZ0dCEZfS6M5Q3MpB=s300-c",
+      "avatarThumb": "https://lh3.googleusercontent.com/a-/AOh14Gj2ZPB1d3iqiULpYeLMcJpgZ0dCEZfS6M5Q3MpB=s300-c",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7080408427277190145",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1710765663,
+      "nickname": "Tr\u1ecdng To\u00e0n Review",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAArNRu_R-4n1iKQ9fvyIrZTNYGem5e38_LcMDV_bkFLDByjgHPwoveWMiqBUcBetnN",
+      "secret": false,
+      "signature": "For Work: 0393.789.288 (Ms: Qu\u1ef3nh)\nK\u00eanh ph\u1ee5 =>@trongtoanmet8",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "trongtoanreview",
+      "verified": false
+   }
+}

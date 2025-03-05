@@ -1,66 +1,49 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "2025030223044314885A9D23E39CDCB3E4",
-      "now": 1740927883000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1100000,
+      "followingCount": 127,
+      "friendCount": 48,
+      "heart": 29100000,
+      "heartCount": 29100000,
+      "videoCount": 858
    },
-   "log_pb": {
-      "impr_id": "2025030223044314885A9D23E39CDCB3E4"
-   },
-   "shareMeta": {
-      "desc": "@bepnhalinh 1.1m Followers, 128 Following, 29.1m Likes - Watch awesome short videos created by Kh\u00e1nh Linhh",
-      "title": "Kh\u00e1nh Linhh on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 1100000,
-         "followingCount": 128,
-         "friendCount": 48,
-         "heart": 29100000,
-         "heartCount": 29100000,
-         "videoCount": 857
+   "user": {
+      "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/13b55ad877c5d3c1c68b68da58e22546~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=9463a4b5&x-expires=1741348800&x-signature=qIzgVHnoYkxezr66Y6vMnHj%2BGtQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/13b55ad877c5d3c1c68b68da58e22546~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=6250ca00&x-expires=1741348800&x-signature=XbQ9wGEkN1iuYKElWVnfS0A3XFI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/13b55ad877c5d3c1c68b68da58e22546~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=da5ce0df&x-expires=1741348800&x-signature=p7B8Bw3fzzoDYDOxW8J74VsDcN8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/bepnhalinh",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/13b55ad877c5d3c1c68b68da58e22546~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=41561&refresh_token=805da8f40422f1f44e0f6f8038661edc&x-expires=1741100400&x-signature=h%2FYvVLMSt7nEWyLdZNUqZzYhUjo%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/13b55ad877c5d3c1c68b68da58e22546~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=1477&refresh_token=a5b379657be2b75a86902bff30723082&x-expires=1741100400&x-signature=BSi68r2GoZ%2BoSFZnfQ5hc5O3t3g%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/13b55ad877c5d3c1c68b68da58e22546~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=94720&refresh_token=cec7213f096e364d83b0bfae4c7e8313&x-expires=1741100400&x-signature=t39jLJvuZcV%2B9v0fElHSZZmCsqw%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://beacons.ai/bepnhalinh",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "6927297910691202049",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1622254667,
-         "nickname": "Kh\u00e1nh Linhh",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": false,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAADjhrMxi0o1PkYBHZ9Np288C7smyW1mihhou09I7OnEQSi4peWikfxhBNUac_5sQA",
-         "secret": false,
-         "signature": "Hi v\u1ecdng clip c\u1ee7a m\u00ecnh, s\u1ebd gi\u00fap \u00edch cho b\u1ea1n <3\nNh\u1eefng th\u1ee9 hay ho, \u1edf d\u01b0\u1edbi \u0111\u00e2y nha\ud83d\udc47",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "bepnhalinh",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6927297910691202049",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1622254667,
+      "nickname": "Kh\u00e1nh Linhh",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAADjhrMxi0o1PkYBHZ9Np288C7smyW1mihhou09I7OnEQSi4peWikfxhBNUac_5sQA",
+      "secret": false,
+      "signature": "Hi v\u1ecdng clip c\u1ee7a m\u00ecnh, s\u1ebd gi\u00fap \u00edch cho b\u1ea1n <3\nNh\u1eefng th\u1ee9 hay ho, \u1edf d\u01b0\u1edbi \u0111\u00e2y nha\ud83d\udc47",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "bepnhalinh",
+      "verified": false
    }
 }

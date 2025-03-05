@@ -1,0 +1,43 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1300000,
+      "followingCount": 43,
+      "friendCount": 37,
+      "heart": 41400000,
+      "heartCount": 41400000,
+      "videoCount": 809
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/5b45c0cf7df164d691c8d3486697d7f4~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=ad75054d&x-expires=1741348800&x-signature=j1v9fg0SCjlptHI28GpwMxApp3c%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/5b45c0cf7df164d691c8d3486697d7f4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=0c109035&x-expires=1741348800&x-signature=E3R76NgARH%2BYiwl%2B%2B6QKxDVoKFQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/5b45c0cf7df164d691c8d3486697d7f4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=36bb0cc7&x-expires=1741348800&x-signature=L%2BPggz04yeA21tcLB7oBnHRVgg0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6727216925081863169",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "Laine Bernardo",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA8ivhP1wv6D6xAroitJ1spChiwPEN3hjohN7j5fUbvfWO6SJ6Qb3srfVNHkgEc3_2",
+      "secret": false,
+      "signature": "For Collaboration & Business Inquiries \n\u2b07\ufe0f\u2b07\ufe0f\u2b07\ufe0f",
+      "stitchSetting": 0,
+      "ttSeller": true,
+      "uniqueId": "laaainebernardo",
+      "verified": false
+   }
+}

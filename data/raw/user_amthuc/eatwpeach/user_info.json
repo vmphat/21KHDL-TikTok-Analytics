@@ -1,0 +1,54 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 3000000,
+      "followingCount": 176,
+      "friendCount": 76,
+      "heart": 99900000,
+      "heartCount": 99900000,
+      "videoCount": 1180
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7335679497057861665~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=60da3bae&x-expires=1741348800&x-signature=GRVp%2FipRuV3MLZHpmJ%2Bln4dLOaY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7335679497057861665~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=68ac48c3&x-expires=1741348800&x-signature=hXg9nZ2X7HCOA%2BFFd%2BHVlg41OHE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7335679497057861665~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=49fa3221&x-expires=1741348800&x-signature=%2FhiyBb8%2Bo%2FZexBcglWwHVWsB2U0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.page/pithaman",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Food & Beverage",
+         "categoryButton": false,
+         "commerceUser": true,
+         "downLoadLink": {
+            "android": "",
+            "ios": ""
+         }
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6858548206466597889",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "P\u00edt Ham \u0102n",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAs8uPg9iSqkdFmg-1uqafFtzaAJn-ukQoVUwD_aiv2pMP45WHMRyrUHI5r6dYqNY_",
+      "secret": false,
+      "signature": "FW: pitcom.hp@gmail.com\n0934200589 (Ms Loan)\nNh\u1eefng th\u1ee9 hay ho P\u00edt mua \u0111\u1ec3 \u0111\u00e2y n\u00e8",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "eatwpeach",
+      "verified": true
+   }
+}

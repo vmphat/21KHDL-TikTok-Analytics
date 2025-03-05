@@ -1,0 +1,49 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1900000,
+      "followingCount": 16,
+      "friendCount": 9,
+      "heart": 90100000,
+      "heartCount": 90100000,
+      "videoCount": 645
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4a8beab67acb8f40de008cd41284686c~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=70a9e630&x-expires=1741348800&x-signature=qLCnXcZxpAyQ9EbBkAQE0MgDYYY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4a8beab67acb8f40de008cd41284686c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=b6bf18a0&x-expires=1741348800&x-signature=KJQvWcr5l2RZegG%2FgSD1RsiwaHs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4a8beab67acb8f40de008cd41284686c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=da3a02d5&x-expires=1741348800&x-signature=LaHWTQGrPq3zPhY61FyZjnCtMC0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://vitamink.koc.asia",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6563937121413087234",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1638276039,
+      "nickname": "KIM KH\u00c1NH N\u00c8 \ud83c\udf5c",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA188zAxnP_IFY67duD9x3GGRZpZCKCYrLrXUiojJJ3GLgRnFrOinjrkVfORtLYpY5",
+      "secret": false,
+      "signature": "\u2757KH\u00d4NG ACC PH\u1ee4\u2757\ufe0f\nCh\u1ec9 li\u00ean h\u1ec7:\nKhanh.nnk1406@gmail.com\nT\u1ea5t T\u1ea7n T\u1eadt V\u1ec1 Kh\u00e1nh\ud83d\udc47\ud83c\udffb",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "vitaminkk",
+      "verified": false
+   }
+}

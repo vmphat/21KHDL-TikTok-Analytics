@@ -1,0 +1,50 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1500000,
+      "followingCount": 46,
+      "friendCount": 38,
+      "heart": 100200000,
+      "heartCount": 100200000,
+      "videoCount": 838
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/83f1e25de7ffcfbe5ea3e0869e65ee25~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=e6f1749b&x-expires=1741348800&x-signature=piGeOBQkOhYZuiAKpffUe7UQM%2BI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/83f1e25de7ffcfbe5ea3e0869e65ee25~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=14a02c60&x-expires=1741348800&x-signature=SxqfbJXhUAj%2FaB92bTpPQMQxWIM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/83f1e25de7ffcfbe5ea3e0869e65ee25~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=140aa823&x-expires=1741348800&x-signature=bma8lLyLsUtG325LJaAQ2ISgwI8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://miainkorea.shoplinks.to",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Others",
+         "categoryButton": false,
+         "commerceUser": true
+      },
+      "downloadSetting": 3,
+      "duetSetting": 3,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6875351977145385985",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1666439079,
+      "nickname": "Mia In Korea",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAmhH6GZHw0z90uOAbX9VQeVqmjotvpsHf7nySD0dAttVEq0Hcdg8JbadOaeB91PTd",
+      "secret": false,
+      "signature": "H\u1ea0T \u0110I\u1ec0U V\u1eca C\u00c1C LO\u1ea0I \u1ede \ud83d\uded2\u2935\ufe0f",
+      "stitchSetting": 3,
+      "ttSeller": false,
+      "uniqueId": "miainkorea",
+      "verified": false
+   }
+}

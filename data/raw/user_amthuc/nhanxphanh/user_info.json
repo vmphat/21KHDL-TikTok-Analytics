@@ -1,65 +1,48 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "2025030223045770EDFC09AEB8FB87E049",
-      "now": 1740927897000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 440800,
+      "followingCount": 3,
+      "friendCount": 2,
+      "heart": 11000000,
+      "heartCount": 11000000,
+      "videoCount": 446
    },
-   "log_pb": {
-      "impr_id": "2025030223045770EDFC09AEB8FB87E049"
-   },
-   "shareMeta": {
-      "desc": "@nhanxphanh 439.8k Followers, 3 Following, 11.0m Likes - Watch awesome short videos created by let Nh\u00e2n cook",
-      "title": "let Nh\u00e2n cook on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 439800,
-         "followingCount": 3,
-         "friendCount": 2,
-         "heart": 11000000,
-         "heartCount": 11000000,
-         "videoCount": 445
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/366d9288a0d51ab8b3ae00e20a1a2ea9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=e762baf0&x-expires=1741348800&x-signature=wqZsJrBYsfxFoIkVSiP0PqL0hf0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/366d9288a0d51ab8b3ae00e20a1a2ea9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=2b09171b&x-expires=1741348800&x-signature=AA0INu0K1hYU2Gzpnf0c0ShKsxU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/366d9288a0d51ab8b3ae00e20a1a2ea9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=5cd1d023&x-expires=1741348800&x-signature=aNO6vKF1oB4c4MHQaKON%2FZDcdlU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "nhanxphanh.koc.asia",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/366d9288a0d51ab8b3ae00e20a1a2ea9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=34600&refresh_token=e28f1d56b3a9663f53b72d405e04e633&x-expires=1741100400&x-signature=TL%2FbTkD%2F8KVJEouFTOe2aJzknWY%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/366d9288a0d51ab8b3ae00e20a1a2ea9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=73812&refresh_token=19bf4dfc2f0e5ad0dbf2a5defcdb92bb&x-expires=1741100400&x-signature=XR90GzviVdXKcPbJjA4xSgA4fkg%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/366d9288a0d51ab8b3ae00e20a1a2ea9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=6977&refresh_token=dc2b869632f2b55768eaeda988fd71a7&x-expires=1741100400&x-signature=Z5QLF7sW3T%2FPB4vsoSUjRJUS0qM%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "nhanxphanh.koc.asia",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "7179562906424853530",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1721092616,
-         "nickname": "let Nh\u00e2n cook",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAKQJt7ADD-LSUFJ9tVgYP1THo1QAK3U2pC4DA7DBxxHqSlMiUJNahRPcHKYeSrmxL",
-         "secret": false,
-         "signature": "K\u00eanh review: @let Nh\u00e2n check \nForwork: nhanxphanh@gmail.com",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "nhanxphanh",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7179562906424853530",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1721092616,
+      "nickname": "let Nh\u00e2n cook",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAKQJt7ADD-LSUFJ9tVgYP1THo1QAK3U2pC4DA7DBxxHqSlMiUJNahRPcHKYeSrmxL",
+      "secret": false,
+      "signature": "K\u00eanh review: @let Nh\u00e2n check \nForwork: nhanxphanh@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "nhanxphanh",
+      "verified": false
    }
 }

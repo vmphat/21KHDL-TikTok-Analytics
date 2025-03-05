@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 95400,
+      "followingCount": 113,
+      "friendCount": 46,
+      "heart": 3400000,
+      "heartCount": 3400000,
+      "videoCount": 403
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7352310963283951649~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=231e15a0&x-expires=1741348800&x-signature=IXg%2FQrDrDUblLP%2B9pkd85XXc7us%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7352310963283951649~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=1c3d96cb&x-expires=1741348800&x-signature=2lX7esuZL1LzBWtUvQvS5ZegjMA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7352310963283951649~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=ef71eb75&x-expires=1741348800&x-signature=ijljdJM%2FV%2BRAT1Dzgy%2FD%2FQRdwgU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7205911276366283777",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1677933969,
+      "nickname": "Nguy\u1ec5n Tr\u1ea7n Phong V\u0169",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA7ZuRXen3cSMKzs9Gr7iOIeuQqdFs2IGeL4fGQsX9dqYucp12-MIDYr8DvQfH2wtM",
+      "secret": false,
+      "signature": "\ud83c\udf57 T\u1edb th\u00edch la c\u00e0 \u0103n u\u1ed1ng \ud83c\udf73\nForwork: booking@dcmedia.vn",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "phongvnguyntrn",
+      "verified": false
+   }
+}

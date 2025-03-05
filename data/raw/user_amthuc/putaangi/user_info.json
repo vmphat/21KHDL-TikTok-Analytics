@@ -1,0 +1,49 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1600000,
+      "followingCount": 191,
+      "friendCount": 69,
+      "heart": 40900000,
+      "heartCount": 40900000,
+      "videoCount": 798
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/95648cd0e298fe29aadbbe0331c08f65~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=ed955b6b&x-expires=1741348800&x-signature=9SqbfoUlNfw4IeRkpuM%2BicbUJdc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/95648cd0e298fe29aadbbe0331c08f65~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=396d5240&x-expires=1741348800&x-signature=kZrlc0kjtsH%2FAjDYIQauNtKI6qo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/95648cd0e298fe29aadbbe0331c08f65~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a34335bc&x-expires=1741348800&x-signature=GidzsFgNaIaP%2Bh0JVvi3dFFnSMo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://putaputa.passio.eco",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6855137372612576258",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1607916499,
+      "nickname": "Puta \u0102n G\u00ec",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA-tJtQqi5bmxHE7-iPw6xXw_GLxpPZyST1eX9G5PVCX5_bKyitGbwJs7h0fjPyOF3",
+      "secret": false,
+      "signature": "For work: 0964905813\n- Putaangi2004@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "putaangi",
+      "verified": false
+   }
+}

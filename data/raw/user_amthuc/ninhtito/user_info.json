@@ -1,0 +1,55 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 410000,
+      "followingCount": 43,
+      "friendCount": 33,
+      "heart": 6400000,
+      "heartCount": 6400000,
+      "videoCount": 741
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/41e708f1c2aaafd610b118be5bac5756~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=cdc67822&x-expires=1741348800&x-signature=vnjvJGdJbvubbwHFIi9KotH%2FofA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/41e708f1c2aaafd610b118be5bac5756~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=5970d934&x-expires=1741348800&x-signature=RD9IWKgvZ%2F17HJRH6JE%2BvHe8joY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/41e708f1c2aaafd610b118be5bac5756~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=3088cee9&x-expires=1741348800&x-signature=%2B6wxNJO%2FFsodZi%2BruLQOWCoPBIg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "Https://youtube.com/ninhtito",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Food & Beverage",
+         "categoryButton": false,
+         "commerceUser": true,
+         "downLoadLink": {
+            "android": "",
+            "ios": ""
+         }
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6557645879024320514",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1615793606,
+      "nickname": "Ninh Tito",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAZyQ0w-XTzBgPNPf7vS3M59-hhAcZxS1yXkoup4crPZestG2i7k9Uj8mdxvnh9Vyt",
+      "secret": false,
+      "signature": "C\u00f3 ch\u00e0ng trai \u0103n c\u1ea3 th\u1ebf gi\u1edbi \ud83d\ude18\n\ud83d\udce9: contact@ninhtito.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "ninhtito",
+      "verified": false
+   }
+}

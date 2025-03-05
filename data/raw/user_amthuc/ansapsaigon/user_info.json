@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 359300,
+      "followingCount": 289,
+      "friendCount": 114,
+      "heart": 6600000,
+      "heartCount": 6600000,
+      "videoCount": 1147
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/725f67cf9786123b43f78b8dfdd7a972~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=f18770bb&x-expires=1741348800&x-signature=X4rSpV9rSF5Re6qTOXZrYQFimXc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/725f67cf9786123b43f78b8dfdd7a972~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=fa9bfe85&x-expires=1741348800&x-signature=KQOWidHSSP3QIXQ5K%2B28xft8KW4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/725f67cf9786123b43f78b8dfdd7a972~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=aa25d8c4&x-expires=1741348800&x-signature=GwgZRYNXt5d9TKJGtY3u3OwiGg8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6574599361446035457",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "\u0102n S\u1eadp S\u00e0i G\u00f2n",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAC8qr-kH5WnndvTZteBSP7sp_7uT6Np600Midx9PVa_Y8b5BVEoy0QDxtyLeqbrod",
+      "secret": false,
+      "signature": "Contact : ansapsaigon@gmail.com!",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "ansapsaigon",
+      "verified": false
+   }
+}

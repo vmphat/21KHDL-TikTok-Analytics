@@ -1,0 +1,47 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 844100,
+      "followingCount": 1,
+      "friendCount": 0,
+      "heart": 28000000,
+      "heartCount": 28000000,
+      "videoCount": 811
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43e961d9b53db26976bd8ea9572133eb~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=97c17740&x-expires=1741348800&x-signature=RIbX8vwdDX1s2OCHtRF0xmAlNzU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43e961d9b53db26976bd8ea9572133eb~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=3ed590cb&x-expires=1741348800&x-signature=AX2nK%2F0vaTIs2hybZagGFUXaDwQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/43e961d9b53db26976bd8ea9572133eb~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=ed16732e&x-expires=1741348800&x-signature=hb13fnmcZFwlkLx9h4bMlATe%2FQw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Personal Blog",
+         "categoryButton": false,
+         "commerceUser": true
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6905832297980920833",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1689073098,
+      "nickname": "haseebee",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAANgUCBl1AZhofqjF87NcUVyqeeKgIPKkJNkOZiBgqaRJ5h-gXzbsbxjAe6xxZhUXA",
+      "secret": false,
+      "signature": "Email or Dm for PR and paid promotions.",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "hasibkhan1171",
+      "verified": false
+   }
+}

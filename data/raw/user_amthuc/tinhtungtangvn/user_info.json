@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 289500,
+      "followingCount": 763,
+      "friendCount": 171,
+      "heart": 9600000,
+      "heartCount": 9600000,
+      "videoCount": 1603
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/ca06d6ffb987bf5ff6b7e459630dc4df~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=1e9a5480&x-expires=1741348800&x-signature=O9%2FgCVq9N50OjfYgWGnqI3edIdo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/ca06d6ffb987bf5ff6b7e459630dc4df~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=d9ff3a95&x-expires=1741348800&x-signature=XXpVHvkeEOaSVpk1uNQKhpl8D2E%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/ca06d6ffb987bf5ff6b7e459630dc4df~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=76bd418d&x-expires=1741348800&x-signature=y2s631sJlxWjz7WD8JAyFO4zeCQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6922569104567010305",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1620303695,
+      "nickname": "T\u00cdNH TUNG T\u0102NG",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAXhbGTVnP5BnLOvGTppZ1NYp94cN24DxnE2tzEpe3VTqUM_qDosrMYQwppw2EzWm0",
+      "secret": false,
+      "signature": "BLOGGER \nREVIEW FOOD AND TRAVEL\nFor work: 0916.002.379\nBooking@vtvcab.vn",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "tinhtungtangvn",
+      "verified": false
+   }
+}

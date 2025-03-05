@@ -1,0 +1,45 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 29000,
+      "followingCount": 402,
+      "friendCount": 52,
+      "heart": 431700,
+      "heartCount": 431700,
+      "videoCount": 13
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/61554590c677ce6e9955edb1be10d498~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=d28dfdf7&x-expires=1741348800&x-signature=2O1ptHaEwuUYEtWjBIrZlxgicqg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/61554590c677ce6e9955edb1be10d498~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=c19e5f0b&x-expires=1741348800&x-signature=cxgZ79DyUjSt7d4RkeZ64mEqN14%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/61554590c677ce6e9955edb1be10d498~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=d2a985a2&x-expires=1741348800&x-signature=G1y8psFuVohH5IWqtH92739Z8tI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7396718138605618183",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1738935973,
+      "nickname": "Eat Clean C\u00f9ng Nh\u01b0",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAe14l2eZeU2uEM25uOCJrVljC4Q4zrSI2_1hMw7ymTDMz6VeNbcrgWVaXQ4I-0lHL",
+      "secret": false,
+      "signature": "",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "eatcleancungnhu",
+      "uniqueIdModifyTime": 1738935994,
+      "verified": false
+   }
+}

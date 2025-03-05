@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 2400000,
+      "followingCount": 900,
+      "friendCount": 524,
+      "heart": 30500000,
+      "heartCount": 30500000,
+      "videoCount": 243
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7318733995804459009~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7441f270&x-expires=1741348800&x-signature=7FUxsIeUWrwOGW67ufcc3w7p1yo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7318733995804459009~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=1d2fdcce&x-expires=1741348800&x-signature=V9Fm4C1JaOgY53H5SYbInYayELA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7318733995804459009~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=196b0dcc&x-expires=1741348800&x-signature=QOXwhQDDoYEfP%2F1JF4OI5%2BW8mkw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6591472415795298306",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "Khoai Lang Thang",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAZSzRIuD3GIDhHMtas80uThs3MrxGmqa8N_uL5z2SD9-lbLl0hU4HRrOfG0nLYnD7",
+      "secret": false,
+      "signature": "Khoai Lang Thang. M\u01a1 \u01b0\u1edbc \u0111\u01b0\u1ee3c \u0111i kh\u1eafp th\u1ebf gian n\u00e0y.\ncontact@52hzmedia.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "khoailangthang",
+      "verified": true
+   }
+}

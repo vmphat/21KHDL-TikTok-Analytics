@@ -1,0 +1,45 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 564500,
+      "followingCount": 413,
+      "friendCount": 313,
+      "heart": 32600000,
+      "heartCount": 32600000,
+      "videoCount": 1385
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/17b58e6d82ec334c227d1216a96a4732~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=6ff4f4bc&x-expires=1741348800&x-signature=nHpCKwIBVOMGz06IOR1IXrppR%2FY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/17b58e6d82ec334c227d1216a96a4732~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=c39f819a&x-expires=1741348800&x-signature=TJLMwm3tmwJcSevnbxClrazvUvE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/17b58e6d82ec334c227d1216a96a4732~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=f91573aa&x-expires=1741348800&x-signature=R9FeZr7b40gLrZC0gJGqWDlleLA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6879070070187787266",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1724156177,
+      "nickname": "B\u00e9 \u0110\u0103ng \ud801\ude5a\u22c6\u00b0.\u22c6",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAnw48TJCNAmmbfrkd5yaF0WpINCzBzL1kjB4l1wDnUTLp15HVCBujzYvBhPR8aF69",
+      "secret": false,
+      "signature": "Ig: bedangbae\nFor work\n\ud83d\udc8c bedangbae.contact@gmail.com\n\ud83d\udcf1 038 2953974 (Mrs H\u00e0)",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "bedangbae",
+      "verified": false
+   }
+}

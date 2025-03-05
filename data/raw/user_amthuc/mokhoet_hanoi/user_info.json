@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 996600,
+      "followingCount": 107,
+      "friendCount": 104,
+      "heart": 34000000,
+      "heartCount": 34000000,
+      "videoCount": 969
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/fcc6b4ed6fddd80eed1296da3d81e69e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=266b27a7&x-expires=1741348800&x-signature=dDNuSsAUSyrgMzbFwvGiyWv%2B0FA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/fcc6b4ed6fddd80eed1296da3d81e69e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=8a89db8d&x-expires=1741348800&x-signature=xehIzyA2W1nzO0lICXrWfIdRkao%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/fcc6b4ed6fddd80eed1296da3d81e69e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=3f8cefe7&x-expires=1741348800&x-signature=d%2Ftn2UDRDtwHzNDduRIvWQQuEwM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://mokhoetdayyy.koc.asia",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6844492227462267905",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "M\u1ecf Kho\u00e9t H\u00e0 N\u1ed9i",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAjTMhUsqQsSWKmAI3WQjiUfM33o7WBBgrTp_Hrzb1CiUpTDWeSxqhqaGrV_d1R23G",
+      "secret": false,
+      "signature": "Contact for work: 0792033275 (Dung)\nBooking@vtmgr.me\n-\nLive TFT 20h h\u00e0ng ng\u00e0y",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "mokhoet_hanoi",
+      "verified": false
+   }
+}

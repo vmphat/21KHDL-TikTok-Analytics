@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 202800,
+      "followingCount": 170,
+      "friendCount": 136,
+      "heart": 4400000,
+      "heartCount": 4400000,
+      "videoCount": 919
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/03746d29a5a738e8ebb1403df77827e7~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=40ab320e&x-expires=1741348800&x-signature=aWu%2BExGIByYuM%2BFFTJMVTKgUDw4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/03746d29a5a738e8ebb1403df77827e7~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=62bfabe5&x-expires=1741348800&x-signature=BciKfm%2BKkwTFzuqNHUbw6SOUG7M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/03746d29a5a738e8ebb1403df77827e7~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=8b92cdc2&x-expires=1741348800&x-signature=kIP%2FVn20fv8ChkzRYgLNZE%2BU6g8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6872767012328096770",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1734076603,
+      "nickname": "TH\u1ed2N",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA3z5OyYHtB5qALy3bk8tYbsIJgJJk84c5WQ32HhU-_34sak26zu8jqI-yZQqezYVi",
+      "secret": false,
+      "signature": "\ud83d\udccdFOOD - TRAVEL - LIFESTYLE\n\ud83d\udce8 Contact: thon.foodie@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "thon_foodie",
+      "verified": false
+   }
+}

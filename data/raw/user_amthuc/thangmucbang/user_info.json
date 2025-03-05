@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 675100,
+      "followingCount": 211,
+      "friendCount": 78,
+      "heart": 16700000,
+      "heartCount": 16700000,
+      "videoCount": 621
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7318454101522513952~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=fd675d55&x-expires=1741348800&x-signature=6vZn%2FFKoNTKoQQSzwnSRVsWB0OQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7318454101522513952~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=c13a4445&x-expires=1741348800&x-signature=1KKzRwsJsMvwfJfL9XCA06fjGes%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7318454101522513952~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=79d498d9&x-expires=1741348800&x-signature=rr%2BnwXz5pxsM%2BibatHdee9Jl42M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://thangmucbang.koc.asia",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7181181241692111899",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1671999705,
+      "nickname": "Th\u1eafng M\u00fac Bang",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAcvf5AhNXXHOJORSXazetK3yxgvI_0-b7DGLQbVL__YLD5SrnONdbAWRQ6uK_R-1P",
+      "secret": false,
+      "signature": "\ud83c\udf5c M\u00fac boang c\u00f9ng Tho\u1eafng nhoaaaaa \ud83c\udf5c\n  | Contact: thangmucbang@gmail.com |",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "thangmucbang",
+      "verified": false
+   }
+}

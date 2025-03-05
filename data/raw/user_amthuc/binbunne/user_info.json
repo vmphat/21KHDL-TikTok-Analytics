@@ -1,72 +1,55 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230535C7BE523421BE35874E03",
-      "now": 1740927935000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1600000,
+      "followingCount": 47,
+      "friendCount": 39,
+      "heart": 73000000,
+      "heartCount": 73000000,
+      "videoCount": 2165
    },
-   "log_pb": {
-      "impr_id": "20250302230535C7BE523421BE35874E03"
-   },
-   "shareMeta": {
-      "desc": "@binbunne 1.6m Followers, 47 Following, 72.9m Likes - Watch awesome short videos created by Bin Bun N\u00e8",
-      "title": "Bin Bun N\u00e8 on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 1600000,
-         "followingCount": 47,
-         "friendCount": 39,
-         "heart": 72900000,
-         "heartCount": 72900000,
-         "videoCount": 2164
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=390c05d7&x-expires=1741348800&x-signature=wrmURt9Y7XWjiXy2W9YgxnSn%2FZU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=461d7cca&x-expires=1741348800&x-signature=pcKbnJP%2B46Hgs1531qYG8ahXpp8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c38360e0&x-expires=1741348800&x-signature=W%2FPprc1Z9Eid0ncQ7sgILYUnNb0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://bit.ly/4gbfaxP",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=44590&refresh_token=50eb7afdf91a3d2e0d7ec5439900296b&x-expires=1741100400&x-signature=jZLNXYJkmPetq%2FBflWGKRJDEplA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=8387&refresh_token=52fad31fd3f9ae3baa4c531abe4cdcdd&x-expires=1741100400&x-signature=EUbCspjZlR8bgTOsNMFitSzIc3k%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=2659&refresh_token=4841928f2c1923d82ac303e81814d1c8&x-expires=1741100400&x-signature=3MkeHg7jbCFCHZTVvhIj6m26zCo%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://bit.ly/4gbfaxP",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "category": "Food & Beverage",
-            "categoryButton": false,
-            "commerceUser": true,
-            "downLoadLink": {
-               "android": "",
-               "ios": ""
-            }
-         },
-         "downloadSetting": 3,
-         "duetSetting": 3,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "6710927472067675138",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1654317760,
-         "nickname": "Bin Bun N\u00e8",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAABkRbci_rIOXLOiUYtbsQDXUgMcExx8rVBH3CleMY3yUZwuQ0m-UbXnvijKmq8vvL",
-         "secret": false,
-         "signature": "binbunne.contact@gmail.com\nForwork : 0.7.6_5.4.7_4.1.9_9",
-         "stitchSetting": 3,
-         "ttSeller": false,
-         "uniqueId": "binbunne",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Food & Beverage",
+         "categoryButton": false,
+         "commerceUser": true,
+         "downLoadLink": {
+            "android": "",
+            "ios": ""
+         }
+      },
+      "downloadSetting": 3,
+      "duetSetting": 3,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6710927472067675138",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1654317760,
+      "nickname": "Bin Bun N\u00e8",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAABkRbci_rIOXLOiUYtbsQDXUgMcExx8rVBH3CleMY3yUZwuQ0m-UbXnvijKmq8vvL",
+      "secret": false,
+      "signature": "binbunne.contact@gmail.com\nForwork : 0.7.6_5.4.7_4.1.9_9",
+      "stitchSetting": 3,
+      "ttSeller": false,
+      "uniqueId": "binbunne",
+      "verified": false
    }
 }

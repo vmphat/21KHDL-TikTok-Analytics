@@ -1,62 +1,45 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230756F13442220945CFD062D5",
-      "now": 1740928077000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1700000,
+      "followingCount": 196,
+      "friendCount": 117,
+      "heart": 46500000,
+      "heartCount": 46500000,
+      "videoCount": 1078
    },
-   "log_pb": {
-      "impr_id": "20250302230756F13442220945CFD062D5"
-   },
-   "shareMeta": {
-      "desc": "@beptruongreview 1.7m Followers, 196 Following, 46.4m Likes - Watch awesome short videos created by B\u1ebfp Tr\u01b0\u1edfng Review",
-      "title": "B\u1ebfp Tr\u01b0\u1edfng Review on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 1700000,
-         "followingCount": 196,
-         "friendCount": 117,
-         "heart": 46400000,
-         "heartCount": 46400000,
-         "videoCount": 1077
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/55be945c0148158bd8b2825716188740~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=bc36d8c6&x-expires=1741348800&x-signature=DR5eTQiM%2Ft1qcLPnpvWvb1ps9as%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/55be945c0148158bd8b2825716188740~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=192aa718&x-expires=1741348800&x-signature=diGQzPlz2zRzREt0H8VHkJd5EOc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/55be945c0148158bd8b2825716188740~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=ae1cb3b8&x-expires=1741348800&x-signature=fU%2F1B3b4wY4MMBk6mtXxhamM1dY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/55be945c0148158bd8b2825716188740~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=91739&refresh_token=078550e29600c6cfe7653e2367cd3323&x-expires=1741100400&x-signature=0Gsn3XppNL%2Fb9PWGzfpOK3RRkU4%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/55be945c0148158bd8b2825716188740~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=15646&refresh_token=2ad6cfcf9bc3f45a56ca8d844477e2ab&x-expires=1741100400&x-signature=mCBCi2Z9qkv%2FMxr%2Byahz%2BodrdC8%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/55be945c0148158bd8b2825716188740~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=936&refresh_token=ab557449c11f9a45fe5ce058b46acc05&x-expires=1741100400&x-signature=pBmFQkPEJV6YzGj6x2ZCdxFxKNA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "6905247782816154625",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1607754357,
-         "nickname": "B\u1ebfp Tr\u01b0\u1edfng Review",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAghlx4EJ11Wlb6dnaiagVvt0A-l25HDs0YYAMQo9kK6YdhNwol9VUdGmA7U5Ez_Wb",
-         "secret": false,
-         "signature": "Review M\u1ecdi Th\u1ee9 V\u1ec1 \u1ea8m Th\u1ef1c\nContact for work: 0792033275\n\nbooking@vtmgr.me",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "beptruongreview",
-         "verified": true
-      }
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6905247782816154625",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1607754357,
+      "nickname": "B\u1ebfp Tr\u01b0\u1edfng Review",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAghlx4EJ11Wlb6dnaiagVvt0A-l25HDs0YYAMQo9kK6YdhNwol9VUdGmA7U5Ez_Wb",
+      "secret": false,
+      "signature": "Review M\u1ecdi Th\u1ee9 V\u1ec1 \u1ea8m Th\u1ef1c\nContact for work: 0379028507\n\nbooking@vtmgr.me",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "beptruongreview",
+      "verified": true
    }
 }

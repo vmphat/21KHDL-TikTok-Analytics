@@ -1,0 +1,47 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1200000,
+      "followingCount": 0,
+      "friendCount": 0,
+      "heart": 41700000,
+      "heartCount": 41700000,
+      "videoCount": 517
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7331245742612283425~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=4d4b71f0&x-expires=1741348800&x-signature=TwpVFClK40Rn%2FzmKDWts7ktci8o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7331245742612283425~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=40b2d964&x-expires=1741348800&x-signature=XvO4d4AqkbFJwnPTe20dNNbNxxA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7331245742612283425~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c1713f6a&x-expires=1741348800&x-signature=O0BK3kW6l3RosYTCN6fCG7NF5Lw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "beacons.ai/harburgery",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 3,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6532371536686661633",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "Harry",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAQbBgdCRi0pTHPy5BuAMumQfix4Oqc1KVT2kPmKeDTzYzWls4wXyD2jo5q7a9rEPb",
+      "secret": false,
+      "signature": "\ud83c\udf54\nenquiries: partners@schannel.vn",
+      "stitchSetting": 3,
+      "ttSeller": false,
+      "uniqueId": "harburgery",
+      "verified": true
+   }
+}

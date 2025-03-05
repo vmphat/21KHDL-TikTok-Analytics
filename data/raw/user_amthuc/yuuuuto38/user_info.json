@@ -1,0 +1,47 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 5200000,
+      "followingCount": 6,
+      "friendCount": 6,
+      "heart": 278300000,
+      "heartCount": 278300000,
+      "videoCount": 1190
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7313677702836256769~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=f4937324&x-expires=1741348800&x-signature=5aa2u8oaN6TvhABu5Q49fI6Aazc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7313677702836256769~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=fe764532&x-expires=1741348800&x-signature=DPlKOdXLmyAYOJLgou5lK5ue5FM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7313677702836256769~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=dff1b8a9&x-expires=1741348800&x-signature=ysnfsm4zfCQ%2F%2BCgVAzyu2dmZT7U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://www.instagram.com/yuuuuto38",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6580436375437590529",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "\u6bce\u65e5\u7518\u3044\u3082\u306e\u98df\u3079\u305f\u3044",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAp890erzHu3X_-kPj_2FwK2O1O54dxLorojqRNMEVNNW2KNt_FTcqlP9gYlD6rBQx",
+      "secret": false,
+      "signature": "\u6771\u4eac\u5927\u962a\u4e2d\u5fc3\u306b\u304a\u3044\u3057\u3044\u3082\u306e\u3092\u7d39\u4ecb\u3057\u307e\u3059\uff01\n\u304a\u5e97\u306e\u8a73\u3057\u3044\u60c5\u5831\u306f\u30a4\u30f3\u30b9\u30bf\u3092\u898b\u3066\u306d\ud83c\udf53",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "yuuuuto38",
+      "verified": true
+   }
+}

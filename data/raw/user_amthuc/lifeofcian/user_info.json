@@ -1,0 +1,46 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 2300000,
+      "followingCount": 67,
+      "friendCount": 43,
+      "heart": 104200000,
+      "heartCount": 104200000,
+      "videoCount": 314
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/264c97b9e3578ba2159ee78899da7623~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=17d72251&x-expires=1741348800&x-signature=sZ%2F2E%2Fhn9tmP4T3%2BTeW3C447G1I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/264c97b9e3578ba2159ee78899da7623~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=ca50bd92&x-expires=1741348800&x-signature=GYuLyD4LNEN6aWkVcSuzwY5Z1Ig%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/264c97b9e3578ba2159ee78899da7623~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=f6024de2&x-expires=1741348800&x-signature=wssDr5SSg2pisXISoUZACHGCtL8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Food & Beverage",
+         "categoryButton": false,
+         "commerceUser": true
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6731141917444801542",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1679608673,
+      "nickname": "Cian",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAANyyb8KK0VfZW05avVlwP_UiXy6X1CecHpY-6ZpxlO58eW3hQ00Uyr6KWguGyGhy7",
+      "secret": false,
+      "signature": "i record myself eating food\ud83c\udf7d\ufe0f\nemail: cian@jakerosenentertainment.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "lifeofcian",
+      "verified": false
+   }
+}

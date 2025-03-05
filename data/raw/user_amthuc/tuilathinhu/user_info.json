@@ -1,0 +1,49 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 2100000,
+      "followingCount": 78,
+      "friendCount": 76,
+      "heart": 69000000,
+      "heartCount": 69000000,
+      "videoCount": 281
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/9e05bfce01aec386ad106a70004c2ee8~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=6fd73ebe&x-expires=1741348800&x-signature=1MvsS0VD0Fo9xgeKXVfesRxrxWU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/9e05bfce01aec386ad106a70004c2ee8~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=ab37b757&x-expires=1741348800&x-signature=lXPnW6Dnul4FRo7dUQCgbIZobuM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/9e05bfce01aec386ad106a70004c2ee8~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1746703b&x-expires=1741348800&x-signature=JanMID8z9Ly%2B9xs8usXbj52E2SU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://biopage.vn/eatcleanhongthunhi",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6666983349636087809",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1668036756,
+      "nickname": "Eat clean h\u00f4ng - Thu Nhi",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAANcyHV0syWLLr-4hru45JYmQQeWWyWbBnnuNtSlpt2rP3lYM7OVrCuA1TUau7Yo2O",
+      "secret": false,
+      "signature": "t\u00ednh hay gi\u1ee1n, \u0111\u1eebng overthingking qu\u00e1 nhi\u1ec1u khi xemmmm\nYTB: Eatcleanhong-Thu Nhi",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "tuilathinhu",
+      "verified": true
+   }
+}

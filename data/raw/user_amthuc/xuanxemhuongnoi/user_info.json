@@ -1,65 +1,48 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230545EC9554DB4046667FD640",
-      "now": 1740927945000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 232700,
+      "followingCount": 40,
+      "friendCount": 29,
+      "heart": 4800000,
+      "heartCount": 4800000,
+      "videoCount": 228
    },
-   "log_pb": {
-      "impr_id": "20250302230545EC9554DB4046667FD640"
-   },
-   "shareMeta": {
-      "desc": "@xuanxemhuongnoi 232.7k Followers, 39 Following, 4.8m Likes - Watch awesome short videos created by xuanxemhuongnoi",
-      "title": "xuanxemhuongnoi on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 232700,
-         "followingCount": 39,
-         "friendCount": 28,
-         "heart": 4800000,
-         "heartCount": 4800000,
-         "videoCount": 227
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/06ee67b71cb71a42426b1cba9aff9432~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=938b2a6c&x-expires=1741348800&x-signature=yAJDjfalch3fXrrgRmpyfSyO2p4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/06ee67b71cb71a42426b1cba9aff9432~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=9aed1b35&x-expires=1741348800&x-signature=5sFQx1aJA%2FxRuFv8sCzEA0mji3Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/06ee67b71cb71a42426b1cba9aff9432~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a1c3ff59&x-expires=1741348800&x-signature=ub2cf0qkSe8H9IG1iAAuv2FH7BM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "linkbio.co/xuanxemhuongnoi",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/06ee67b71cb71a42426b1cba9aff9432~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=13691&refresh_token=84b25770d8557f36647902cb00fd2ddc&x-expires=1741100400&x-signature=QD1pDPcFQsu638XAXfWCFmFAEFc%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/06ee67b71cb71a42426b1cba9aff9432~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=91537&refresh_token=f8d8f3131db994e5e6e3d0a0828ee160&x-expires=1741100400&x-signature=bXfB2r3GqU0%2BvBDkJC2t3d7zj4E%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/06ee67b71cb71a42426b1cba9aff9432~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=75397&refresh_token=e194cfd832b77232554f39a1a11e582e&x-expires=1741100400&x-signature=A%2BHAfP%2FXIkzaaqhZeu6P%2B4XMK6g%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "linkbio.co/xuanxemhuongnoi",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 3,
-         "duetSetting": 1,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "7278370166710633479",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1697252746,
-         "nickname": "xuanxemhuongnoi",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAArEvVMtAv-JWWj89BL9gaa_9qmINmQR-2tnVo_UJjjr1NofKIONY7RDZS1PL_EK3_",
-         "secret": false,
-         "signature": "\u304a\u3046\u3061\u3054\u306f\u3093\u5927\u597d\u304d\ud83d\udc9b\nContact for work: thinguyenkhtn@gmail.com",
-         "stitchSetting": 1,
-         "ttSeller": false,
-         "uniqueId": "xuanxemhuongnoi",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 1,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7278370166710633479",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1697252746,
+      "nickname": "xuanxemhuongnoi",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAArEvVMtAv-JWWj89BL9gaa_9qmINmQR-2tnVo_UJjjr1NofKIONY7RDZS1PL_EK3_",
+      "secret": false,
+      "signature": "\u304a\u3046\u3061\u3054\u306f\u3093\u5927\u597d\u304d\ud83d\udc9b\nContact for work: thinguyenkhtn@gmail.com",
+      "stitchSetting": 1,
+      "ttSeller": false,
+      "uniqueId": "xuanxemhuongnoi",
+      "verified": false
    }
 }

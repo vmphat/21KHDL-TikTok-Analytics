@@ -1,0 +1,54 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 768300,
+      "followingCount": 2,
+      "friendCount": 1,
+      "heart": 32400000,
+      "heartCount": 32400000,
+      "videoCount": 1473
+   },
+   "user": {
+      "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/527993c7d2683ca33fc7c0fdf2e1674e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=e549e729&x-expires=1741348800&x-signature=RDAq7Dm%2FXuIm%2B7Xzr5qa1G0IqxM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/527993c7d2683ca33fc7c0fdf2e1674e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=db01f228&x-expires=1741348800&x-signature=xFMgApv%2F9fIK4w1kHFJ1U0bTOqs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/527993c7d2683ca33fc7c0fdf2e1674e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=e37631fc&x-expires=1741348800&x-signature=JTdG0vEXAEFSjy6cCZYZONz56Kk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://www.facebook.com/nhandian",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Others",
+         "categoryButton": false,
+         "commerceUser": true,
+         "downLoadLink": {
+            "android": "",
+            "ios": ""
+         }
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "83383179737",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1660571936,
+      "nickname": "NH\u00c2N \u0110I \u0102N",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAPNPryLqquFpkNwT9G36oX2dWAX53qUHWKqe7RjyhaI0",
+      "secret": false,
+      "signature": "Qu\u00ea B\u00ecnh D\u01b0\u01a1ng, s\u1ed1ng \u1edf S\u00e0i G\u00f2n \ud83d\ude19\n\ud83d\udc8c For work: nhan19981998@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "nhandian",
+      "verified": false
+   }
+}

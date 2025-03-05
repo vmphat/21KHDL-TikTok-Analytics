@@ -1,61 +1,44 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230627EAF56742F09619DE9061",
-      "now": 1740927987000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 120200,
+      "followingCount": 0,
+      "friendCount": 0,
+      "heart": 1900000,
+      "heartCount": 1900000,
+      "videoCount": 51
    },
-   "log_pb": {
-      "impr_id": "20250302230627EAF56742F09619DE9061"
-   },
-   "shareMeta": {
-      "desc": "@cudamthepreview 119.3k Followers, 0 Following, 1.9m Likes - Watch awesome short videos created by C\u00da \u0110\u1ea4M TH\u00c9P REVIEW",
-      "title": "C\u00da \u0110\u1ea4M TH\u00c9P REVIEW on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 119300,
-         "followingCount": 0,
-         "friendCount": 0,
-         "heart": 1900000,
-         "heartCount": 1900000,
-         "videoCount": 50
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/41538412efbde86ffd9458445b3479f4~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=ae8dee3d&x-expires=1741348800&x-signature=barTMxxH4FC8c5WT0tCkgQJ%2F9yM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/41538412efbde86ffd9458445b3479f4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=671374e6&x-expires=1741348800&x-signature=hXmy8b0E6LFf9MU5AsPdZQd%2FUnI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/41538412efbde86ffd9458445b3479f4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=300b5fc8&x-expires=1741348800&x-signature=AQJG7PsiS6b6LknaT4wTuN%2Fktas%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/41538412efbde86ffd9458445b3479f4~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=28992&refresh_token=0568c05edfb3605d5957944ab06d8466&x-expires=1741100400&x-signature=A8d8LdLzKsWfm%2BG9fN49%2BCfcLzQ%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/41538412efbde86ffd9458445b3479f4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=70778&refresh_token=c57c9623e6ec22035041363dc4252f82&x-expires=1741100400&x-signature=DhbCKPuswblpa8aX1Qth%2Bp%2BtZvA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/41538412efbde86ffd9458445b3479f4~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=35451&refresh_token=0d8248882fee4c12da70985f88192e30&x-expires=1741100400&x-signature=4IANtkxxvj4QtmaNXbwyMIMLZSA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 3,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "7392481098971825170",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1721196493,
-         "nickname": "C\u00da \u0110\u1ea4M TH\u00c9P REVIEW",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAVzGfXcSM3vFgkspW5AdTnDFCyzVypg7roobGi42ohD4C7AExio2YCXrll96yIRr2",
-         "secret": false,
-         "signature": "REVIEW KH\u00d4NG NH\u1eacN BOOKING",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "cudamthepreview",
-         "verified": false
-      }
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7392481098971825170",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1721196493,
+      "nickname": "C\u00da \u0110\u1ea4M TH\u00c9P REVIEW",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAVzGfXcSM3vFgkspW5AdTnDFCyzVypg7roobGi42ohD4C7AExio2YCXrll96yIRr2",
+      "secret": false,
+      "signature": "REVIEW KH\u00d4NG NH\u1eacN BOOKING",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "cudamthepreview",
+      "verified": false
    }
 }

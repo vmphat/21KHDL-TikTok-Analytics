@@ -1,66 +1,49 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230553D68005B80AFD6DDB977A",
-      "now": 1740927953000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1900000,
+      "followingCount": 272,
+      "friendCount": 77,
+      "heart": 51000000,
+      "heartCount": 51000000,
+      "videoCount": 998
    },
-   "log_pb": {
-      "impr_id": "20250302230553D68005B80AFD6DDB977A"
-   },
-   "shareMeta": {
-      "desc": "@bepnhano 1.9m Followers, 272 Following, 50.9m Likes - Watch awesome short videos created by H\u00e0 Cooking",
-      "title": "H\u00e0 Cooking on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 1900000,
-         "followingCount": 272,
-         "friendCount": 78,
-         "heart": 50900000,
-         "heartCount": 50900000,
-         "videoCount": 998
+   "user": {
+      "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/170ab7344745b446511d9c02b52205b3~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=07eec439&x-expires=1741348800&x-signature=5RGowX%2B5bvhwgl3Y%2FNyXXT8NZoo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/170ab7344745b446511d9c02b52205b3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=cdfd3c91&x-expires=1741348800&x-signature=hGq6Qn9c8l0gocTeRzAmH%2Fzt6sE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/170ab7344745b446511d9c02b52205b3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=835945c3&x-expires=1741348800&x-signature=JrS2W6dx6akEgv8UBeNB42VQc5U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/hacooking",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/170ab7344745b446511d9c02b52205b3~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=51809&refresh_token=29255e8f949ee41903b17634a4997970&x-expires=1741100400&x-signature=LzREsTz3fUJZ81XOHFvOExwmrkE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/170ab7344745b446511d9c02b52205b3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=67487&refresh_token=85fb229a8ad61150d646182ae7e0bdc1&x-expires=1741100400&x-signature=mhNZddMk%2FeJqTQ477xMK3w1dSnU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/170ab7344745b446511d9c02b52205b3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=16214&refresh_token=d80adaca6aa0c6c006fa140c006b8cf1&x-expires=1741100400&x-signature=EZ7MfgGI%2BjWkXiuztkBqREDPGdI%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://beacons.ai/hacooking",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "6947931040809255938",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1620653512,
-         "nickname": "H\u00e0 Cooking",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAld3_3RXd1QkvTQII8aXEOdoaC8WpiCQhIywrco_a3zuLNJPS55fE_zPsAw5jOfkR",
-         "secret": false,
-         "signature": "Forwork: 0365.059.455\nC\u00e1c m\u00f3n m\u00ecnh d\u00f9ng n\u1ea5u \u0103n \u1edf \u0111\u00e2y nha\ud83d\udc47",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "bepnhano",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6947931040809255938",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1620653512,
+      "nickname": "H\u00e0 Cooking",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAld3_3RXd1QkvTQII8aXEOdoaC8WpiCQhIywrco_a3zuLNJPS55fE_zPsAw5jOfkR",
+      "secret": false,
+      "signature": "Forwork: 0365.059.455\nC\u00e1c m\u00f3n m\u00ecnh d\u00f9ng n\u1ea5u \u0103n \u1edf \u0111\u00e2y nha\ud83d\udc47",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "bepnhano",
+      "verified": false
    }
 }

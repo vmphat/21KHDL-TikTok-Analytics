@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 2100000,
+      "followingCount": 336,
+      "friendCount": 72,
+      "heart": 82100000,
+      "heartCount": 82100000,
+      "videoCount": 658
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d4bc5543c2c7179fe64af8acd59597fa~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=6a0d0d1f&x-expires=1741348800&x-signature=XHPKi7gA6jjOEJAYZ2da%2FOLb7BU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d4bc5543c2c7179fe64af8acd59597fa~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=5d594bf5&x-expires=1741348800&x-signature=SUxdHw%2FMDE3S3WbC8xtqXW%2FXQHs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/d4bc5543c2c7179fe64af8acd59597fa~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=e4e00b78&x-expires=1741348800&x-signature=HDJJq%2FraxiNea1gwt6fD%2BpK3ZHM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://www.canva.com/design/DAFtqBafQis/2DJHET0zHUM3mKCOh9tbUg/view?utm_content=DAFtqBafQis&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6552351315908116482",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "Chu Ti\u1ec3u Han",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAASITOWpJkuJvRjfqMaCq6ofWn_t2-t_f1NpOGx81d_TO5IaZ_SuLq7fsA46V4cfR9",
+      "secret": false,
+      "signature": "Kh\u00f4ng nh\u1eadn job\nIG:chutieuhan01",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "chutieuhan10012001",
+      "verified": false
+   }
+}

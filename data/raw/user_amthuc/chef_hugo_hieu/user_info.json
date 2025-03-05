@@ -1,66 +1,49 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "2025030223060688AE1EB8DBBDEDDF4B88",
-      "now": 1740927967000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 563100,
+      "followingCount": 76,
+      "friendCount": 56,
+      "heart": 8700000,
+      "heartCount": 8700000,
+      "videoCount": 302
    },
-   "log_pb": {
-      "impr_id": "2025030223060688AE1EB8DBBDEDDF4B88"
-   },
-   "shareMeta": {
-      "desc": "@chef_hugo_hieu 563.4k Followers, 76 Following, 8.7m Likes - Watch awesome short videos created by Tr\u1ea7n Trung Hi\u1ebfu",
-      "title": "Tr\u1ea7n Trung Hi\u1ebfu on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 563400,
-         "followingCount": 76,
-         "friendCount": 56,
-         "heart": 8700000,
-         "heartCount": 8700000,
-         "videoCount": 301
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/066066e33eb816d61fac73d973e886c3~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7c8ec6cb&x-expires=1741348800&x-signature=OiJ%2BufCdLN%2FWoejcUNVfDLzrc80%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/066066e33eb816d61fac73d973e886c3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=493a623d&x-expires=1741348800&x-signature=MX5PzV456%2FYZvHXIcvLHFHXrwMA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/066066e33eb816d61fac73d973e886c3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=fca08b70&x-expires=1741348800&x-signature=bB5JexvYiyFxk76xiehQNe8rdus%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/chef_hugo_hieu",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/066066e33eb816d61fac73d973e886c3~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=8930&refresh_token=137b4303f8a0e18456128f72781cda76&x-expires=1741100400&x-signature=PBH82AK09lA01VX075PcooUBIzs%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/066066e33eb816d61fac73d973e886c3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=62022&refresh_token=d0a2d05f929736cb0e6dd57bca85febd&x-expires=1741100400&x-signature=TvsMTDhs8BlLGiGTVoudMZeAjSA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/066066e33eb816d61fac73d973e886c3~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=79364&refresh_token=cd19c5e57128084f5ff9247e9978ee65&x-expires=1741100400&x-signature=kgAKaLkFB0QJBKDps3kfRBIByvI%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://beacons.ai/chef_hugo_hieu",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "category": "Art & Crafts",
-            "categoryButton": false,
-            "commerceUser": true
-         },
-         "downloadSetting": 0,
-         "duetSetting": 3,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "6605331996980641793",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickname": "Tr\u1ea7n Trung Hi\u1ebfu",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAC7HDDThFneF-Df9OmiSl203Lrov8QRZOCDFjBau0WZj1b-Di9EhfiSE7Fn0ooWYD",
-         "secret": false,
-         "signature": "CHEF - COACH : TH\u1ee8C QU\u00c0 TRUY\u1ec0N TH\u1ed0NG - TH\u1ee8C QU\u00c0 GIAO M\u00d9A - M\u00c2M C\u01a0M NH\u00c0 L\u00c0 NH\u1ea4T",
-         "stitchSetting": 3,
-         "ttSeller": false,
-         "uniqueId": "chef_hugo_hieu",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Art & Crafts",
+         "categoryButton": false,
+         "commerceUser": true
+      },
+      "downloadSetting": 0,
+      "duetSetting": 3,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6605331996980641793",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "Tr\u1ea7n Trung Hi\u1ebfu",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAC7HDDThFneF-Df9OmiSl203Lrov8QRZOCDFjBau0WZj1b-Di9EhfiSE7Fn0ooWYD",
+      "secret": false,
+      "signature": "CHEF - COACH : TH\u1ee8C QU\u00c0 TRUY\u1ec0N TH\u1ed0NG - TH\u1ee8C QU\u00c0 GIAO M\u00d9A - M\u00c2M C\u01a0M NH\u00c0 L\u00c0 NH\u1ea4T",
+      "stitchSetting": 3,
+      "ttSeller": false,
+      "uniqueId": "chef_hugo_hieu",
+      "verified": false
    }
 }

@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 183500,
+      "followingCount": 0,
+      "friendCount": 0,
+      "heart": 4700000,
+      "heartCount": 4700000,
+      "videoCount": 872
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e19cb6b8cac6f73b7603cc57d16fd0b0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=0f72a4ae&x-expires=1741348800&x-signature=eonFxKlUxCccN6MFnK3ijo1KAwY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e19cb6b8cac6f73b7603cc57d16fd0b0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=f05ab32a&x-expires=1741348800&x-signature=41BF06UxL5EyPK6%2Bqfur77N8l7E%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e19cb6b8cac6f73b7603cc57d16fd0b0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=81d0dae5&x-expires=1741348800&x-signature=nUgcW2VuXJAozv%2B%2F8GBRVemQMeU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6611029964165070850",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1681825932,
+      "nickname": "\u0102n C\u00f9ng D\u1eadu",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAGSVxxBn2vIT_zCFCEumX2_6mhvXtmDzI0lnQFzCh-4VESCLrIjM5EjsnjglRGZjq",
+      "secret": false,
+      "signature": "FOOD - TRAVEL\nC\u00f9ng D\u1eadu \u0103n kh\u1eafp mu\u00f4n n\u01a1i\n\ud83d\udc8c ancungdaune a c\u00f2ng g\u1edd meo ch\u1eafm c\u01a1m",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "ancungdaune",
+      "verified": false
+   }
+}

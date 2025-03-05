@@ -1,66 +1,49 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230617D4F582BC12D07AE432AF",
-      "now": 1740927977000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 2900000,
+      "followingCount": 23,
+      "friendCount": 22,
+      "heart": 97500000,
+      "heartCount": 97500000,
+      "videoCount": 1503
    },
-   "log_pb": {
-      "impr_id": "20250302230617D4F582BC12D07AE432AF"
-   },
-   "shareMeta": {
-      "desc": "@spicykim9386 2.9m Followers, 23 Following, 97.4m Likes - Watch awesome short videos created by Spicy Kim",
-      "title": "Spicy Kim on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 2900000,
-         "followingCount": 23,
-         "friendCount": 22,
-         "heart": 97400000,
-         "heartCount": 97400000,
-         "videoCount": 1498
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b157617a81339809bad16e281c27a5b~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=e841c003&x-expires=1741348800&x-signature=1EVeTTOZ9B7C2WZES77ryIhBpoc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b157617a81339809bad16e281c27a5b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=547cc3d2&x-expires=1741348800&x-signature=ziMwVZL2ZL1zNv06BE7hEFo39Rk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b157617a81339809bad16e281c27a5b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=aec1791a&x-expires=1741348800&x-signature=18uP8oHClXZQvpZHnRHxABrs%2FBc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/spicykim.9386/",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b157617a81339809bad16e281c27a5b~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=63301&refresh_token=88aa0ae96de52a19b2d3918d844d6b8d&x-expires=1741100400&x-signature=nljpyCa60FDvb21zE7lcfEFeWsM%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b157617a81339809bad16e281c27a5b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=87251&refresh_token=148634ac1e4043ec3910830160443954&x-expires=1741100400&x-signature=8psb0PlssJNT7uRrZg8b6ImVj8E%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b157617a81339809bad16e281c27a5b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=67849&refresh_token=fceaf0e341d10cfb2fecbdf3535c1c36&x-expires=1741100400&x-signature=bnq%2BZrh3wI8noqujJEmsweH2fRs%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://beacons.ai/spicykim.9386/",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "6698720428993758209",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1619835716,
-         "nickname": "Spicy Kim",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAgIjsgraPQGgXq_fbteixNtr9MsS6vRIV44uQaToN3pNNj0hLoU1z2DTROhogAz3_",
-         "secret": false,
-         "signature": "Th\u00f4ng tin th\u00eam\nspicykim.9386@gmail.com",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "spicykim9386",
-         "verified": true
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6698720428993758209",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1619835716,
+      "nickname": "Spicy Kim",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAgIjsgraPQGgXq_fbteixNtr9MsS6vRIV44uQaToN3pNNj0hLoU1z2DTROhogAz3_",
+      "secret": false,
+      "signature": "Th\u00f4ng tin th\u00eam\nspicykim.9386@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "spicykim9386",
+      "verified": true
    }
 }

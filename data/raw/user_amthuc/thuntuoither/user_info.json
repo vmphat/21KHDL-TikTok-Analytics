@@ -1,0 +1,45 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 252400,
+      "followingCount": 143,
+      "friendCount": 73,
+      "heart": 8900000,
+      "heartCount": 8900000,
+      "videoCount": 845
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4d7f0f8bf6e2bfbac5f07f0fd339ac20~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=75e1518f&x-expires=1741348800&x-signature=E2a3OWWklPCwy38we98PCHROgDQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4d7f0f8bf6e2bfbac5f07f0fd339ac20~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=0ba21a63&x-expires=1741348800&x-signature=8WfCG%2FVK3AIlPcSlnvwzsnrJmO0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4d7f0f8bf6e2bfbac5f07f0fd339ac20~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1463df19&x-expires=1741348800&x-signature=I2VRUNbvVs8UCOywPxUGsjfO8QA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6526447865950289921",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1675771632,
+      "nickname": "Th\u1ef1n Tu\u1ed5i Ther",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA0Rm7Ue03OZdxUGIftFjD9VLeY-omvzZbk3VbxhUddMtZAoAU1N9G25RQaJGkkQce",
+      "secret": false,
+      "signature": "Tuy\u1ec3n t\u1eadp m\u00f3n \u0103n tu\u1ed5i th\u01a1 \u2764\ufe0f\nIG : Streetfoodsaigonn",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "thuntuoither",
+      "verified": false
+   }
+}

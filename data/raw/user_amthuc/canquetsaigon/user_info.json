@@ -1,0 +1,45 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1500000,
+      "followingCount": 564,
+      "friendCount": 181,
+      "heart": 64000000,
+      "heartCount": 64000000,
+      "videoCount": 1695
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7331498911787876353~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=08c00327&x-expires=1741348800&x-signature=pzprQgRUI%2BcwaCuHmdQSokpM0yQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7331498911787876353~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=a1f4452d&x-expires=1741348800&x-signature=oTQoiUH0m72qiJf79q2ZJXrvcRw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7331498911787876353~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=fb0e5518&x-expires=1741348800&x-signature=wdh3M8zeHDp640qzsK%2BF2WlC6xA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6706299450523108354",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1737024583,
+      "nickname": "B\u1ea3o B\u1ea3o ( C\u00e0n Qu\u00e9t S\u00e0i G\u00f2n )",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAw7iQILO7UKUw7GKUqqY4fAMlr6GhP7ILHiR2VZI3ld52u79wObLmG9gNxKn7wFXE",
+      "secret": false,
+      "signature": "Contact for work : D.starmediaagency@gmail.com\nChi\u1ebfc t\u00fai th\u1ea7n k\u00ec c\u1ee7a B\u1ebbo:",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "canquetsaigon",
+      "verified": false
+   }
+}

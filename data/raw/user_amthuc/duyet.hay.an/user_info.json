@@ -1,61 +1,44 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230622BFED240567A9DAEBC8B4",
-      "now": 1740927982000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 238300,
+      "followingCount": 47,
+      "friendCount": 1,
+      "heart": 7400000,
+      "heartCount": 7400000,
+      "videoCount": 268
    },
-   "log_pb": {
-      "impr_id": "20250302230622BFED240567A9DAEBC8B4"
-   },
-   "shareMeta": {
-      "desc": "@duyet.hay.an 236.4k Followers, 47 Following, 7.3m Likes - Watch awesome short videos created by Duy\u1ec7t Hay \u0102n",
-      "title": "Duy\u1ec7t Hay \u0102n on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 236400,
-         "followingCount": 47,
-         "friendCount": 1,
-         "heart": 7300000,
-         "heartCount": 7300000,
-         "videoCount": 265
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/02557060c301b6994845a490f0939ee1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b90d2679&x-expires=1741348800&x-signature=5Z3f9aeJxHWiLFcyANAN2faqcn4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/02557060c301b6994845a490f0939ee1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=718a47dd&x-expires=1741348800&x-signature=uA6KV24A12szR3i6QGqq7r34BMo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/02557060c301b6994845a490f0939ee1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c8472125&x-expires=1741348800&x-signature=ocyzs%2B%2Fpv2mjRHOxwG11p3Ng8sk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/02557060c301b6994845a490f0939ee1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=97941&refresh_token=dae79ff621b80011a35fd73e2a7344ab&x-expires=1741100400&x-signature=ns7cN498xZ5MO0sbExHeoY4D%2Bcw%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/02557060c301b6994845a490f0939ee1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=85580&refresh_token=6dfaf258229476c6b5852b4870042605&x-expires=1741100400&x-signature=%2F%2ForQ5llHyjQjwFn1vxW8aT2T94%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/02557060c301b6994845a490f0939ee1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=9916&refresh_token=b4698b40e9686c6a8882e4e30bf6a972&x-expires=1741100400&x-signature=HJoyGYVhKbvSe7ioiWMqNSv81ks%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "7340678106837009415",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1716974509,
-         "nickname": "Duy\u1ec7t Hay \u0102n",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": false
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAGiwtEpRUo5LAGaqXjU1CppELkacPvld2hcPayqH7DaYsr_6fNTPbh61_z-80BFib",
-         "secret": false,
-         "signature": "C\u1ea3m \u01a1n \u0111\u00e3 gh\u00e9 th\u0103m k\u00eanh c\u1ee7a m\u00ecnh\nH\u00e3y Follow m\u00ecnh nha \ud83d\ude0a\nduyethayan285@gmail.com",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "duyet.hay.an",
-         "verified": false
-      }
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7340678106837009415",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1716974509,
+      "nickname": "Duy\u1ec7t Hay \u0102n",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAGiwtEpRUo5LAGaqXjU1CppELkacPvld2hcPayqH7DaYsr_6fNTPbh61_z-80BFib",
+      "secret": false,
+      "signature": "C\u1ea3m \u01a1n \u0111\u00e3 gh\u00e9 th\u0103m k\u00eanh c\u1ee7a m\u00ecnh\nH\u00e3y Follow m\u00ecnh nha \ud83d\ude0a\nduyethayan285@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "duyet.hay.an",
+      "verified": false
    }
 }

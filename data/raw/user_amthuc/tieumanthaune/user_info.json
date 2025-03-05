@@ -1,0 +1,49 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 3300000,
+      "followingCount": 168,
+      "friendCount": 134,
+      "heart": 111500000,
+      "heartCount": 111500000,
+      "videoCount": 1104
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/78cc259ffb123ce5d48fdb05454b3b26~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=869c122f&x-expires=1741348800&x-signature=E2JzXQPn99Qp%2Fz5ELgeDVWgfOFQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/78cc259ffb123ce5d48fdb05454b3b26~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=8baef837&x-expires=1741348800&x-signature=lLgP9gS3OWKGisGIZ8I2ca5qM50%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/78cc259ffb123ce5d48fdb05454b3b26~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=cb0c1dfb&x-expires=1741348800&x-signature=tAPkFo0A8DZl3KYpwvoZcM2lUsY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/tieumanthau",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6908933207383639041",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1608611683,
+      "nickname": "Ti\u1ec3u M\u00e0n Th\u1ea7u",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA3wojSkfJjQnNK5vyHC5eLhP8A-GpvIp5VU_jcRJuG3wITw2FA-bHFcHRGZon50ft",
+      "secret": false,
+      "signature": "Contact for work: 093 4307361 (Lan Anh)\n--\nBooking@vtmgr.me",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "tieumanthaune",
+      "verified": true
+   }
+}

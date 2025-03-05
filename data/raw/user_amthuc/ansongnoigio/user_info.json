@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 126800,
+      "followingCount": 12,
+      "friendCount": 6,
+      "heart": 4800000,
+      "heartCount": 4800000,
+      "videoCount": 119
+   },
+   "user": {
+      "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/58f888dcf969475bcc1b11599f7a05bd~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=2e2a328f&x-expires=1741348800&x-signature=eNnLEAmcbHBsexhj9TTEjYcWhD4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/58f888dcf969475bcc1b11599f7a05bd~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=2ffcca42&x-expires=1741348800&x-signature=IIfe0HKMECqpu8OE3f5%2BBtFoKE4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/58f888dcf969475bcc1b11599f7a05bd~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=f63843c3&x-expires=1741348800&x-signature=I96ADhdsmuz9rrTwxf%2FGQgQ5H1I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/ansongnoigio",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7414393039093580821",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1726297963,
+      "nickname": "\u0102n S\u00f3ng N\u00f3i Gi\u00f3",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAI-qbBz8inrkJ7tPe-oC6fvDNF3SEwcrVM1JN1mCuTjRAzaBKBoW0x0NR22BK09qF",
+      "secret": false,
+      "signature": "Th\u00edch \u0103n Ch\u00ed Ch\u01b0\u01a1ng H\u1ea3i Ph\u00f2ng\nContact For Work: 0902020325 (Mr Ngh\u0129a)",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "ansongnoigio",
+      "verified": false
+   }
+}

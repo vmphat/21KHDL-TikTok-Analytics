@@ -1,66 +1,49 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "202503022306288C8D767BC5C5B7DA9B02",
-      "now": 1740927989000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 821400,
+      "followingCount": 45,
+      "friendCount": 13,
+      "heart": 28400000,
+      "heartCount": 28400000,
+      "videoCount": 705
    },
-   "log_pb": {
-      "impr_id": "202503022306288C8D767BC5C5B7DA9B02"
-   },
-   "shareMeta": {
-      "desc": "@anvedem 820.0k Followers, 45 Following, 28.4m Likes - Watch awesome short videos created by Th\u00edch \u0103n v\u1eb7t v\u1ec1 \u0111\u00eam \ud83c\udf71",
-      "title": "Th\u00edch \u0103n v\u1eb7t v\u1ec1 \u0111\u00eam \ud83c\udf71 on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 820000,
-         "followingCount": 45,
-         "friendCount": 13,
-         "heart": 28400000,
-         "heartCount": 28400000,
-         "videoCount": 704
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/28b5b31c53c07c96a5da569458537dad~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=2d48279c&x-expires=1741348800&x-signature=NlFri9d8mwLcbGWsjzh1VYSsGqU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/28b5b31c53c07c96a5da569458537dad~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=a160c27b&x-expires=1741348800&x-signature=33%2F%2BjlnM9irMwhpg8ZYD2L4rcN8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/28b5b31c53c07c96a5da569458537dad~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c47d01e7&x-expires=1741348800&x-signature=iTQaoUbpprzPQBZLnMAtTt85WIo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://linkbio.co/Anvedem88",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/28b5b31c53c07c96a5da569458537dad~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=92490&refresh_token=fc5ed6bb4510817939971755677592ea&x-expires=1741100400&x-signature=eNnTmxAXLsQbQXwlL4WCqVCTicA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/28b5b31c53c07c96a5da569458537dad~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=66456&refresh_token=b7ee3d05d2090c2493d357041d8f333e&x-expires=1741100400&x-signature=nAj%2FUuBWfVIij4uc6ZYnzT5zXt0%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/28b5b31c53c07c96a5da569458537dad~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=70077&refresh_token=59087d194c559970ab879f30433722dd&x-expires=1741100400&x-signature=aimq6nkTY1kBsVdWL5tV4Rqq93Y%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://linkbio.co/Anvedem88",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "7154232415724323846",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1665744608,
-         "nickname": "Th\u00edch \u0103n v\u1eb7t v\u1ec1 \u0111\u00eam \ud83c\udf71",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAZDlkh9f5VRVMxbFEGrNEtzI2FaYaSpkn7Xi0Kz9ESYnatbbA4wft5u4Fa-g9YLgG",
-         "secret": false,
-         "signature": "\ud83d\udce9anvedem48@gmail.com\n\ud83d\udcde0\ufe0f\u20e33\ufe0f\u20e36\ufe0f\u20e39\ufe0f\u20e38\ufe0f\u20e3\ud83d\udd1c5\ufe0f\u20e32\ufe0f\u20e31\ufe0f\u20e32\ufe0f\u20e34\ufe0f\u20e3",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "anvedem",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7154232415724323846",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1665744608,
+      "nickname": "Th\u00edch \u0103n v\u1eb7t v\u1ec1 \u0111\u00eam \ud83c\udf71",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAZDlkh9f5VRVMxbFEGrNEtzI2FaYaSpkn7Xi0Kz9ESYnatbbA4wft5u4Fa-g9YLgG",
+      "secret": false,
+      "signature": "\ud83d\udce9anvedem48@gmail.com\n\ud83d\udcde0\ufe0f\u20e33\ufe0f\u20e36\ufe0f\u20e39\ufe0f\u20e38\ufe0f\u20e3\ud83d\udd1c5\ufe0f\u20e32\ufe0f\u20e31\ufe0f\u20e32\ufe0f\u20e34\ufe0f\u20e3",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "anvedem",
+      "verified": false
    }
 }

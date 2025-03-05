@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 271600,
+      "followingCount": 138,
+      "friendCount": 23,
+      "heart": 2200000,
+      "heartCount": 2200000,
+      "videoCount": 157
+   },
+   "user": {
+      "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7bd99f5763f0134ac4865e4a0fe9d3ea~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=3eaf6df0&x-expires=1741348800&x-signature=3Em%2Bsr%2B9MF3kwuPHRitJ9ZmJ9rA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7bd99f5763f0134ac4865e4a0fe9d3ea~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=8662714f&x-expires=1741348800&x-signature=HeG1fpC0oQpoIZkDuT2OvqfaRjE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7bd99f5763f0134ac4865e4a0fe9d3ea~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=6b46d977&x-expires=1741348800&x-signature=SSCBvuXRyCHVk7YUPzrxSSgvb4s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://linkbio.co/BaoBanhBao",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6793541375528551425",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1721237075,
+      "nickname": "B\u1ea3o B\u1ea3nh Bao",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAFaYNZASME0DwqUyVGzD3JU6vA0N35gOx6EzYi0gEKoGiXHOd4z5DLuJ4lW5pLoK9",
+      "secret": false,
+      "signature": "Lifestyle | F&B | Travel\n\ud83d\udce9phubao.010178@gmail.com\nFOR WORK: 0.8.9.8.6.8.1.7.3.3",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "baobanhbao2308",
+      "verified": false
+   }
+}

@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1700000,
+      "followingCount": 54,
+      "friendCount": 53,
+      "heart": 37300000,
+      "heartCount": 37300000,
+      "videoCount": 686
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/382d0930ecbd80221d861340b4903ca1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=a38d4650&x-expires=1741348800&x-signature=gP0pKMJwqjjFFwfeR8Lbr%2BTNeGE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/382d0930ecbd80221d861340b4903ca1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=7fee53b9&x-expires=1741348800&x-signature=C7lczC601UfGdX8HppRWzNUywhk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/382d0930ecbd80221d861340b4903ca1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=aef3e65c&x-expires=1741348800&x-signature=sF27mUMJk2QJjG1yYJ3ZcKHaWpA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6778526439651329025",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "\u0e40\u0e15\u0e34\u0e01 \u0e42\u0e14\u0e19\u0e22\u0e38\u0e07\u0e01\u0e31\u0e14",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAVSn7D3x_PujO_bmNdJ8RMywx0fIaMP6wb3eQWny-yB0vDUoCwoUMOcSOa4MEzEVG",
+      "secret": false,
+      "signature": "T\u00f4i l\u00e0 ng\u01b0\u1eddi Th\u00e1i r\u1ea5t y\u00eau Vi\u1ec7tNam \ud83c\uddfb\ud83c\uddf3\nWork IG : turkdyk Kh\u00f4ng nh\u1eadn chuy\u1ec3n ti\u1ec1n!",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "turkdyk",
+      "verified": false
+   }
+}

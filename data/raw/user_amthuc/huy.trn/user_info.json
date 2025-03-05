@@ -1,61 +1,44 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "202503022305509D17F3BCDAE2FDD841FA",
-      "now": 1740927950000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 400400,
+      "followingCount": 17,
+      "friendCount": 7,
+      "heart": 6900000,
+      "heartCount": 6900000,
+      "videoCount": 201
    },
-   "log_pb": {
-      "impr_id": "202503022305509D17F3BCDAE2FDD841FA"
-   },
-   "shareMeta": {
-      "desc": "@huy.trn 399.4k Followers, 17 Following, 6.9m Likes - Watch awesome short videos created by Huy Tran",
-      "title": "Huy Tran on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 399400,
-         "followingCount": 17,
-         "friendCount": 7,
-         "heart": 6900000,
-         "heartCount": 6900000,
-         "videoCount": 210
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/67a5432bdc79e45df9e193a131ee11e7~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=0e7cf044&x-expires=1741348800&x-signature=igAj4BbUgjurhRchyPlJCcd%2BBIw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/67a5432bdc79e45df9e193a131ee11e7~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=ef99529d&x-expires=1741348800&x-signature=hQKu17tEthdG0iuRVJZdpJVpYeo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/67a5432bdc79e45df9e193a131ee11e7~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=3247c1c7&x-expires=1741348800&x-signature=T3Y9EBMpwwcgJwEfGJlXqN1HWK4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/67a5432bdc79e45df9e193a131ee11e7~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=52774&refresh_token=ba4b9ae458642aff72ff92dc8f0c055f&x-expires=1741100400&x-signature=lrdRQI%2BY5Sedo4xKyUoFnY32FrA%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/67a5432bdc79e45df9e193a131ee11e7~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=93821&refresh_token=52bf420974ab91d5b045fe8ae13d5183&x-expires=1741100400&x-signature=1sDO5fvqh%2BCgO5GFPiX1apGgoGU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/67a5432bdc79e45df9e193a131ee11e7~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=85373&refresh_token=e2b56a547c3b83923a3ee548e45dfe5d&x-expires=1741100400&x-signature=fRFFkQUdFHTD27fOVc4ABzNX%2FGQ%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 1,
-         "ftc": false,
-         "id": "6713574180145071109",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickname": "Huy Tran",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAn2wuG3EdM-kpYmSEFDqMNuI1ig_4PHx2HIkDb6Vzr9YLx1IFf2zC8_86AHggcpbG",
-         "secret": false,
-         "signature": "mail:talentagent@studio68.asia\n\ud835\ude78\ud835\ude76: \ud835\ude91\ud835\ude9e\ud835\udea2.\ud835\ude9d\ud835\ude9b\ud835\ude97\n\ud835\ude75\ud835\ude71: \ud835\ude91\ud835\ude9e\ud835\udea2\ud835\ude9d\ud835\ude9b\ud835\ude8a\ud835\ude97.\ud835\ude8c\ud835\ude91\ud835\ude8e\ud835\ude8f",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "huy.trn",
-         "verified": true
-      }
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6713574180145071109",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "Huy Tran",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAn2wuG3EdM-kpYmSEFDqMNuI1ig_4PHx2HIkDb6Vzr9YLx1IFf2zC8_86AHggcpbG",
+      "secret": false,
+      "signature": "mail:talentagent@studio68.asia\n\ud835\ude78\ud835\ude76: \ud835\ude91\ud835\ude9e\ud835\udea2.\ud835\ude9d\ud835\ude9b\ud835\ude97\n\ud835\ude75\ud835\ude71: \ud835\ude91\ud835\ude9e\ud835\udea2\ud835\ude9d\ud835\ude9b\ud835\ude8a\ud835\ude97.\ud835\ude8c\ud835\ude91\ud835\ude8e\ud835\ude8f",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "huy.trn",
+      "verified": true
    }
 }

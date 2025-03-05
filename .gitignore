@@ -3,8 +3,9 @@ logs/*
 # Ignore all virtual environments
 .venv/*
 myenv/*
+myenv/
 # Ignore all files in development folder
 development/*
 # Ignore all videos
 *.mp4
-myenv/
+

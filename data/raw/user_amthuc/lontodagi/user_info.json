@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 277300,
+      "followingCount": 1,
+      "friendCount": 1,
+      "heart": 4100000,
+      "heartCount": 4100000,
+      "videoCount": 57
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7370280283972567041~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=58d6e8b2&x-expires=1741348800&x-signature=4k8uiEtwL%2FAM4BddvLhUitB0NU0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7370280283972567041~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=284e9d1b&x-expires=1741348800&x-signature=ujJStrmKBuoKWiPoxHUMJqPhZPU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7370280283972567041~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=0dcd05e9&x-expires=1741348800&x-signature=I6kpZ0Z%2FubtkNeyuTMnWXo%2FI9Z0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://www.instagram.com/lontodagi/",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7263078292810695686",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1716027105,
+      "nickname": "longi",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAh9XlCDwEdHZ9QmHOjvqNLS1iEkCUphbcFm3ls6xyn9ae8fdB8NQjD0LF9Mf3eOOE",
+      "secret": false,
+      "signature": "T\u00f4i l\u00e0m video\nEmail: lontodagi@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "lontodagi",
+      "verified": false
+   }
+}

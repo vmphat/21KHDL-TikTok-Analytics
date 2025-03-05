@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 5500000,
+      "followingCount": 506,
+      "friendCount": 221,
+      "heart": 119600000,
+      "heartCount": 119600000,
+      "videoCount": 503
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4cfaa5c14950b5d6fea7def263c50c7e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b3027f06&x-expires=1741348800&x-signature=r%2FBuNAFBfrPBowuyACsnhMK83x4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4cfaa5c14950b5d6fea7def263c50c7e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=2f1affa6&x-expires=1741348800&x-signature=ZOjrMDsfFgemNbtx9vYPyZRNE8E%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4cfaa5c14950b5d6fea7def263c50c7e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=6dc81fd8&x-expires=1741348800&x-signature=Cf6PvXNZR3G3IAhoeJTYMqwZbFM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "72357433530",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1610114863,
+      "nickname": "Ha Linh Official",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAIAwwWQ0zV3rQKKRmdxBEtqwlYdvMAQcav-Xg77sLJTs",
+      "secret": false,
+      "signature": "\ud83d\udd25\u0110\u1ec8NH CAO S\u0102N SALE\ud83d\udd25",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "halinhofficial",
+      "verified": true
+   }
+}

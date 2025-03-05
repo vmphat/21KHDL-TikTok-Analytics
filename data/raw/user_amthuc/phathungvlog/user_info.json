@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 224800,
+      "followingCount": 496,
+      "friendCount": 55,
+      "heart": 8600000,
+      "heartCount": 8600000,
+      "videoCount": 837
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1930f68a2c09e91c7713f025712e8459~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=99c00aaf&x-expires=1741348800&x-signature=5MmctdNZolhP%2BWf7if8Hu%2FR26Rk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1930f68a2c09e91c7713f025712e8459~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=68f203c2&x-expires=1741348800&x-signature=rYqVG%2BGyfnmwU6NIboch0B77TBc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1930f68a2c09e91c7713f025712e8459~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=bce97857&x-expires=1741348800&x-signature=HAKfWJtO5P0FjBJz7eUMUnTPfGc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/phathungvlog",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7052087383521494042",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1645951959,
+      "nickname": "L\u00ea Ph\u00e1t H\u01b0ng",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAMLFYbhWM9CG7sPcSG5l6TpD-trwfYOIfLVTAHCRlJoSVb8tFwtAE5HILdA38qXgz",
+      "secret": false,
+      "signature": "Contact for work: lephathung2004@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "phathungvlog",
+      "verified": false
+   }
+}

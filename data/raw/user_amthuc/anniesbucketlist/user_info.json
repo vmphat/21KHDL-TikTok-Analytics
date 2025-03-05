@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 115200,
+      "followingCount": 567,
+      "friendCount": 276,
+      "heart": 5800000,
+      "heartCount": 5800000,
+      "videoCount": 630
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/332f032cffeb7073ca9bbe9d8b034c64~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=f1624dbf&x-expires=1741348800&x-signature=%2BXTcAQL9s8lsLxLB%2B4%2FAYxKlEBI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/332f032cffeb7073ca9bbe9d8b034c64~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=fe4bbb3b&x-expires=1741348800&x-signature=eb6%2FDpcmWLbgPPUKiHFrv7TGx8o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/332f032cffeb7073ca9bbe9d8b034c64~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=85922c21&x-expires=1741348800&x-signature=7zoj3Orp80hSKf4Vs4vYUtfkW2Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://linktr.ee/Anniesbucketlist.content",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6728324985667273733",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1661019435,
+      "nickname": "Anniesbucketlist",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAEbsuSkBvcxLAu72DyIHmZtxGpBS3sOM0mZrvxs4sKNOXr7TIG5Scgop_tGH1f-Jq",
+      "secret": false,
+      "signature": "Mum of 2 eating & exploring Sydney \ud83c\udf3b say hi: anniesbucketlist@andmedia.com.au",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "anniesbucketlist",
+      "verified": false
+   }
+}

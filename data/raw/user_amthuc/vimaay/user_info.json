@@ -1,0 +1,49 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 377900,
+      "followingCount": 294,
+      "friendCount": 249,
+      "heart": 19900000,
+      "heartCount": 19900000,
+      "videoCount": 1051
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2748728462d0059140b9d09dcb80b08f~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=90874208&x-expires=1741348800&x-signature=V0pgY8gm0gvE4Y0BY3%2B%2BXAvPuAo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2748728462d0059140b9d09dcb80b08f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=e5cfffe0&x-expires=1741348800&x-signature=%2F5WDBXqBDyONyY%2FZT5ZMrAmTOzE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2748728462d0059140b9d09dcb80b08f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=df1ef166&x-expires=1741348800&x-signature=QZAuw7FuUoyJG1e5fN0qRGRmrdw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/vimaytuong",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "71318560539",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1685166471,
+      "nickname": "Vi May",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAPB-Rk7IYeFg2dYMbxUdstIPTRihs4JRbeaCah_PBKEw",
+      "secret": false,
+      "signature": "Contact for work:\n\ud83d\udce9 bookingvimay@gmail.com\n\n078-553-0608 \ud83d\udcf2",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "vimaay",
+      "verified": false
+   }
+}

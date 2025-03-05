@@ -1,66 +1,49 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230559A06609AC898EC4E20200",
-      "now": 1740927959000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 789400,
+      "followingCount": 389,
+      "friendCount": 222,
+      "heart": 30500000,
+      "heartCount": 30500000,
+      "videoCount": 1155
    },
-   "log_pb": {
-      "impr_id": "20250302230559A06609AC898EC4E20200"
-   },
-   "shareMeta": {
-      "desc": "@minn.cookie 789.5k Followers, 389 Following, 30.5m Likes - Watch awesome short videos created by Minn Cookie",
-      "title": "Minn Cookie on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 789500,
-         "followingCount": 389,
-         "friendCount": 222,
-         "heart": 30500000,
-         "heartCount": 30500000,
-         "videoCount": 1152
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=4a869e46&x-expires=1741348800&x-signature=4TH%2FO68%2BS6p8JBiHZVhsFdPF0NI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=ea215bb9&x-expires=1741348800&x-signature=IX%2Bli75fZ20Zo9DA7tPHrScEGVs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=6b9a897e&x-expires=1741348800&x-signature=xOgPON0ZG0Q0md6Q0Ctm96bL5yM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "beacons.ai/minn.cookie",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=93806&refresh_token=6e0e6332e9a128850ad41391f57f1c2f&x-expires=1741100400&x-signature=TVLupYIp2xoAMTW823wizrNwtwU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=59399&refresh_token=a1dfc8980884ec112664bad03e3068c9&x-expires=1741100400&x-signature=DRh6z70UxKNlIE%2B93V41tcFyyZ0%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/593f9817004c7d9f8c182910e7dfb87d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=68195&refresh_token=e91062a3130b17101e9f7fd2a1009f25&x-expires=1741100400&x-signature=fwAZoy41AOQMUVUqcmHtu0whBrE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "beacons.ai/minn.cookie",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "6981736067704226843",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1625564633,
-         "nickname": "Minn Cookie",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAlh9F5DPBfaKMAZpO9bdNYBvh9wjg-Z0m7r5HStmhTNNChFdzySejhJ_7us0UTn-y",
-         "secret": false,
-         "signature": "\u2728 C\u00f4 b\u00e9 m\u1eadp t\u00ean Y\u1ebfn \u2728\n-FORWORK: 0365048235\nNguy\u00ean li\u1ec7u v\u00e0 \u0111\u1ed3 d\u00f9ng n\u1ea5u \u0103n n\u00e8 \u2b07\ufe0f",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "minn.cookie",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6981736067704226843",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1625564633,
+      "nickname": "Minn Cookie",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAlh9F5DPBfaKMAZpO9bdNYBvh9wjg-Z0m7r5HStmhTNNChFdzySejhJ_7us0UTn-y",
+      "secret": false,
+      "signature": "\u2728 C\u00f4 b\u00e9 m\u1eadp t\u00ean Y\u1ebfn \u2728\n-FORWORK: 0365048235\nNguy\u00ean li\u1ec7u v\u00e0 \u0111\u1ed3 d\u00f9ng n\u1ea5u \u0103n n\u00e8 \u2b07\ufe0f",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "minn.cookie",
+      "verified": false
    }
 }

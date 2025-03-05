@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 198700,
+      "followingCount": 47,
+      "friendCount": 28,
+      "heart": 4100000,
+      "heartCount": 4100000,
+      "videoCount": 847
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/de7ddd98605b351a97aef4c37cef61c9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=db407c7e&x-expires=1741348800&x-signature=bwNrbJw%2B7Cn58dkzP90KnPwmoPk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/de7ddd98605b351a97aef4c37cef61c9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=f0eba96b&x-expires=1741348800&x-signature=8uOwhOS4hmik3HVi80Ydn1R46B4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/de7ddd98605b351a97aef4c37cef61c9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=6563fbc7&x-expires=1741348800&x-signature=vAEANDseh%2FmdDMf%2BFtnFyB4Z7LU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7128234498731803674",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1660035840,
+      "nickname": "1 ph\u00fat S\u00e0i G\u00f2n",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA3QoEqn5xhIihiigzt7wJcPLXYYrGZb60yQQUyaHhgkQJwhXESDVvBgwWyTacQx5O",
+      "secret": false,
+      "signature": "L\u1ee5m l\u1eb7t nh\u1eefng \u0111i\u1ec1u nh\u1ecf nh\u1ecf d\u1ec5 th\u01b0\u01a1ng \u1edf S\u00e0i G\u00f2n.",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "1phutsaigon",
+      "verified": false
+   }
+}

@@ -1,65 +1,48 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230509ED1FED6B309E8F7F705D",
-      "now": 1740927909000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 267700,
+      "followingCount": 402,
+      "friendCount": 41,
+      "heart": 3300000,
+      "heartCount": 3300000,
+      "videoCount": 331
    },
-   "log_pb": {
-      "impr_id": "20250302230509ED1FED6B309E8F7F705D"
-   },
-   "shareMeta": {
-      "desc": "@jackinbartender 267.5k Followers, 402 Following, 3.3m Likes - Watch awesome short videos created by Jack In Bartender",
-      "title": "Jack In Bartender on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 267500,
-         "followingCount": 402,
-         "friendCount": 41,
-         "heart": 3300000,
-         "heartCount": 3300000,
-         "videoCount": 331
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8da56088704afaf2cca7908d034d6dcd~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=73b78e76&x-expires=1741348800&x-signature=Y7IMU6j9gEVHKMzF9MoCLQng%2BEM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8da56088704afaf2cca7908d034d6dcd~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=6455c41e&x-expires=1741348800&x-signature=ejF9NrmRdjLlmBAg7mbruRELi5o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8da56088704afaf2cca7908d034d6dcd~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=996dbd9f&x-expires=1741348800&x-signature=pb8uKHyEY%2BWHTDAXhWqp1R1qO3A%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://beacons.ai/jackinbartender",
+         "risk": 3
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8da56088704afaf2cca7908d034d6dcd~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=9476&refresh_token=1e398c958a8e45f6827433d76562a62f&x-expires=1741100400&x-signature=kw77uQUSxIngIs8LM%2BD1eeBxu1M%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8da56088704afaf2cca7908d034d6dcd~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=20716&refresh_token=23ad2ec0e1bcca57323be1cddf09267b&x-expires=1741100400&x-signature=51B8ElYIoRzUudJyifSbE4TAr%2BE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/8da56088704afaf2cca7908d034d6dcd~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=62571&refresh_token=09c91287083f616d46abceaf63b38615&x-expires=1741100400&x-signature=pZ6bzurSBOB5ShI4Lvq2LmLB4bU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://beacons.ai/jackinbartender",
-            "risk": 3
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "6933037815282877441",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1725686829,
-         "nickname": "Jack In Bartender",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAjURrXwz3PfMRUiojiOLzxko0dESiOGSB3khA70D9j6f0CxtvF6LE9FYnoLTEVRyF",
-         "secret": false,
-         "signature": "For work: nguyenphucuong93@gmail.com",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "jackinbartender",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6933037815282877441",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1725686829,
+      "nickname": "Jack In Bartender",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAjURrXwz3PfMRUiojiOLzxko0dESiOGSB3khA70D9j6f0CxtvF6LE9FYnoLTEVRyF",
+      "secret": false,
+      "signature": "For work: nguyenphucuong93@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "jackinbartender",
+      "verified": false
    }
 }

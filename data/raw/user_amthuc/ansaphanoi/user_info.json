@@ -1,0 +1,45 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1600000,
+      "followingCount": 1,
+      "friendCount": 1,
+      "heart": 46000000,
+      "heartCount": 46000000,
+      "videoCount": 846
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c1c9432fa9c2902aaec3eb6d59249c1e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=60c223fa&x-expires=1741348800&x-signature=P5wAapeN0GLudt0UGYb9MhbFXFU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c1c9432fa9c2902aaec3eb6d59249c1e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=bcb55ad6&x-expires=1741348800&x-signature=qEbQYWjl0rydEj7wS63MoB4mNjc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c1c9432fa9c2902aaec3eb6d59249c1e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=5dc22eff&x-expires=1741348800&x-signature=1Rez5nfD8zKJ76tcnev4c9IY4a0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6697454104618583042",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1601613154,
+      "nickname": "\u0102n S\u1eadp H\u00e0 N\u1ed9i",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAKNbBXuEnm3ou6u2ahqZ4eCeoWTlM4RzS5oOt-mnHUeDZS9FxORR6cHzWQcxs53E_",
+      "secret": false,
+      "signature": "Contact for work: 0792033275\nBooking@vtmgr.me",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "ansaphanoi",
+      "verified": false
+   }
+}

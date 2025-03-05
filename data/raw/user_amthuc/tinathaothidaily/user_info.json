@@ -1,0 +1,43 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1800000,
+      "followingCount": 8,
+      "friendCount": 8,
+      "heart": 65700000,
+      "heartCount": 65700000,
+      "videoCount": 1162
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/eef9785752a330dbaf9d9b6f4df38bf1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=34cbfd3e&x-expires=1741348800&x-signature=iFZzYX%2F%2BRxQ2bQs22ZQu%2BB4rXXw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/eef9785752a330dbaf9d9b6f4df38bf1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=2824ae0b&x-expires=1741348800&x-signature=qLjRV%2BqBaKix4PbooRln9UefSAU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/eef9785752a330dbaf9d9b6f4df38bf1~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c79fe090&x-expires=1741348800&x-signature=PQ0Xa9gyCCHcLDW1NE0p8CRtCWo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6970970706168562689",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "tinathaothidaily",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAeUwBzi7AQDfsreRgIksC30X9fYoXBHCX4ekWIcnMWU15q4Shk_WTkhNysch9P9p6",
+      "secret": false,
+      "signature": "li\u00ean h\u1ec7: 0347787240 ( Ben )\n tiktokshop: click.clubb c\u1ee7a tuii \ud83d\ude0d",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "tinathaothidaily",
+      "verified": false
+   }
+}

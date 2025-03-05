@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 522000,
+      "followingCount": 57,
+      "friendCount": 17,
+      "heart": 16200000,
+      "heartCount": 16200000,
+      "videoCount": 431
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e6ce130d107fbfabb02d9766b1c4b7b9~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=aff13443&x-expires=1741348800&x-signature=C6ryHiibLfAa2SVxD5CB%2FP3D7ac%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e6ce130d107fbfabb02d9766b1c4b7b9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=b7c5dd45&x-expires=1741348800&x-signature=eJWpi%2FofwaSfDuZ4lYsqnporUR8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/e6ce130d107fbfabb02d9766b1c4b7b9~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=17fe7730&x-expires=1741348800&x-signature=z5LYwWWUhIXGBIWsBikomfR5siQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://zalo.me/0901087808",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6566782197955592194",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1665996112,
+      "nickname": "\u029aTh\u1ecf Pea\u273f P\u00e0 Qu\u00e0ng Kh\u00f3 \u1ede",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAf-IFtwlyntpodYTe_LMfMRuOCD7hxyqzYhEBJwPnA251zgoWUPK2ZKFauclqi9Kk",
+      "secret": false,
+      "signature": "For work:\n09.01.08.78.08 (Zalo/sms - No call)\nL\u1ecbch s\u1eafp t\u1edbi: V\u0169ng T\u00e0u (15/3)",
+      "stitchSetting": 0,
+      "ttSeller": true,
+      "uniqueId": "tho.pea",
+      "verified": false
+   }
+}

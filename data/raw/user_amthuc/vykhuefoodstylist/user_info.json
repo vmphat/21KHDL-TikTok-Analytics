@@ -1,66 +1,49 @@
 {
-   "extra": {
-      "fatal_item_ids": [],
-      "logid": "20250302230613A563BD7E5E38BDD908D0",
-      "now": 1740927973000
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 739400,
+      "followingCount": 26,
+      "friendCount": 6,
+      "heart": 19600000,
+      "heartCount": 19600000,
+      "videoCount": 585
    },
-   "log_pb": {
-      "impr_id": "20250302230613A563BD7E5E38BDD908D0"
-   },
-   "shareMeta": {
-      "desc": "@vykhuefoodstylist 739.5k Followers, 26 Following, 19.5m Likes - Watch awesome short videos created by Vy Khue LAB",
-      "title": "Vy Khue LAB on TikTok"
-   },
-   "statusCode": 0,
-   "status_code": 0,
-   "status_msg": "",
-   "userInfo": {
-      "stats": {
-         "diggCount": 0,
-         "followerCount": 739500,
-         "followingCount": 26,
-         "friendCount": 6,
-         "heart": 19500000,
-         "heartCount": 19500000,
-         "videoCount": 587
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=ce3d49a0&x-expires=1741348800&x-signature=Q%2F7r%2BTL2psyBGatXgzD6cPNXmwA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=029634ff&x-expires=1741348800&x-signature=EW%2FrCa2FBWXlbzUtPOY2MP9nuUQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=762c20db&x-expires=1741348800&x-signature=GCURaW6IgxlC8biWFMNSYGhOG%2BA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://linktr.ee/VYKHUELAB",
+         "risk": 0
       },
-      "user": {
-         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=74309&refresh_token=756ea3957a3e0826e7c9029c0118a252&x-expires=1741100400&x-signature=xwXCU0II3y6WbFcjAt%2F61h0Z9lU%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=1905&refresh_token=0c4e57b2197a43b36f8d70b0f20f18a3&x-expires=1741100400&x-signature=ZYhPf%2BMz6nO46866iaMQ2oAbaBQ%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/636b55f4452d9025085db092a0bdcda5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=48780&refresh_token=607c9c8a8e1dd313c58c3854127d8e55&x-expires=1741100400&x-signature=jXwHjClRZc1vel2AbDRNQr3wCRY%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
-         "bioLink": {
-            "link": "https://linktr.ee/VYKHUELAB",
-            "risk": 0
-         },
-         "canExpPlaylist": true,
-         "commentSetting": 0,
-         "commerceUserInfo": {
-            "commerceUser": false
-         },
-         "downloadSetting": 0,
-         "duetSetting": 0,
-         "followingVisibility": 2,
-         "ftc": false,
-         "id": "6805955242359079937",
-         "isADVirtual": false,
-         "isEmbedBanned": false,
-         "nickNameModifyTime": 1734799509,
-         "nickname": "Vy Khue LAB",
-         "openFavorite": false,
-         "privateAccount": false,
-         "profileEmbedPermission": 1,
-         "profileTab": {
-            "showPlayListTab": true,
-            "showQuestionTab": true
-         },
-         "relation": 0,
-         "secUid": "MS4wLjABAAAAQh2Pp92MtIUUnQgYCdZobXiw7oGS6gCdtsbXDWflytTYic0Z5USP5vSLinlvQ39E",
-         "secret": false,
-         "signature": "Li\u00ean h\u1ec7: vykhuefoodstylist@gmail.com\n\u0110\u0102NG K\u00dd L\u1edaP B\u00c1NH ONLINE \n\ud83d\udc47\ud83d\udc47\ud83d\udc47",
-         "stitchSetting": 0,
-         "ttSeller": false,
-         "uniqueId": "vykhuefoodstylist",
-         "verified": false
-      }
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6805955242359079937",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1734799509,
+      "nickname": "Vy Khue LAB",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAQh2Pp92MtIUUnQgYCdZobXiw7oGS6gCdtsbXDWflytTYic0Z5USP5vSLinlvQ39E",
+      "secret": false,
+      "signature": "Li\u00ean h\u1ec7: vykhuefoodstylist@gmail.com\n\u0110\u0102NG K\u00dd L\u1edaP B\u00c1NH ONLINE \n\ud83d\udc47\ud83d\udc47\ud83d\udc47",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "vykhuefoodstylist",
+      "verified": false
    }
 }

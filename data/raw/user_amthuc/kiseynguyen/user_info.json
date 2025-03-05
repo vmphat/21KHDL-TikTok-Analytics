@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 62300,
+      "followingCount": 59,
+      "friendCount": 19,
+      "heart": 2200000,
+      "heartCount": 2200000,
+      "videoCount": 130
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7dc460c605ff1e97acb2d844ed531c0e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=4c8fc157&x-expires=1741348800&x-signature=N7ErBitBQUBwy0jJZfmULYXdhv8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7dc460c605ff1e97acb2d844ed531c0e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=9f6733bb&x-expires=1741348800&x-signature=u%2FoVmwVAZCNRerrW6Kk8kHj%2FPvA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7dc460c605ff1e97acb2d844ed531c0e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=943cc32a&x-expires=1741348800&x-signature=OoXiDjzY7qLcad2QPMPoKtGS4fQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7240785235968934917",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1687075086,
+      "nickname": "Anh Ki\u1ec7t",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAs8qJun-CDudh6TvI9atdROkY_R9xu4EJ7oRo0VIxuDsI1NTEr3LvHU-kASaGiBJj",
+      "secret": false,
+      "signature": "Contact for work: 0915169812 (Ho\u00e0ng)\n- \nbooking@vtmgr.me",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "kiseynguyen",
+      "verified": false
+   }
+}

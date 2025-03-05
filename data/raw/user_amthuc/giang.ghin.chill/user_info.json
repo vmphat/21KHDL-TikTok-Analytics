@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 53300,
+      "followingCount": 15,
+      "friendCount": 10,
+      "heart": 2300000,
+      "heartCount": 2300000,
+      "videoCount": 271
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4e9eab95ec7f3acd1ee328e2f1ae6f46~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=d34c17eb&x-expires=1741348800&x-signature=ZTVVDRqaXXXOFR5LAuT6M4PRI40%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4e9eab95ec7f3acd1ee328e2f1ae6f46~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=7d39249a&x-expires=1741348800&x-signature=BF8pkXrM9LgNFlpd33BkZfIDbs0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4e9eab95ec7f3acd1ee328e2f1ae6f46~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=f1674554&x-expires=1741348800&x-signature=CLRHs%2BioXypH26zc9r9TACDRDog%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "7358651634362156033",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1713319669,
+      "nickname": "Giang Ghi\u1ec1n Chill",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAFZkKUtzn7vsFWimkHwys1oOKCBEDML0OmSpuLOHB0rQ476Ej_ilh2nz9c7Wq6W9W",
+      "secret": false,
+      "signature": "M\u1ed9t b\u00e9 B\u00f4ng th\u00edch chill c\u00f9ng \u0111\u1ed3 \u0103n\nFor work: 0.9.7.1.1.9.2.2.5.4 (ko g\u1ecdi \u1ea1)",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "giang.ghin.chill",
+      "verified": false
+   }
+}

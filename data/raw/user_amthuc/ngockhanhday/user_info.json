@@ -1,0 +1,50 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 741700,
+      "followingCount": 626,
+      "friendCount": 185,
+      "heart": 27500000,
+      "heartCount": 27500000,
+      "videoCount": 798
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/ec8ffe2a0df925d64f0ac69fd0102b6c~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7ec8361c&x-expires=1741348800&x-signature=q4aI2BRY4WAOvtF7ReFHNE%2B526Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/ec8ffe2a0df925d64f0ac69fd0102b6c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=f4238b43&x-expires=1741348800&x-signature=x3vaY%2BlCTry9wwWngkjuVXn%2B1XI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/ec8ffe2a0df925d64f0ac69fd0102b6c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2e3ef5e4&x-expires=1741348800&x-signature=EKP3TUIQ7om3t%2FrDMUcHZvV6eL4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://www.facebook.com/groups/1379689539401101/?ref=share_group_link",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "154547111739473920",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1680676765,
+      "nickname": "Ng\u1ecdc Kh\u00e1nh \u0111\u00e2y",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "roomId": "7478209830714084102",
+      "secUid": "MS4wLjABAAAAkdsZDMu3842XCfAbG8kdekEvLyv-oPZbK0sPJitxgsfPb7Xvn5bEzjW0id8Ug3hj",
+      "secret": false,
+      "signature": "Li\u00ean h\u1ec7 c\u00f4ng vi\u1ec7c: cv.ngockhanhday@gmail.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "ngockhanhday",
+      "verified": false
+   }
+}

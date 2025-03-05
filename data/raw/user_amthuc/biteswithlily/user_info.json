@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 3300000,
+      "followingCount": 290,
+      "friendCount": 228,
+      "heart": 133500000,
+      "heartCount": 133500000,
+      "videoCount": 440
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/14f388e2dc534bfda45b80e5b21d7868~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=c714359e&x-expires=1741348800&x-signature=kLmzCb0W3mMtSOg8M6G83lzxV%2BY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/14f388e2dc534bfda45b80e5b21d7868~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=b091d638&x-expires=1741348800&x-signature=QkjartZHT0QbwWgklFqnNF%2BO1Ro%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/14f388e2dc534bfda45b80e5b21d7868~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=24d9b337&x-expires=1741348800&x-signature=1QKfDazPjzkyugstmHGG%2F7Y%2B5bo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "linktr.ee/Biteswithlily",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6816310532486185989",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1660375072,
+      "nickname": "biteswithlily",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAASSAMyARyFwZj80n3ugOzDHKyH7vgopXvv5sVTg25Vj90YkfmFP40ceC8znz1S0x2",
+      "secret": false,
+      "signature": "\ud83e\udd24 Living my best life through food \ud83d\udc97\n\ud83d\udc8c hello@biteswithlily.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "biteswithlily",
+      "verified": false
+   }
+}

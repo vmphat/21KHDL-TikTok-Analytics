@@ -1,0 +1,49 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1800000,
+      "followingCount": 237,
+      "friendCount": 176,
+      "heart": 75600000,
+      "heartCount": 75600000,
+      "videoCount": 1445
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/52cd87e5cfeee9b4e28b8676a4fd1731~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=469164da&x-expires=1741348800&x-signature=t%2FsBGqpqGHPxVAC3wttl82Frc%2Bc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/52cd87e5cfeee9b4e28b8676a4fd1731~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=6f2a568f&x-expires=1741348800&x-signature=TelJsObjiQbRufXIpIeotA0AOpM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/52cd87e5cfeee9b4e28b8676a4fd1731~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=abafea49&x-expires=1741348800&x-signature=yz6RiMDZn9T5PLgZyFHa0xhk2dQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://m.youtube.com/@VinhThichAnNgon1509?",
+         "risk": 0
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 3,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6573106305933475841",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1655798488,
+      "nickname": "V\u0129nh Th\u00edch \u0102n Ngon",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAa3-KHFbbSMtJOM1su3IXDckFowSU_loPiUcKkOwtijyhFBJAe8QqeJOBOyh4zJ5Q",
+      "secret": false,
+      "signature": "\u1ede \u0111\u00e2y kh\u00f4ng c\u00f3 drama \u270c\ud83c\udffb\nContact for work: vinhthichanngon.forwork@gmail.com",
+      "stitchSetting": 3,
+      "ttSeller": false,
+      "uniqueId": "vinhthichanngon",
+      "verified": true
+   }
+}

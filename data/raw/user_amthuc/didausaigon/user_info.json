@@ -1,0 +1,44 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 107900,
+      "followingCount": 0,
+      "friendCount": 0,
+      "heart": 3200000,
+      "heartCount": 3200000,
+      "videoCount": 494
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6af81a40500a0d050b6e1d9b0c1c020e~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=0e206f2b&x-expires=1741348800&x-signature=ICV1ELuPNO%2FszkfPrVXtb9dQT90%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6af81a40500a0d050b6e1d9b0c1c020e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=6545dc12&x-expires=1741348800&x-signature=6fp52t%2BtUwNqfpgzcFcetUsxRik%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/6af81a40500a0d050b6e1d9b0c1c020e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=db7527d4&x-expires=1741348800&x-signature=JDcJ2AhNWQ7rea6HMxSdi11ZY%2Fs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7251499484596634630",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1688371723,
+      "nickname": "\u0110i \u0110\u00e2u S\u00e0i G\u00f2n",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAPFdVQvtBFgpXCX97Kes8LrBGIm_Y8Ys56WVaSStmcQOLmBNCQaNAzZm00iuY8XKp",
+      "secret": false,
+      "signature": "| \u0110i \u0111\u00e2u \u0103n ch\u01a1i kh\u1eafp S\u00e0i G\u00f2n |\n\n\ud83d\udcee ddautv@diadiemanuong.com",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "didausaigon",
+      "verified": false
+   }
+}

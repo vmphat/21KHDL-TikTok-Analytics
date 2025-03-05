@@ -1,0 +1,48 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 2900000,
+      "followingCount": 98,
+      "friendCount": 51,
+      "heart": 83700000,
+      "heartCount": 83700000,
+      "videoCount": 374
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/dcb917fff48aacab462620b08f13b4e0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=2e5983f0&x-expires=1741348800&x-signature=ks04LtkkmYahq%2Br%2FKsR7OJTzwoQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/dcb917fff48aacab462620b08f13b4e0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=1b51e4be&x-expires=1741348800&x-signature=KYY1kXf83jWHEH7DY5wPr%2FsrsoE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/dcb917fff48aacab462620b08f13b4e0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=ff0282e8&x-expires=1741348800&x-signature=34Ajv1dBRokivWA1DyB9QD3Mgyg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://ttqueen.passio.eco",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 3,
+      "duetSetting": 0,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6644110999556227073",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1667388175,
+      "nickname": "Quynh Truong",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA6e26Ok_w7ReVcKXUIZoygasHXTl9ZPPvhmuTQz1GGRaMU5RLQk6-yftHzzfIfr9L",
+      "secret": false,
+      "signature": "Th\u1ea5y m\u00ecnh \u0111\u00e1ng iu th\u00ec fl m\u00ecnh nh\u00e9 hehee\n\ud83d\udcacFor work: 097.136.3242",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "_ttqueen",
+      "verified": false
+   }
+}

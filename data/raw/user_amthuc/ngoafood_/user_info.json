@@ -1,0 +1,49 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 455700,
+      "followingCount": 165,
+      "friendCount": 79,
+      "heart": 15600000,
+      "heartCount": 15600000,
+      "videoCount": 1112
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56fe0e00e815ce9c08b1388b26a4f246~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=39996497&x-expires=1741348800&x-signature=lMAQy69VvUDRaz8Z1jeCHdED5L4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56fe0e00e815ce9c08b1388b26a4f246~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=01299551&x-expires=1741348800&x-signature=Eyyhg3z%2BhnppffYNGW6Uuab03hU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/56fe0e00e815ce9c08b1388b26a4f246~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=4a01e51a&x-expires=1741348800&x-signature=q2csuDd5EGktIWSsccHdhPVt7F4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "http://beacons.ai/ngoafood",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "commerceUser": false
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6935325140981892097",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1614756563,
+      "nickname": "Ngoafood",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAAGEN4d-TM-zG-ckvU74vH4boT3SNHt2kIs29QCApEiBoCMOSjdKshnPfRp3-QdMcP",
+      "secret": false,
+      "signature": "\u2728 Hello! M\u1ed9t ng\u00e0y th\u1eadt \u0111\u1eb9p nh\u00f3 \u2728\nLh c\u00f4ng vi\u1ec7c: 0836253335\nBooking@vtmgr.me",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "ngoafood_",
+      "verified": false
+   }
+}

@@ -1,0 +1,54 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 637500,
+      "followingCount": 185,
+      "friendCount": 61,
+      "heart": 13300000,
+      "heartCount": 13300000,
+      "videoCount": 3756
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/63b2cad798d55681729cddb381a6abf5~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=db5cd583&x-expires=1741348800&x-signature=%2BAGreyr6tch9XSytSBlSb%2FcPMKI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/63b2cad798d55681729cddb381a6abf5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=cda3d38e&x-expires=1741348800&x-signature=7RCdzMWBY%2Bz9Z5n5i5nmrbmXOJc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/63b2cad798d55681729cddb381a6abf5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=e8db80b2&x-expires=1741348800&x-signature=9a3JFPBM7%2FZE0D9DMtnuoKjJWus%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "Anchoivungtau.vn",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Travel & Tourism",
+         "categoryButton": false,
+         "commerceUser": true,
+         "downLoadLink": {
+            "android": "",
+            "ios": ""
+         }
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "6963937987944432642",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickname": "AnChoiVungTau",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA-99NPnxUbD56_HJl8tf6dRMGG61_WO5ZOFrTabTijTu1wHOYy6aOruXVEvQ-AI-K",
+      "secret": false,
+      "signature": "\u0110\u1ecba \u0111i\u1ec3m \u0103n ch\u01a1i HOT nh\u1ea5t V\u0169ng T\u00e0u\n\u260e\ufe0f0911728668",
+      "stitchSetting": 0,
+      "ttSeller": true,
+      "uniqueId": "anchoivungtau72",
+      "verified": true
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 521200,
+      "followingCount": 1,
+      "friendCount": 1,
+      "heart": 12200000,
+      "heartCount": 12200000,
+      "videoCount": 176
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f08b9b15180ed4abe9350114d977db68~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=c786b723&x-expires=1741348800&x-signature=NXFeulvW8g3ofyTxi8BAZqyF%2FQY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f08b9b15180ed4abe9350114d977db68~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=e7ee09e9&x-expires=1741348800&x-signature=pXPy2YapRxIbn%2Fb%2BYPnWvHJ2ItU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f08b9b15180ed4abe9350114d977db68~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=fb2bab6e&x-expires=1741348800&x-signature=H%2BGaIWSewoF%2Bru1G3XS2YHVBIqk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Personal Blog",
+         "categoryButton": false,
+         "commerceUser": true
+      },
+      "downloadSetting": 0,
+      "duetSetting": 0,
+      "followingVisibility": 1,
+      "ftc": false,
+      "id": "7205782636488377350",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1699557764,
+      "nickname": "MRJ.Vlogs",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": false
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAA4azb8pli1c-oVxb3-WrxKF6CNIERlCxJMOzYnbSsfMzhguwUJVLV9Rgev4sKwgdZ",
+      "secret": false,
+      "signature": "\"Mirza Fluffy Baig\" The hungry bear \ud83d\udc3b \nKindly follow 2nd acount @Mrj.vlogs",
+      "stitchSetting": 0,
+      "ttSeller": false,
+      "uniqueId": "mrj.vlogs",
+      "verified": false
+   }
+}
