@@ -59,7 +59,8 @@ st.markdown("Generate detailed explanations on various topics with AI assistance
 
 
 # Main content
-topic = st.text_area('Enter your video topic:', height=100)
+topic = st.text_area('Enter your video topic:', height=100,
+                     placeholder="For example: 'Food review'")
 print(f"Topic: {topic}")
 
 # Generate content when button is pressed
@@ -103,3 +104,4 @@ if st.button('Research') and topic:
 
 elif topic == "":
     st.info("Please enter a topic to research.")
+    st.info("For example: Enter 'Food review' and click on the 'Research' button.")
