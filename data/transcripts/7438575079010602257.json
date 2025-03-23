@@ -1,0 +1,11 @@
+Unfortunately, I don't have enough information to complete your request. The audio contains sound, but I cannot recognize any speech in Vietnamese. I need speech to be able to provide a transcript, takeaways, identify calls to action, and detect elements of a curiosity gap.
+
+Therefore, the result will be as follows:
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

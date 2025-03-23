@@ -1,4 +1,8 @@
-streamlit
 pandas
 numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
 google-genai
+plotly

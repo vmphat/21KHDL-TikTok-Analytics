@@ -1,0 +1,9 @@
+Based on the provided data, there is no speech available. Therefore, the JSON output will be:
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

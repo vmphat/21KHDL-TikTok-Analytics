@@ -9,6 +9,34 @@
   - 14h T3 hàng tuần
   - 14h T6 hàng tuần
 
+# TODO: 21h CN, 23/03/2025
+
+- Phát:
+  - Viết file Preprocessing.ipynb để xử lý dữ liệu
+  - Viết web tạo kịch bản
+  - Hỏi thầy xem có nên gộp các web app lại với nhau hay không?
+    - Có: deploy 1 web app duy nhất
+    - Không: 4 web app riêng biệt
+  - Trình bày công nghệ: Xử lý dữ liệu + Deploy web app
+  - Trình bày cấu trúc prompt cho viết kịch bản
+- Hãn:
+  - Rút thêm đặc trưng trong dữ liệu
+  - Phân tích dashboard
+- Tín:
+  - Cấu trúc prompt cho: tên món ăn, giá cả, giờ mở cửa, v.v.
+- Làm slide: Hãn + Phát + Tín
+- 3 dashboards chính:
+  1. Thống kê từ user (Lực)
+  2. Thống kê từ video (Mỹ)  
+     => Trả lời: Tần suất đăng video như thế nào? Thời lượng video tối ưu? Số lượng hashtag tối ưu?
+  3. Insights cho việc viết kịch bản (Hãn)
+- Công nghệ nổi bật trong dự án:
+  - Thu thập dữ liệu: TikTok API (unofficial)
+  - Tiền xử lý dữ liệu: Dùng Gemini (multimodal) API để tách transcript và các cột khác
+  - Dashboard: Plotly + Streamlit + Deploy lên Cloud Community
+    - Dùng AI để phân tích dữ liệu
+  - Web hỗ trợ tạo kịch bản: Prompting
+
 # TODO: 14h T6, 14/03/2025
 
 - Team tiền xử lý dữ liệu: Phát, Hãn, Tín

@@ -1,0 +1,9 @@
+I am sorry, I cannot fulfill this request. The speech is not present in the file. Therefore, I am unable to generate a transcript, extract takeaways, determine the presence of calls to action or curiosity gaps. I will return 'None' for the transcript, an empty list for takeaways, and false for the boolean fields.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

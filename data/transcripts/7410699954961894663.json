@@ -1,0 +1,9 @@
+Based on the provided audio, it is impossible to extract a transcript because there is no speech or discernible human voice present. The audio appears to contain only ambient noise.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}
