@@ -14,10 +14,9 @@ st.write("Welcome to the Scriptwriting App! Use the sidebar to navigate to diffe
 # Add some content to the main page
 st.markdown("""
 ## Features
-- Character Development
-- Plot Structure
-- Scene Management
-- Dialogue Writing
+- Research on your interesting topic
+- Script Writing for your content
+- Optimize Your TikTok: Creator Insights & Performance Tips
 
 Select a feature from the sidebar to get started!
 """)

@@ -134,7 +134,7 @@ if 'start_time' not in st.session_state:
     st.session_state.start_time = time.time()
 # Prompt customization section
 if 'prompt' not in st.session_state:
-    st.session_state.prompt = legacy_prompt
+    st.session_state.write_script_prompt = legacy_prompt
 
 
 with st.expander("View/Edit Research Prompt", expanded=False):
@@ -146,8 +146,8 @@ with st.expander("View/Edit Research Prompt", expanded=False):
     custom_prompt = st.text_area(
         "Customize Prompt Template:",
         # Use the same key as the session state variable
-        key=f"custom_prompt_{st.session_state.start_time}",
-        value=st.session_state.prompt,
+        key=f"2_write_scripts_custom_prompt_{st.session_state.start_time}",
+        value=st.session_state.write_script_prompt,
         height=300
     )
 
@@ -155,17 +155,17 @@ with st.expander("View/Edit Research Prompt", expanded=False):
 
     with col1:
         if st.button("Update Prompt"):
-            st.session_state.prompt = custom_prompt
+            st.session_state.write_script_prompt = custom_prompt
             st.success("Prompt updated successfully!")
 
     with col2:
         if st.button("Reset to Default"):
             st.success("Prompt reset to default!")
-            st.session_state.prompt = legacy_prompt
+            st.session_state.write_script_prompt = legacy_prompt
             st.session_state.start_time = time.time()
             st.rerun()
 
-prompt = st.session_state.prompt
+prompt = st.session_state.write_script_prompt
 print("Prompt:", prompt)
 
 
