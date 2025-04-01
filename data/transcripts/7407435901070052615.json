@@ -1,0 +1,8 @@
+Based on the provided audio file, the audio contains music. It does not have speech.
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

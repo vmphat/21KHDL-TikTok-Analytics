@@ -1,0 +1,13 @@
+Here's the JSON output containing the analysis of the provided speech:
+
+```json
+{
+    "transcript": "Năm nào gà luộc chán rồi thì năm nay các bác thử thêm món gà hấp nước tương này nha. Ngon mà lạ cực kỳ luôn ấy. Trước tiên thì các bác mua gà về vẫn cứ là phải rửa sạch sẽ để ráo nước cho tui này. Và muốn món ăn ngon thì các bác nhớ chọn con gà thật ngon nha. Chứ mình dùng gà công nghiệp là ăn hơi bị mềm đó. Sơ chế gà xong rồi các bác chuẩn bị cho tui gừng thái lát, hành tím, tỏi để tí nữa mình cho vào chiên qua cho nó thơm rồi mới chế biến gà. Sau khi gà để ráo nước rồi, các bác sẽ dùng nước tương massage khắp da gà để cho gà lên màu đỏ nâu nha. Và nước tương tui dùng là nước tương nấm shiitake của Chin-su. Sau đó thì mình sẽ đem gà đi áp chảo. Mình cho vào chảo một chút dầu ăn, chờ dầu nóng và thả gà vào, cứ áp chảo mỗi bên 10 giây để cho gà săn lại. Sau khi gà săn rồi mình nhấc gà ra, bỏ bớt dầu đi để lại một chút trong chảo thôi, cho gừng, hành, tỏi và phi thật thơm lên này. Sau đó các bác cho vào đây cho tui 300ml nước lọc, thêm một chút hạt nêm, muối và nước tương. Rồi mình cho gà vào và đun liu riu 35 phút. Nước tương Chin-su nấm shiitake với mùi thơm đậu nành đặc trưng, kết hợp với nấm shiitake cao cấp giúp nâng tầm món gà hấp thơm ngon hảo hạng. Món này mình sẽ chấm cùng nước tương Chin-su tỏi ớt với chiết xuất từ đậu nành tự nhiên, hòa quyện cùng những tép tỏi và ớt tươi được xay nhuyễn, giúp cho nước tương Chin-su tỏi ớt có hương vị thơm cay khó cưỡng. Với cả hai loại nước tương nấm shiitake và nước tương tỏi ớt đã làm nâng tầm hương vị món ăn và chiều ý cả gia đình trong dịp Tết. Với hai chai hai khẩu vị đặc biệt.",
+    "takeaways": [
+        "Món gà hấp nước tương Chin-su là một gợi ý mới lạ và hấp dẫn cho dịp lễ Tết, thay thế món gà luộc truyền thống.",
+        "Nước tương nấm shiitake và nước tương tỏi ớt Chin-su giúp tăng hương vị thơm ngon, đặc biệt cho món ăn.",
+        "Cách chế biến đơn giản, dễ thực hiện tại nhà, phù hợp cho mọi gia đình."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

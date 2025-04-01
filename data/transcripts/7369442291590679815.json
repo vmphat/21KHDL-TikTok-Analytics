@@ -1,0 +1,11 @@
+Okay, I'm ready to process the Vietnamese speech. However, I need the audio file to generate the transcript and analyze the speech. Please provide the audio file so I can complete the task.
+
+Once you provide the file, I will return a JSON object like this:
+
+```json
+{
+    "transcript": "The transcript of the speech",
+    "takeaways": ["Takeaway 1", "Takeaway 2", "Takeaway 3"],
+    "has_call_to_action": true/false,
+    "has_curiosity_gap": true/false
+}

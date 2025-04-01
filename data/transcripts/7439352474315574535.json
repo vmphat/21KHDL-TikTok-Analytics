@@ -1,0 +1,21 @@
+Okay, here's the JSON output containing the analysis of the provided Vietnamese speech transcript:
+
+```json
+{
+  "transcript": "Đây là cái món steak mà chưa chắc gì có tiền là đã ăn được đâu nha. Nghe lạ há mọi người ơi? Và lý do vì sao á thì mọi người phải xem hết video này nha. Giáng sinh năm nay, nếu mà bạn vẫn chưa có ý tưởng hẹn hò ở đâu á thì Elzone là một nơi cực kỳ lý tưởng cho dịp Noel sắp tới nè. Ấm cúng, lãng mạn với vô vàn góc check-in sống ảo. Cứ mỗi dịp sinh nhật, kỷ niệm hay là hẹn hò thì mình đều ghé Elzone hết á. Vì giữa trung tâm quận 3 đắc đỏ như vầy mà không hề tính phí VAT hay là phí dịch vụ. Đặc biệt là còn nhận trang trí bàn tiệc, free in ảnh kỷ niệm lãng mạn cho mọi người mà chỉ cần đặt bàn trước thôi nè. Mấy bạn nam nhớ tham khảo để chuẩn bị tạo bất ngờ cho người yêu mình nha. Quay lại phần steak mà mình nói á thì đây là cái phần thịt mà cả nguyên một con thì mới được một đến hai phần 200g như vậy thôi nên là cực kỳ hiếm luôn, có căn mới ăn được đó nha. Đã vậy trong tháng 11 này á thì Elzone còn có ưu đãi giảm phân nửa giá tiền. Chỉ còn 180k cho phần 200g nếu mà mọi người đặt bàn trước nha, siêu hời luôn á. Phần Iron Steak này á thì có độ mềm ngọt, mọng nước đến từng thớ thịt luôn và đặc biệt là lượng mỡ ít nên là không có gây cảm giác bị ngấy á. Chấm kèm với sốt tiêu đen thơm béo và cay nhẹ. Thưởng thức món mới là chính nhưng mà mỗi lần đến Elzone á thì mình không thể nào không gọi Cheese Steak được luôn á. Trời ơi, tín đồ mê phô mai béo ngậy tan chảy á thì nhất định là phải thử món này nha. Đây là phần lõi nạc vai giống bò Mỹ Black Angus với những đường vân mỡ xen kẽ đều đặn nên là phần thịt sẽ có độ ẩm, độ giòn và một chút béo béo. Bên trên thì được phủ đẫm một lớp phô mai được khè qua lửa, chấm kèm với chén sốt BBQ chua ngọt. Đây là một món mà mình đánh giá là hài hòa từ vị ngọt tự nhiên của thịt cho đến vị béo ngậy của phô mai. Ngoài ra thì mình cũng có gọi mì ý hải sản với phần sốt tôm béo ngậy, ăn kèm với topping tôm và vẹm. Đặc biệt là ở đây còn có quầy buffet salad miễn phí cho mọi người với hơn 18 loại topping rau củ và chín loại sốt handmade độc quyền trong lúc mọi người đợi món nè. Khai vị thì mọi người có thể gọi hào nướng sốt mentaiko này nha. Bên cạnh đó thì khi mọi người đặt tiệc trước là còn được tặng thêm một phần tráng miệng bánh brownie nữa nè. Trời ơi, vừa được set up bàn tiệc ấm cúng, vừa in ảnh lãng mạn, vừa đốt pháo lung linh, vừa tặng thêm một bánh tráng miệng, được hỗ trợ đầy đủ từ A tới Z luôn nên là mấy bạn nam nhất định phải lưu lại nhà hàng Elzone này để dịp Noel sắp tới dẫn người yêu đi hẹn hò nha.",
+  "takeaways": [
+    "Elzone là địa điểm lý tưởng cho các dịp đặc biệt như Giáng sinh, sinh nhật, và hẹn hò, với không gian ấm cúng và nhiều góc check-in đẹp.",
+    "Nhà hàng không tính phí VAT và phí dịch vụ, có ưu đãi trang trí bàn tiệc và in ảnh miễn phí khi đặt bàn trước.",
+    "Thực đơn đa dạng với các món như Iron Steak, Cheese Steak và mì ý hải sản, cùng quầy buffet salad miễn phí."
+  ],
+  "has_call_to_action": true,
+  "has_curiosity_gap": true
+}
+```
+
+**Explanation of the fields:**
+
+*   **transcript:** Contains the full Vietnamese text of the speech.
+*   **takeaways:** Presents three concise summaries of the main points.
+*   **has\_call\_to\_action:** `true` because the speaker encourages viewers to visit Elzone and book in advance. Example CTA: "nên là mấy bạn nam nhất định phải lưu lại nhà hàng Elzone này để dịp Noel sắp tới dẫn người yêu đi hẹn hò nha."
+*   **has\_curiosity\_gap:** `true` because the speaker starts by mentioning a steak that is hard to get and implies the viewers need to keep watching to understand why. Example curiosity gap sentence: "Đây là cái món steak mà chưa chắc gì có tiền là đã ăn được đâu nha."

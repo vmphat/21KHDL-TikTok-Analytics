@@ -1,0 +1,9 @@
+I am sorry, but there is no speech in the provided audio file. Therefore, I cannot generate the transcript, takeaways, or determine the presence of call-to-action or curiosity gap elements. Based on that, the JSON file should be filled with Null value.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [null, null, null],
+    "has_call_to_action": null,
+    "has_curiosity_gap": null
+}

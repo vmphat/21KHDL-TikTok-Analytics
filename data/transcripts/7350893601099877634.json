@@ -1,0 +1,13 @@
+Okay, I've analyzed the audio. Here's the JSON output:
+
+```json
+{
+    "transcript": "Không lên Không lên hai Em chưa ăn được khô là khô Lên tôi lấy gạch cao tôi biết như thế này. Bỏ vào đây ta pha cho ta lên giúp lại như một con số. Ngay cả chú của em mà mặt tập không có ngầu.",
+    "takeaways": [
+        "Bài hát có vẻ nói về sự tự tin và phong cách cá nhân, thể hiện qua lời lẽ mạnh mẽ và hình ảnh.",
+        "Lời bài hát sử dụng nhiều hình ảnh ẩn dụ và so sánh để diễn tả cảm xúc và suy nghĩ.",
+        "Có vẻ như bài hát có thể liên quan đến cuộc sống đường phố hoặc một môi trường cạnh tranh."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

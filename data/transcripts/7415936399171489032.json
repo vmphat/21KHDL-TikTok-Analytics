@@ -1,0 +1,13 @@
+Okay, let's analyze the provided audio.
+
+```json
+{
+    "transcript": "Tôi không biết ở đâu\nMột nhà hàng nhỏ trong rừng\nTôi lục lọi túi trống rỗng\nTôi tìm đến một người lạ\n\nKhông có đặt phòng nào\nMột nhà hàng nhỏ trong rừng\nGiờ ăn trưa đầy những chỗ ngồi kỳ lạ\nNhững chú chim đang cười toe toét\nChuruhon Churuhon\nChuruhon Churuhon\n\nMái hiên sơn đỏ tươi\nThực đơn chỉ có món khuyến nghị",
+    "takeaways": [
+        "Bài hát mô tả một nhà hàng nhỏ, bí ẩn trong rừng.",
+        "Nhà hàng có vẻ kỳ lạ và độc đáo, với những chỗ ngồi kỳ lạ và những chú chim cười.",
+        "Thực đơn của nhà hàng có vẻ đơn giản, chỉ với món khuyến nghị."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

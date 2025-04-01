@@ -1,0 +1,9 @@
+Okay, I cannot process audio files, so I am unable to provide the transcript of the speech, its takeaways, or determine if it contains calls to action and curiosity gap elements. Therefore, I must return None.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

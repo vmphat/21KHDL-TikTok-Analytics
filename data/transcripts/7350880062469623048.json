@@ -1,0 +1,8 @@
+I am unable to process audio content to provide a transcription. Therefore, I cannot analyze the speech for takeaways, calls to action, or curiosity gaps.
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

@@ -1,0 +1,13 @@
+Here's the JSON output based on the audio provided.
+
+```json
+{
+    "transcript": "Moehae raneun du geulja yae Niga bogo sipeo nalssok mame\nGamah ooh ooh\nImotikon arana ssoge\nDallajineun nae mibyo han simnireul\nAlda ooh ooh\nAni bappeulji ana\nNappeal il manah\nJantteuk geollyeji ana\nNissang nanyana\nJigeum dareun ssaramgwa hamkkeiji ana\nNan neoe daehan ne saenggakjung\nIksukhae ya nae moksoril tteo ollil ttae Oh\nOnjerado gallil su itdorok",
+    "takeaways": [
+        "Bài hát thể hiện cảm xúc nhớ nhung và mong muốn được gặp người mình yêu.",
+        "Lời bài hát diễn tả sự thay đổi trong cảm xúc và suy nghĩ của người hát.",
+        "Bài hát thể hiện sự tự do và độc lập trong suy nghĩ và hành động của người hát."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

@@ -1,0 +1,10 @@
+{
+    "transcript": "...",
+    "takeaways": [
+        "Xin lỗi, không thể tạo transcript vì không có âm thanh lời nói trong file.",
+        "Do không có transcript, không thể xác định takeaway.",
+        "Do không có transcript, không thể xác định có CTA và Curiosity Gap."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

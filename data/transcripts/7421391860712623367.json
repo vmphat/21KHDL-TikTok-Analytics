@@ -1,0 +1,9 @@
+Okay, I'm ready to analyze the audio. Since the audio seems to contain only instrumental music and no speech, the analysis will return `None` for the `transcript` field.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

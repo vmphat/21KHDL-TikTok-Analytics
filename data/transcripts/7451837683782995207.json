@@ -1,0 +1,9 @@
+I can only process the provided audio to create a transcript and perform the requested analysis if it contains speech. The provided audio only contains music, so I cannot fulfill the request.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

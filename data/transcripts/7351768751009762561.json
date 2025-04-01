@@ -1,0 +1,9 @@
+Okay, I'm ready to analyze the audio. Since you didn't provide a file, I'll have to assume there is no speech present. This is what the output JSON will be:
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

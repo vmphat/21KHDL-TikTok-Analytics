@@ -1,0 +1,9 @@
+Based on the current audio, there is no speech, only music. Therefore, the JSON response will reflect this.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

@@ -1,0 +1,10 @@
+{
+    "transcript": "Tôi không nghe thấy gì cả.",
+    "takeaways": [
+        "Không có nội dung âm thanh để phân tích.",
+        "Cần cung cấp âm thanh có lời nói để tạo transcript.",
+        "Không thể đưa ra takeaways khi không có thông tin."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

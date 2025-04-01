@@ -1,0 +1,12 @@
+Here is the JSON output:
+```json
+{
+    "transcript": "Em là anh ơi, anh có biết không hả? Thật em đã yêu anh, yêu nhiều lắm á nhưng mà. Vì con gái nên là em cứ luôn mãi e dè, sợ khi thổ lộ ra anh lại chê em là con cóc ghẻ, vì nói thật sự ra anh là hot boy có tiếng, còn em thì xấu tí lệ học môn chỉ biết nhìn anh rớt nước miếng. Đã chung lớp còn ngồi cạnh anh khiến tim em đập dồn dập, mỗi khi nhìn thấy đường mặt anh mồ hôi nó lại đầm tới tấp. Quay đi quay lại em là một số trong fan anh, thích anh thiệt thích lắm nhưng không có dám nhí nhảnh, vì em xấu mong mặc cảnh nên chỉ dám đứng sau nhìn trộm.",
+    "takeaways": [
+        "Cô gái yêu thầm một hotboy.",
+        "Cô gái tự ti về ngoại hình của mình.",
+        "Cô gái chỉ dám đứng sau nhìn trộm người mình yêu."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

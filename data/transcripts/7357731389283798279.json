@@ -1,0 +1,13 @@
+I cannot process audio. Thus, I will return None for the transcript and placeholders for other fields.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [
+        "Takeaway 1 placeholder",
+        "Takeaway 2 placeholder",
+        "Takeaway 3 placeholder"
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

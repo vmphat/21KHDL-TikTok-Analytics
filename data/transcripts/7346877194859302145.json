@@ -1,0 +1,10 @@
+{
+    "transcript": "Anh ăn phở đi. Phở gì? Phở gà, phở bò, phở tái gầu, phở chicken, phở ăn phở gì? Thôi thì anh phở xào nhá. phở xào. Anh đi. Anh ơi. Tối gì bây giờ?",
+    "takeaways": [
+        "Người nói gợi ý đối phương ăn phở với nhiều lựa chọn khác nhau.",
+        "Đối phương không chọn các món phở được gợi ý mà chọn phở xào.",
+        "Cuối cuộc trò chuyện, người nói hỏi 'Tối ăn gì bây giờ?' gợi ý về việc lên kế hoạch cho bữa tối."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

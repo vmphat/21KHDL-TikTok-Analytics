@@ -1,0 +1,13 @@
+Here's the JSON output containing the analysis of the provided audio:
+
+```json
+{
+    "transcript": "Xin chào mọi người! Hôm nay, tôi muốn chia sẻ với các bạn một câu chuyện. Một câu chuyện về những điều kỳ diệu mà chúng ta có thể tạo ra khi chúng ta cùng nhau. Các bạn đã bao giờ tự hỏi, liệu mình có thể làm được những điều phi thường? Câu trả lời là có! Hãy cùng tôi khám phá những khả năng tiềm ẩn của bản thân và thay đổi thế giới này nhé!",
+    "takeaways": [
+        "Sức mạnh của sự đoàn kết và hợp tác để tạo ra những điều kỳ diệu.",
+        "Khám phá và phát huy những tiềm năng ẩn sâu bên trong mỗi người.",
+        "Khuyến khích hành động để thay đổi thế giới, bắt đầu từ bản thân."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

@@ -1,0 +1,13 @@
+Okay, I'll process the audio file and provide the results in the requested JSON format.
+
+```json
+{
+  "transcript": "Tôi là ai? Tôi muốn lên một level high. Follow my story. Follow my story. Lời thì mặt cứ nói đời chơi. Đời chơi hay thế nào. Ngoài ba em đến khi đi. Nhặt hoa lá đã thay màu. Nay em bước ra đi. Nụ cười đến trên con người. Lòng sao vẫn tim đen. Em sẽ không phải một mình.",
+  "takeaways": [
+    "Tự khẳng định bản thân và mục tiêu vươn lên một tầm cao mới.",
+    "Mời gọi theo dõi câu chuyện cá nhân, có thể là một hành trình hay quá trình nào đó.",
+    "Thể hiện sự mạnh mẽ và quyết đoán, vượt qua khó khăn và không đơn độc."
+  ],
+  "has_call_to_action": true,
+  "has_curiosity_gap": true
+}

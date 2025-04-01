@@ -1,0 +1,10 @@
+{
+    "transcript": "Tôi xin lỗi, tôi không thể cung cấp bản ghi cho tệp âm thanh này.",
+    "takeaways": [
+        "Không thể tạo bản ghi vì không có lời thoại trong tệp âm thanh.",
+        "Không thể phân tích thông tin từ tệp âm thanh.",
+        "Cần có tệp âm thanh có lời thoại để tạo bản ghi và phân tích."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

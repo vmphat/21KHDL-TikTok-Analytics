@@ -1,0 +1,9 @@
+Okay, I'm ready to analyze the provided audio. Since there is no audio file provided, I will return the JSON with the "transcript" set to "None" and other fields set to default values.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

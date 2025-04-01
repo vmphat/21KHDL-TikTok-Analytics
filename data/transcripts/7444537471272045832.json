@@ -1,0 +1,9 @@
+Okay, I'm ready to process the audio. However, the audio you provided does not contain any speech. Therefore, I will return the following JSON response:
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

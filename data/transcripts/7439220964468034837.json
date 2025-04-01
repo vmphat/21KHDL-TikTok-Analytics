@@ -1,0 +1,13 @@
+Okay, I will analyze the provided sound and provide the JSON output based on your requirements.
+
+```json
+{
+    "transcript": "Không có đoạn hội thoại trong file âm thanh này.",
+    "takeaways": [
+        "Không có thông tin để rút ra bài học.",
+        "Không có thông tin để rút ra bài học.",
+        "Không có thông tin để rút ra bài học."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

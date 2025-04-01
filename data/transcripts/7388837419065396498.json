@@ -1,0 +1,13 @@
+Here's the JSON analysis of the audio:
+
+```json
+{
+    "transcript": "Wow! \nCả thế gian bóng dừng lại khi một tim khẽ rung lên thành hồi chuông. Ôi trời ơi, ôi trời ơi. Vì em nói lời tỏ tình yêu tình yêu với anh này. Baby tell me, do you really like me? Baby tell me, do you really need me? Pha sang kia có bay tình người mà trái tim anh không đón nụ cười ấy. Baby, thế em muốn sao đây, muốn sao đây. Baby, thế em muốn sao đây. Yêu thì yêu không yêu thì yêu. \n\n\n\nBaby! Baby! Baby! Yêu thì yêu không yêu thì yêu. Baby! Baby! Baby! Yêu thì yêu không yêu thì yêu.",
+    "takeaways": [
+        "Bài hát là một lời tỏ tình dễ thương và hồn nhiên.",
+        "Nhấn mạnh sự lưỡng lự và băn khoăn trong tình yêu, giữa yêu và không yêu.",
+        "Sử dụng điệp khúc lặp đi lặp lại để tăng tính gây nghiện và dễ nhớ của bài hát."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

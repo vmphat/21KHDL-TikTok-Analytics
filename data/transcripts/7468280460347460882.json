@@ -1,0 +1,13 @@
+Here's the JSON output based on the provided audio snippet:
+
+```json
+{
+    "transcript": "Anh đã đến những cơn mưa trưa mát lành, chờ đợi em một bầu xanh ngát. Đừng sợ mình tình giờ, ba đồng thiếu tiền đầu. Người chuyện tình như mơ cho em biết ngẫn ngơ, ngừng thở để em bỗng ngô ngơ. Anh đã yêu. Con tim nhẹ nhàng vui sướng. Tình yêu của anh đã đến cho em bao cười, cho em bao kỷ niệm, cho em biết rằng. Anh đã biết rằng trên đời mình đẹp hơn khi yêu. Thật bối rối khi anh nói yêu, khi anh nắm tay, khi anh khẽ nhìn ngô ngô ô, những nụ hôn thật nhẹ nhàng liêu.",
+    "takeaways": [
+        "Bài hát này nói về tình yêu và những cảm xúc đẹp đẽ mà nó mang lại.",
+        "Nó nhấn mạnh sự ngây ngô và hạnh phúc trong tình yêu.",
+        "Bài hát có thể gợi lên ký ức về những khoảnh khắc lãng mạn và đáng nhớ."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

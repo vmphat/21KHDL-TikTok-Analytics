@@ -1,0 +1,13 @@
+Here's the JSON output containing the analysis of the provided speech:
+
+```json
+{
+    "transcript": "Why do birds suddenly appear\nEvery time you are near\nJust like me, they long to be\nClose to you\nWhy do stars fall down from the sky\nEvery time you walk by\nNa na na na na na\nJust like me",
+    "takeaways": [
+        "Bài hát diễn tả sự ngưỡng mộ và khao khát đến gần một người đặc biệt.",
+        "Hình ảnh ẩn dụ (chim, sao) được sử dụng để thể hiện cảm xúc mạnh mẽ.",
+        "Cảm xúc được thể hiện một cách nhẹ nhàng, lãng mạn và tinh tế."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

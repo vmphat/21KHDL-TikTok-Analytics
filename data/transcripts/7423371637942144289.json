@@ -1,0 +1,32 @@
+Here's the JSON format output:
+
+```json
+{
+    "transcript": "Quê tôi có cánh diều vi vu,
+gió sáo luyến tre làng.
+Trưa trưa dưới mái đình rêu phong,
+là bóng mát ngày thơ.
+Quê tôi có cánh đồng bao la,
+thơm hương lúa lên đồng.
+Liêu xiêu mái tranh nghèo đơn sơ,
+trở về nhé tuổi thơ tôi.
+Quê tôi sáng tinh mơ,
+tiếng gà gọi trưa và cuốc ra đồng.
+Ai đem nắng đong đầy đôi vai,
+chảy những giọt mồ hôi.
+Quê tôi với con đường trơn trượt,
+ai sẽ níu chân về.
+Quê hương vẫn ru tình câu thơ,
+đẹp như lời mẹ xưa.
+
+Quê tôi có cánh diều vi vu,
+gió sáo luyến tre làng.
+Trưa trưa dưới mái đình rêu phong...",
+    "takeaways": [
+        "Bài hát gợi nhớ về những kỷ niệm tuổi thơ tươi đẹp ở quê hương.",
+        "Ca khúc khắc họa hình ảnh làng quê Việt Nam thanh bình, yên ả với cánh đồng lúa, mái đình rêu phong.",
+        "Bài hát thể hiện tình yêu quê hương sâu sắc và nỗi nhớ da diết của người con xa xứ."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

@@ -1,0 +1,9 @@
+Based on the information, there is no speech in the file, so the response will be `None` for the transcript, and therefore cannot perform the rest of the tasks.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

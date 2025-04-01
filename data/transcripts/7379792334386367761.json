@@ -1,0 +1,13 @@
+Here's the JSON output containing the requested information:
+
+```json
+{
+    "transcript": "Công nhận tôi ăn bánh tráng phơi sương nhà Agascaly rồi anh em ạ. Hôm nay lại ra sản phẩm mới anh em ạ. \nKhông phải bánh tráng vị phô mai mà là ruốc tép vị phô mai anh em nhá. Ngon thế. \nĐậu phộng dễ lạ anh em ạ. Cay cay nhá, mặn này, béo này. Bút thật cậu kỹ với anh em ạ. Cháu sẽ vẹo anh em ạ. Nhiều vãi mình. Cuốn. \nBánh anh em nhá. Mềm, dai, béo anh em ạ. Có thêm quả vị phô mai ấy ăn kiểu nó khác bọt hẳn ấy. Hàng nào hơn 3 ngày đã hơn 1000 người bán rồi, ngon. Anh em thấy mà cái bơ bơ để trên không, phô mai đấy. Trời. Bơ béo 3 không, không mặn, không bột, không tách dầu. Có có. Cay quá nhưng mà ngon. Nhừ. Anh em nào muốn trải nghiệm bánh tráng phơi sương của nhà Agascaly ấy thì tôi để bên phần trưng bày nhá.",
+    "takeaways": [
+        "Agascaly ra mắt sản phẩm mới: bánh tráng ruốc tép vị phô mai.",
+        "Bánh tráng có vị cay, mặn, béo, kèm đậu phộng và phô mai.",
+        "Sản phẩm không mặn, không bột, không tách dầu, và được nhiều người ưa chuộng."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

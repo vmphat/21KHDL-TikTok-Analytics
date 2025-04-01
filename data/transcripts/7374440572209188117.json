@@ -1,0 +1,9 @@
+I am sorry, but based on the audio provided, there are no intelligible words to generate a transcript. The audio solely consists of sounds that resemble dog whimpering. So, I will return `None` as transcript value.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

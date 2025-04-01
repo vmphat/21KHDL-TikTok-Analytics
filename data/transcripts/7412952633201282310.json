@@ -1,0 +1,10 @@
+I am sorry, but I cannot process this audio file to generate a transcript. It seems to contain only music, and no speech is present.
+Therefore, I cannot provide the information you requested. I will return `None` as the transcript.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

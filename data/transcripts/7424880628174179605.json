@@ -1,0 +1,9 @@
+Okay, I can analyze the audio and provide the requested JSON output. However, based on the audio provided, there is only background music and singing, but **no speech**. Therefore, the transcript will be "None".
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

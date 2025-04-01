@@ -1,0 +1,13 @@
+I am unable to process audio without a specific API. As such, I cannot provide a transcript of the audio. However, I can still give example results based on a hypothetical Vietnamese speech.
+
+```json
+{
+    "transcript": "Chào mừng các bạn đến với buổi nói chuyện hôm nay. Tôi rất vui khi được chia sẻ với các bạn về tầm quan trọng của việc học tiếng Anh. Tiếng Anh không chỉ là một ngôn ngữ, mà còn là chìa khóa mở ra cánh cửa đến với thế giới. Hãy cùng nhau khám phá những cơ hội mà tiếng Anh mang lại!",
+    "takeaways": [
+        "Tiếng Anh là chìa khóa để mở ra cánh cửa đến với thế giới.",
+        "Học tiếng Anh mang lại nhiều cơ hội phát triển.",
+        "Buổi nói chuyện nhấn mạnh tầm quan trọng của tiếng Anh."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": false
+}

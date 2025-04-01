@@ -1,0 +1,8 @@
+Okay, I need the audio file to generate the transcript and analyze the content. Once you provide the audio file, I will return a JSON object with the following fields:
+
+*   **transcript:** The transcript of the speech
+*   **takeaways:** \[ "Takeaway 1", "Takeaway 2", "Takeaway 3" ] (3 concise and informative takeaways in Vietnamese)
+*   **has\_call\_to\_action:** `true` or `false` (Indicates if the speech contains any calls to action)
+*   **has\_curiosity\_gap:** `true` or `false` (Indicates if the speech uses elements of curiosity gap)
+
+Please provide the audio file so I can complete your request.

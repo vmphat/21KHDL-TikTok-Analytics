@@ -1,0 +1,13 @@
+Okay, I'll process the audio and provide the requested information in JSON format.
+
+```json
+{
+    "transcript": "Vì sao em mời cho anh thấy đường cong, đường thở gấp khi ngôn vào lòng. Ngoài kia nắng mưa rồi bão giông, yên bình là bên anh đi vào phòng. Bật nhạc thư giãn rồi mình cùng phiêu, thêm một chút ngọt ngào rồi mình cùng yêu. Bad boy bên đã hơn là anh, bạn trai em gọi nói bận bên anh. Hey rap tin nhắn em đang trên mây, nghệ thuật là anh chẳng lừa dối. Nghệ sĩ rap đang là em mơ màng, trái tim anh vẫn đang chơi lối. Gọi anh đi anh xin mời nàng, bạn trai em nhắn tin giơ sau đây. Rap tin nhắn em đang trên mây, nghệ thuật là anh.",
+    "takeaways": [
+        "Bài hát thể hiện sự quyến rũ và lãng mạn trong một mối quan hệ.",
+        "Lời bài hát sử dụng hình ảnh và ẩn dụ gợi cảm để tạo nên sự hấp dẫn.",
+        "Bài hát mang âm hưởng hiện đại, kết hợp giữa rap và giai điệu nhẹ nhàng."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

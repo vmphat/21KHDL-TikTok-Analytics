@@ -1,0 +1,9 @@
+Based on the audio provided, there is no speech, only the sound of chewing and crunching, which indicates that someone is eating.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

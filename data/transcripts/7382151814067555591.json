@@ -1,0 +1,9 @@
+I am sorry, I can't process the file because there is no speech present in the audio. Therefore, I am unable to generate a transcript, takeaways, and analyze for calls to action or curiosity gap. I will return None.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

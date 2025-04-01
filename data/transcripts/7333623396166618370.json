@@ -1,0 +1,17 @@
+Okay, I will analyze the provided audio (which is silent in this case) and provide the requested JSON output.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}
+```
+
+**Explanation:**
+
+*   **transcript**:  Since the audio contains no speech, the transcript is `null`.
+*   **takeaways**: No speech to analyze means no takeaways can be derived.  Therefore, the list is empty.
+*   **has_call_to_action**:  Since there's no speech, it's impossible to determine if there's a call to action. It's `false`.
+*   **has_curiosity_gap**: Similarly, with no speech, there's no possibility of a curiosity gap. It's `false`.

@@ -1,0 +1,13 @@
+Okay, I'll analyze the provided audio to generate the transcript, extract takeaways, determine if there are calls to action and curiosity gaps, and return the results in JSON format.
+
+```json
+{
+    "transcript": "请你给我个痛快, 让我收手离开, 让回忆变成空白, 你又让谁再进来\n我沉溺你的痛爱, 你淹没在你海, 没办法一个人, 我继续想像未来\n一个人的晚餐, 我拉上了窗帘, 我自理的黑暗, 让我忘记了时间\n一个人静静抽着烟, 偶尔连给你打电话, 你还是不听不听管",
+    "takeaways": [
+        "Bài hát thể hiện nỗi đau và sự giằng xé trong tình yêu.",
+        "Nhân vật chính cảm thấy chìm đắm và mất phương hướng trong mối quan hệ.",
+        "Sự cô đơn và nỗi nhớ được thể hiện qua hình ảnh bữa tối một mình và những cuộc gọi không được trả lời."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

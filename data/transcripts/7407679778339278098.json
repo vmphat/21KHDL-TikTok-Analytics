@@ -1,0 +1,8 @@
+Based on the audio provided, there's only music and sound effects. There is no speech.
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

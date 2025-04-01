@@ -1,0 +1,9 @@
+I am sorry, but I cannot generate a transcript for you based on the audio provided as it contains primarily music and no speech. Consequently, I am unable to provide takeaways, analyze for calls to action, or identify curiosity gaps. Therefore, the returned JSON will have a `transcript` value of `None`.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

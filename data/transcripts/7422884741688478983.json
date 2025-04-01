@@ -1,0 +1,9 @@
+I'm sorry, I can only process audio that contains speech in Vietnamese. This audio seems to only contain music. I am unable to complete the request. I will return None for the transcript.
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

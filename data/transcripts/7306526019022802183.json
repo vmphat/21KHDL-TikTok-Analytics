@@ -1,0 +1,14 @@
+{
+    "transcript": "...",
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}
+```
+
+Since the provided audio only contains sounds of chewing and no actual speech, the JSON fields are filled as follows:
+
+*   **transcript**: Empty ("...") since there is no speech to transcribe.
+*   **takeaways**: Empty list because there's no speech content to derive takeaways from.
+*   **has\_call\_to\_action**: `false` because no speech means no call to action.
+*   **has\_curiosity\_gap**: `false` because without speech, no curiosity can be piqued.

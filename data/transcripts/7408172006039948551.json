@@ -1,0 +1,13 @@
+Okay, here's the JSON output based on the audio provided:
+
+```json
+{
+    "transcript": "Mọi khi ăn Jollibee đã thấy vui rồi, nay còn vui gấp đôi anh em ạ, vì vừa được thưởng thức gà rán ngon, lại vừa góp một phần nhỏ để hỗ trợ học bổng và tặng quà cho các em vùng sâu vùng xa. Vẫn là cái combo yêu thương quen thuộc tại Jollibee, bao gồm là ba gà giòn, hai mì ý và cả ba Pepsi. Và một khoai vừa nữa. Ui, cái miếng gà bốc ra nó giòn rụm mọng nước. Mà tôi thấy là cái tương ớt ở đây ấy người ta làm nó rất hợp vị với cả các bạn trẻ con ấy. Bởi vì là nó cứ ngòn ngọt chua chua anh em ạ. Chấm cùng gà ăn rất là hợp lý. Còn mì ý thì lại nhiều thịt, đậm phô mai thì anh em cũng biết rồi. Thực ra là loanh quanh vẫn là những cái món đấy thôi. Nhưng mà hôm nay đi ăn gà vui hơn hẳn là bởi vì lúc order ấy tôi vô tình thấy cái dự án là \"Triệu yêu thương tiếp bước em đến trường\" của Jollibee đang thực hiện. Cụ thể là khi mua combo yêu thương này là tôi đã góp 1.000đ. Để cùng Jollibee hỗ trợ học bổng, xe đạp cho các em vùng cao. Ví dụ như là bây giờ có 100.000 suất được bán ra thì là góp được 100 triệu để hỗ trợ các em nhỏ bằng hình thức nhận học bổng rồi. Chưa kể lần nào tôi cũng đi ăn Jollibee thấy đông như thế này ấy không khéo tôi nghĩ một tháng thôi là đã được mấy trăm triệu rồi giúp các em rồi. Mà chương trình kéo dài hơn một tháng cơ. Đến hết 29 tháng 9 lận ấy anh em cứ từ từ mà đi ăn nhá. Nhìn qua phim ảnh thì anh em cũng thấy rồi cái sự học của trẻ em vùng cao nó khó khăn thế nào rồi đấy. Thậm chí các bạn Pù ở Đỗ đại học rồi còn không được đi học ấy chứ. Nên tôi thấy đây là một cái chương trình rất là ý nghĩa. Anh em hãy nhanh tay lẹ chân ra các chi nhánh của Jollibee hoặc là order combo yêu thương về nhà để ăn là cũng góp phần tiếp bước các bé đến trường rồi đấy. Như này thì tôi ăn ở cơ sở Vĩnh Hồ nhá.",
+    "takeaways": [
+        "Jollibee có chương trình \"Triệu yêu thương tiếp bước em đến trường\" hỗ trợ học bổng cho trẻ em vùng cao.",
+        "Khi mua combo yêu thương của Jollibee, khách hàng góp 1.000đ vào quỹ học bổng.",
+        "Sự học của trẻ em vùng cao còn nhiều khó khăn, cần sự chung tay giúp đỡ của cộng đồng."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": false
+}

@@ -1,0 +1,13 @@
+Here's the JSON output based on the provided Vietnamese speech:
+
+```json
+{
+    "transcript": "Lần đầu tiên trong đời tôi thấy một cuốn gỏi cuốn 70 cành siêu to khổng lồ. Trời ơi! Gỏi cuốn không ở Bình Dương, ở Sài Gòn. Ê, tôi tưởng là những cái cuốn này các bạn chỉ là tự làm cho vui thôi nhưng không nha, có bán nha. Một cuốn gỏi cuốn 70.000, một cuốn, hai cuốn, ba cuốn này là 70, 70, 210. Cái bịch tương nè, mỗi cuốn là được đi kèm một cái bịch tương như vậy nha. Ban đầu tôi tưởng là bịch tương mà không phải đâu mọi người ơi, nó là bịch mắm nêm nha. Cái cái miếng màu vàng vàng á nó là thơm á mọi người. Mỗi cuốn thì người ta bọc một cái bọc lại cho mình nha mọi người, để mình mở ra nha. Tôi thấy nó khá là to luôn á, nó bự bằng hai cái gan tay của mình nha. Và thịt ở đây là được xếp thành hai lớp như vậy nha mọi người ơi và tôm sẽ là một lớp. Kiểu như là ừ đang giảm cân ăn một cuốn gỏi cuốn á mà một cuốn gỏi cuốn cỡ này nè mọi người ơi, trời ơi nó to nha. Đi kèm người ta cho mình một nguyên cái bịch nước chấm như vậy luôn và một cái chén để đựng luôn nha mọi người ơi. Và khi mà mình chấm vô mình ăn nè, cái cuốn này là một lần cắn của tôi là cái miệng của tôi cũng là size XL rồi đó. Nhưng mà cắn một cái cuốn là không bao giờ hết được nha mọi người ơi, chỉ là một góc nhỏ thôi. Muốn cắn được trọn cái cuốn là phải cắn từ hai đến ba lần. Và điểm cộng ở đây là nước mắm nêm á mọi người, đậm đà nhưng mà rất là ngon nha. Đó mọi người con tôm nó chỉ có nửa con thôi, khá là mỏng nha, nếu mà trong đây tôi đếm là bảy con tôm đâu đó sẽ là ba con rưỡi thôi à. Trời tới nó khảm. Trời tới nó khảm ơi. Mà cá nhân tôi thấy là 70 cành một cuốn này giá hơi cao nha, còn không biết thì mọi người, mọi người nghĩ sao? Nay tôi chia ra được làm bảy khúc như vậy nè mà bảy khúc như vậy là chia ra thì mỗi khúc như vậy là 10 cành là khá là cao á mọi người, bốn thì nhiều nha.",
+    "takeaways": [
+        "Gỏi cuốn siêu to khổng lồ với giá 70.000 đồng một cuốn.",
+        "Gỏi cuốn đi kèm mắm nêm thay vì tương thông thường.",
+        "Số lượng tôm trong gỏi cuốn khá ít và mỏng."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

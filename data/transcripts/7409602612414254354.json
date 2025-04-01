@@ -1,0 +1,13 @@
+Okay, I can analyze the audio and provide the requested JSON output. Based on the audio, here's the analysis:
+
+```json
+{
+    "transcript": "지쳐 쓰러진다 해도 난 나를",
+    "takeaways": [
+        "Đừng từ bỏ bản thân dù có mệt mỏi đến đâu.",
+        "Hãy luôn tin tưởng vào bản thân.",
+        "Luôn đứng lên sau mỗi lần vấp ngã."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

@@ -1,0 +1,9 @@
+Okay, here is the JSON output containing the analysis of the Vietnamese speech:
+
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

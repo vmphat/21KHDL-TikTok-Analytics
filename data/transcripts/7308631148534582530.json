@@ -1,0 +1,8 @@
+I'm sorry, but there is no speech audio in the file provided. I cannot generate a transcript or analyze speech content. I need an audio file containing the speech to fulfill your request. Therefore, I will return None for the transcript and empty fields for other values.
+```json
+{
+    "transcript": null,
+    "takeaways": [],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

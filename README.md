@@ -9,6 +9,11 @@
   - 14h T3 hàng tuần
   - 14h T6 hàng tuần
 
+# TODO: 14h T3, 24/04/2025
+
+- Bổ sung công nghệ:
+  - Lưu dữ liệu thành file parquet để giữ nguyên kiểu dữ liệu của cột
+
 # TODO: 21h CN, 23/03/2025
 
 - Phát:
@@ -195,5 +200,4 @@
 ## Công nghệ được sử dụng
 
 - Spark xử lý dữ liệu và Lưu local
-
   - Đẩy kết quả cuối cùng lên cloud để các thành viên lấy dữ liệu

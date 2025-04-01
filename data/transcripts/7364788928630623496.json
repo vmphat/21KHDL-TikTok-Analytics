@@ -1,0 +1,13 @@
+Okay, here is the JSON format with the transcript, takeaways, and analysis of the speech:
+
+```json
+{
+    "transcript": "Kiếp nạn dị ứng không chừa một ai nha mọi người ơi. Hồi xưa là tôi có một cái clip chia sẻ về kiếp nạn dị ứng trên mặt của tôi đúng không? Nhưng mà bây giờ nha, lạ hơn nè mọi người, bạn tôi nó không có bị dị ứng trên mặt nha mọi người. Nó bị từ cái cổ trở xuống. Cái clip mà trên mặt của tôi là đợt đó tôi bị nè mọi người ơi, nhưng mà tôi chỉ bị phần mặt thôi. Nhưng mà bạn tôi nó trải ngược lại hết y như tôi luôn nha. Nó cũng bị giống như tôi nổi như tôi luôn. Nhưng nó lại bị từ cái cổ trở xuống, cái mặt nó không bị. Tao nói cái mùa gì á mọi người ơi mà bệnh này tới bệnh kia từ bệnh cảm sốt rồi bây giờ tới cái nổi cái phát ban này luôn nè. Mà trước lúc này là nó bị sốt nha mọi người, kiểu nóng nóng xong rồi ở nhà nguyên ngày luôn tức là không ăn uống chỉ ăn cháo thôi mọi người. Còn đợt của tôi nha là tôi có ăn hải sản trước đó nên có thể là tôi bị dị ứng hải sản. Nhưng mà bạn của tôi là nó không có ăn cái gì trước đó luôn cũng không biết tại sao bị luôn. Nên là lần này thì với kinh nghiệm của tôi á thì nó lại bị nổi ngay cái cổ này nè mọi người mà nếu như mà bị nổi cái cổ á nó rất là dễ bị làm cho mình ngạt thở lúc lúc đó bạn nào bị vậy nha là phải đi bác sĩ liền. Còn cái này là nó chưa có bị ngạt thở nên là tôi đã mua thuốc trước rồi để coi coi hết hay không. Và bị kiểu như vậy là mấy bà phải tránh ra gió hoàn toàn luôn nha mọi người. Mà không biết mọi người có bị giống như tụi tôi không nha là điểm chung của bệnh này là chỉ mọc vào buổi tối thôi mọi người.",
+    "takeaways": [
+        "Dị ứng có thể biểu hiện khác nhau ở mỗi người, không chỉ ở mặt mà còn ở cổ và các bộ phận khác.",
+        "Cần chú ý đến các triệu chứng dị ứng và tìm kiếm sự giúp đỡ y tế khi cần thiết, đặc biệt khi có dấu hiệu khó thở.",
+        "Nên tránh tiếp xúc với gió khi bị dị ứng phát ban và theo dõi các triệu chứng để có biện pháp phòng ngừa kịp thời."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

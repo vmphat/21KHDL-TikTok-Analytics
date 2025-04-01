@@ -1,0 +1,13 @@
+Here's the JSON format output based on your requirements:
+
+```json
+{
+    "transcript": "isim, glow up, myself again\nVolkswagen, gaspin', bucket matches my pale skin\nMan, I went from hellmen's and being Ralph then flap it\nScrubbles them, rub Olympic 97' freak nick capped\nCannot be downed, mean\nBizarre in Florida, bruise rooms left on the flora\nMotel then...\nDr. Dre said 'Hell yeah!'\nAnd I got a stamp like a post card, where the mail man?\nAnd I know they're gonna hate but I don't care\nPrepare like you wait to hit 'em with the snare and the bass\nWearing the face this fucking world\nbetter prepare to get laced because\nthey're gonna taste my venom\nI got that adrenaline momentum\nnot slowing when I'm never gonna stow up in 'em\nready to stab any momentum\ntaking his time and go get 'em\nthey ain't gonna know what hit 'em\nwhen they get ripped up uh!\nI got that adrenaline momentum\nnot slowing when I'm never gonna stow up in 'em\nready to stab any momentum\n",
+    "takeaways": [
+        "Bài hát thể hiện sự tự tin và quyết tâm của người nghệ sĩ trong việc vượt qua khó khăn và thành công.",
+        "Ca khúc có nhịp điệu mạnh mẽ, lời bài hát sử dụng nhiều hình ảnh và ẩn dụ, tạo nên phong cách riêng.",
+        "Bài hát truyền tải thông điệp về sự kiên trì, không ngại đối mặt với thử thách và những người ganh ghét."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}
