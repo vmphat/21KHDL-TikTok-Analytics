@@ -1,0 +1,28 @@
+{
+    "foods": [
+        "lòng nướng",
+        "salad",
+        "heo nướng",
+        "bò nướng",
+        "gà nướng",
+        "cừu nướng",
+        "hải sản nướng",
+        "lẩu",
+        "mì ý",
+        "pizza",
+        "panacotta",
+        "kem",
+        "bánh flan",
+        "rau câu",
+        "bò bào tuyết",
+        "bò tảng sốt phô mai",
+        "bò tảng sốt trứng muối",
+        "lòng bò nướng",
+        "cá bò nướng muối ớt",
+        "hàu nướng phô mai mỡ hành",
+        "hàu sốt mắm tắc",
+        "bào ngư"
+    ],
+    "city": "Vũng Tàu",
+    "district": null
+}

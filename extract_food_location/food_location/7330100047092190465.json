@@ -1,0 +1,20 @@
+Okay, I'm ready to analyze the TikTok video data. I will focus on extracting food names, city, and district information, ensuring the output is a JSON object with the specified format.
+
+Based on the provided description and transcript (which is empty), I can only make inferences from the description itself.
+
+Here's my analysis and the resulting JSON output:
+
+**Analysis:**
+
+*   **Keywords:** The description includes terms like "#eating", "#eatingshow", "#mukbang", "#food", "#ancungtiktok", "#andem", "#reviewanngon", indicating the video is likely about food.
+*   **Missing Transcript:** The empty transcript limits my ability to identify specific food items and locations. Therefore, I'll rely on the description's general food-related tags.
+*   **No Specific Location:** The description doesn't directly mention a city or district.
+
+**JSON Output:**
+
+```json
+{
+    "foods": [],
+    "city": null,
+    "district": null
+}

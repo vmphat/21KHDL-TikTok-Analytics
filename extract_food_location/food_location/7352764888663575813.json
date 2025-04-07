@@ -1,0 +1,8 @@
+Dựa vào mô tả và transcript video TikTok được cung cấp, có thể thấy video này không thuộc chủ đề ẩm thực và không đề cập đến bất kỳ món ăn hay địa điểm cụ thể nào. Do đó, kết quả trả về sẽ là:
+
+```json
+{
+    "foods": null,
+    "city": null,
+    "district": null
+}

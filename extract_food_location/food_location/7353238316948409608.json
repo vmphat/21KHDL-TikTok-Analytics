@@ -1,0 +1,28 @@
+{
+    "foods": [
+        "thịt nướng hàn quốc",
+        "dẻ sườn bò",
+        "nạm bò",
+        "gầu bò",
+        "vai bò",
+        "ba chỉ bò",
+        "ba chỉ heo",
+        "nạc heo",
+        "nạc vai",
+        "tôm",
+        "mực ống",
+        "bạch tuộc",
+        "dải thăn bò mỹ",
+        "sườn bò mỹ",
+        "biển trứng",
+        "nấm",
+        "ngô phô mai",
+        "tokbokki",
+        "mì lạnh",
+        "canh rong biển",
+        "cơm rang phô mai",
+        "banchan"
+    ],
+    "city": "Hà Nội",
+    "district": null
+}

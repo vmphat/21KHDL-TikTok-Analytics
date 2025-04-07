@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213004127F069CDDCBDE9E215A50E",
+      "now": 1739378487000
+   },
+   "log_pb": {
+      "impr_id": "20250213004127F069CDDCBDE9E215A50E"
+   },
+   "shareMeta": {
+      "desc": "@joilaiii 1.4m Followers, 45 Following, 23.2m Likes - Watch awesome short videos created by S\u1ef1 Tr\u1edf L\u1ea1i C\u1ee7a Joi \u2728",
+      "title": "S\u1ef1 Tr\u1edf L\u1ea1i C\u1ee7a Joi \u2728 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1400000,
+         "followingCount": 45,
+         "friendCount": 41,
+         "heart": 23200000,
+         "heartCount": 23200000,
+         "videoCount": 279
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7315123843281092640~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=66333&refresh_token=c2c806e1863d5e85ecff3de2ee3c8534&x-expires=1739548800&x-signature=YtUfQV9VjvEkAOkI0HdQrAolIW0%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7315123843281092640~c5_720x720.jpeg?lk3s=a5d48078&nonce=65318&refresh_token=8d7a395869bace707ca3d8a96829ce11&x-expires=1739548800&x-signature=UptbO3H6ZDRvV0T2hGOIEJmWZLQ%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7315123843281092640~c5_100x100.jpeg?lk3s=a5d48078&nonce=19967&refresh_token=fbc99f1493d8067ca9fea1c392b2ae2e&x-expires=1739548800&x-signature=ziM8gdeaq3kv3z3fNi%2FRSOk%2Beqc%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "https://beacons.ai/joitauhaiff",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 3,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7189469130780787738",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1676096444,
+         "nickname": "S\u1ef1 Tr\u1edf L\u1ea1i C\u1ee7a Joi \u2728",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAArm_Ana9igsDB1pB_IwHh5HC2eRBmDKfH2kPPBfldth3AoH3k2b7UQtIVqi0yU946",
+         "secret": false,
+         "signature": "Job: huycao763@gmail.com\n YTB: Joi T\u1ea5u H\u00e0i \u2764\ufe0f\u200d\ud83d\udd25 \nC\u1ea7n Acc FF \ud83d\udd25\n\ud83d\udc47\ud83d\udc47\ud83d\udc47",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "joilaiii",
+         "verified": false
+      }
+   }
+}

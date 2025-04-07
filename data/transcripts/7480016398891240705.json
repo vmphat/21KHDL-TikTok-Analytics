@@ -1,0 +1,13 @@
+Here's the JSON output containing the analysis of the provided audio:
+
+```json
+{
+    "transcript": "Every time I see you\n그대 눈을 볼 때면 자꾸 가슴이 또 설레여와\n내 운명이죠 세상 끝이라도\n지켜주고 싶은 단 한 사람\nEvery time I see you\n그대 눈을 볼 때면 자꾸 가슴이 또 설레여와\n내 운명이죠 세상 끝이라도",
+    "takeaways": [
+        "Bài hát thể hiện cảm xúc yêu thương mãnh liệt và sự rung động khi nhìn thấy người mình yêu.",
+        "Nhấn mạnh định mệnh và mong muốn bảo vệ người yêu dù có khó khăn đến đâu.",
+        "Giai điệu nhẹ nhàng và giọng hát ngọt ngào tạo nên một không khí lãng mạn."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": false
+}

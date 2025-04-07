@@ -1,0 +1,8 @@
+Dựa vào mô tả video TikTok được cung cấp ("Tua x2 để biết kết quả nha bạn ơi 🥰 #tocvanghoe #mukbang #ancungtiktok #xuhuong"), có thể xác định đây là một video thuộc chủ đề ẩm thực (mukbang, ăn cùng TikTok). Tuy nhiên, transcript của video bị thiếu, không có thông tin chi tiết về các món ăn, địa điểm cụ thể. Do đó, không thể trích xuất thông tin chính xác về món ăn, thành phố và quận/huyện.
+
+```json
+{
+    "foods": null,
+    "city": null,
+    "district": null
+}

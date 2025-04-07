@@ -1,0 +1,62 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213002200BCB7216660AA60161003",
+      "now": 1739377320000
+   },
+   "log_pb": {
+      "impr_id": "20250213002200BCB7216660AA60161003"
+   },
+   "shareMeta": {
+      "desc": "@captaiinboyy11_06 1.2m Followers, 40 Following, 21.5m Likes - Watch awesome short videos created by Captain Boy",
+      "title": "Captain Boy on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1200000,
+         "followingCount": 40,
+         "friendCount": 18,
+         "heart": 21500000,
+         "heartCount": 21500000,
+         "videoCount": 302
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/5d45142832282ccf2bffdeddfe616fad.jpeg?lk3s=a5d48078&nonce=19611&refresh_token=5a71f4d436ab7a29e66a4da9ca902ce4&x-expires=1739548800&x-signature=TRBA%2ByUUKWFd5f4tcMJsv7qSe8k%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/5d45142832282ccf2bffdeddfe616fad.jpeg?lk3s=a5d48078&nonce=31147&refresh_token=4e13a0d97b050022299e01f2e60f97bd&x-expires=1739548800&x-signature=JL2kVGjyP2pO70lGv8fZ%2FiGYCoo%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5d45142832282ccf2bffdeddfe616fad.jpeg?lk3s=a5d48078&nonce=3172&refresh_token=2c0c45f8d8a283484d3200178bcc619a&x-expires=1739548800&x-signature=140s%2F2s2GFtCpwDqqd4zKtmbTiA%3D&shp=a5d48078&shcp=81f88b70",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6874526532905387009",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1729535838,
+         "nickname": "Captain Boy",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showMusicTab": true,
+            "showPlayListTab": false
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAeKQFQUpQingWk0zFagdxnePPgqzeSNsLiWCRECZ7TPQ08d-uP-odcOr7sHFmhVwe",
+         "secret": false,
+         "signature": "IG: @captainboy_0603\n\ud835\ude72\ud835\ude98\ud835\ude97\ud835\ude9d\ud835\ude8a\ud835\ude8c\ud835\ude9d : captain.nomadmgmt@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "captaiinboyy11_06",
+         "verified": false
+      }
+   }
+}

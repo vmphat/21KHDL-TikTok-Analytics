@@ -17,26 +17,28 @@ A Streamlit-based web application for analyzing TikTok user data, engagement met
 ```
 tiktok_analytics/
 │
-├── app.py                  # Main entry point for the Streamlit app
-├── styles.py               # Custom CSS and styling definitions
-├── data_loader.py          # Data loading utilities
+├── *_app.py                     # Main entry point for the Streamlit app
+├── pages/
+│   ├── data_loader.py           # Data loading utilities
+│   ├── footer.py                # Footer with last updated timestamp
+│   └── styles.py                # Custom CSS and styling definitions
 ├── pages/
 │   ├── correlation_analysis.py  # Correlation Analysis page with tabs
 │   ├── personal_analysis.py     # Personal Analysis page
-│   └── hashtag_song_analysis.py # Hashtag & Song Analysis page
-├── footer.py               # Footer with last updated timestamp
+│   ├── hashtag_song_analysis.py # Hashtag & Song Analysis page
+│   └── top_users.py             # Top user statistic page
 └── README.md               # Project documentation (this file)
 ```
 
 ### File Descriptions
 
-- **`app.py`**: The main script that initializes the app, sets up the sidebar navigation, and routes to different pages.
+- **`*_app.py`**: The main script that initializes the app, sets up the sidebar navigation, and routes to different pages.
 - **`styles.py`**: Contains custom CSS for consistent styling across the app, including global, personal, and hashtag/song-specific styles.
 - **`data_loader.py`**: Loads the cleaned TikTok user and video datasets from CSV files.
-- **`pages/correlation_analysis.py`**: Implements the "Correlation Analysis" page with three tabs: Correlation Analysis, Top Users, and Engagement Insights.
-- **`pages/personal_analysis.py`**: Implements the "Personal Analysis" page for individual TikToker analytics.
-- **`pages/hashtag_song_analysis.py`**: Implements the "Hashtag & Song Analysis" page for trending hashtags and songs.
 - **`footer.py`**: Displays a timestamp in Vietnam time (UTC+7) at the bottom of the app.
+- **`correlation_analysis.py`**: Implements the "Correlation Analysis" page with three tabs: Correlation Analysis, Top Users, and Engagement Insights.
+- **`personal_analysis.py`**: Implements the "Personal Analysis" page for individual TikToker analytics.
+- **`hashtag_song_analysis.py`**: Implements the "Hashtag & Song Analysis" page for trending hashtags and songs.
 
 ## Prerequisites
 
@@ -50,13 +52,16 @@ tiktok_analytics/
 ## Installation
 
 1. **Clone the Repository** (if hosted on a version control system):
+
    ```bash
    git clone <repository-url>
    cd tiktok_analytics
    ```
+
    Alternatively, manually create the directory structure and copy the files.
 
 2. **Install Dependencies**:
+
    ```bash
    pip install streamlit pandas plotly pytz
    ```
@@ -86,7 +91,7 @@ tiktok_analytics/
 
 ### Example Screenshots
 
-*(You can add screenshots here by running the app and capturing outputs, then linking them in this section.)*
+_(You can add screenshots here by running the app and capturing outputs, then linking them in this section.)_
 
 ## Data Requirements
 
@@ -119,7 +124,7 @@ tiktok_analytics/
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). *(Add a LICENSE file if you choose to include one.)*
+This project is open-source and available under the [MIT License](LICENSE). _(Add a LICENSE file if you choose to include one.)_
 
 ## Contact
 

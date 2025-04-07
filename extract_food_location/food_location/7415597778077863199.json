@@ -1,0 +1,27 @@
+{
+    "foods": [
+        "buffet",
+        "sashimi",
+        "cá hồi",
+        "cá ngừ",
+        "cá trích ép trứng",
+        "cá cờ kiếm",
+        "hào",
+        "húp nướng phô mai",
+        "tôm nướng phô mai",
+        "sò điệp nướng phô mai",
+        "nhum nướng trứng cút",
+        "cua",
+        "ghẹ",
+        "tôm",
+        "dimsum",
+        "bánh xèo",
+        "bún riêu",
+        "salad",
+        "bít tết",
+        "sốt tiêu đen",
+        "sốt kem"
+    ],
+    "city": null,
+    "district": null
+}

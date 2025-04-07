@@ -1,0 +1,62 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "202502130013397DF4E4856EAD68137AE9",
+      "now": 1739376819000
+   },
+   "log_pb": {
+      "impr_id": "202502130013397DF4E4856EAD68137AE9"
+   },
+   "shareMeta": {
+      "desc": "@maysaa.ptbs 1.2m Followers, 29 Following, 27.9m Likes - Watch awesome short videos created by Maysaa",
+      "title": "Maysaa on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1200000,
+         "followingCount": 29,
+         "friendCount": 26,
+         "heart": 27900000,
+         "heartCount": 27900000,
+         "videoCount": 316
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b69314c8d5d65804081653eb8d36519~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=83630&refresh_token=db3377d4c70f150536185c9880912ae8&x-expires=1739548800&x-signature=M9O39yR9YmhtZjVT7EbX1dC3INo%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b69314c8d5d65804081653eb8d36519~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=25793&refresh_token=66d2c7bc0894bca4e243ab068f7fd1e5&x-expires=1739548800&x-signature=EiIvYtlqilecUlFQlyOlqROXGPc%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/2b69314c8d5d65804081653eb8d36519~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=27800&refresh_token=1203a26cc8b735e8eb052991ae6511e1&x-expires=1739548800&x-signature=0HwNTYtjgRza%2FpeREEwQct0IM8Y%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6914955247144649729",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1674024252,
+         "nickname": "Maysaa",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAANr-qgaG49WCl3XD3zR_Cz-cc6dqDU8_t-VN8TSKQxMwexf6lui6uwGv4kqYnX875",
+         "secret": false,
+         "signature": "C\u00f4 b\u00e9 L\u00e0o \ud83c\uddf1\ud83c\udde6\u2665\ufe0f\ud83c\uddfb\ud83c\uddf3 Vi\u1ec7t Nam",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "maysaa.ptbs",
+         "verified": false
+      }
+   }
+}

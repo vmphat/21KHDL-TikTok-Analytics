@@ -1,0 +1,65 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213000546A831272E9487E611C819",
+      "now": 1739376346000
+   },
+   "log_pb": {
+      "impr_id": "20250213000546A831272E9487E611C819"
+   },
+   "shareMeta": {
+      "desc": "@pamyeuoi 2.4m Followers, 2 Following, 73.1m Likes - Watch awesome short videos created by Pamela H\u1ea3i \u0110\u01b0\u1eddng \ud83c\udf3a",
+      "title": "Pamela H\u1ea3i \u0110\u01b0\u1eddng \ud83c\udf3a on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 2400000,
+         "followingCount": 2,
+         "friendCount": 2,
+         "heart": 73100000,
+         "heartCount": 73100000,
+         "videoCount": 229
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9b36db8582910ffa56d496ea8992694c~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=22182&refresh_token=983a6a124c93bdd13c57d40be719464a&x-expires=1739548800&x-signature=%2Fj8AxO0ffm6LpGke8Y9lAq8HI1Y%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9b36db8582910ffa56d496ea8992694c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=27886&refresh_token=dfc075901f5754330fe4c0c13e195b5d&x-expires=1739548800&x-signature=Wmm8gJCL3pVX%2FdybJJ8Mz3aI%2FAE%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9b36db8582910ffa56d496ea8992694c~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=29304&refresh_token=c2299cbe899a4bb19e44e3cbd963bd1b&x-expires=1739548800&x-signature=ggjphiXbwkj5p8zt2xPbx9owa7U%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "Linktr.ee/hatnhaifamily",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "7218581772639962139",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1698120729,
+         "nickname": "Pamela H\u1ea3i \u0110\u01b0\u1eddng \ud83c\udf3a",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": false
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAATMpkOf2bUxwi00Q-cZlGhjscb5oZW-4rvn6jsVVpHL1mJK_p5kaQg2bpDxHjPCI3",
+         "secret": false,
+         "signature": "Hello the hwourld \ud83c\udf0f\nCon l\u00e0 Pam m\u1eb7t dzu\u00f4ng \ud83d\ude1d\nC\u00e1c d\u00ec up con nh\u1edb \u0111\u1ec3 #pamyeuoi naa",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "pamyeuoi",
+         "verified": false
+      }
+   }
+}

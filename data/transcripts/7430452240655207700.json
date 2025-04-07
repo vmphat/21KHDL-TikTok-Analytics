@@ -1,0 +1,13 @@
+Here's the JSON output based on your request:
+
+```json
+{
+    "transcript": "Đang ngồi xe bay mà tui mò được cái trò này hay lắm nha.\nÀ năm mới chơi snap đôi rối đôi rối. Ngồi mò mò thế nào mà tui lại phát hiện ra cái tính năng mới AI slam của Wing này. Trời ơi làm xong cái video coi mà nó đã cái nư luôn á. Mấy bà muốn thử thì nhớ tải Wing về nha. Sẽ được free sử dụng tính năng năm lần. Còn tui đang sử dụng tài khoản VIP thì có 15 lần nha.",
+    "takeaways": [
+        "Tính năng AI slam mới của ứng dụng Wing cho phép tạo ra video thú vị.",
+        "Người dùng có thể sử dụng miễn phí tính năng này 5 lần sau khi tải ứng dụng.",
+        "Người dùng tài khoản VIP được sử dụng tính năng này 15 lần."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

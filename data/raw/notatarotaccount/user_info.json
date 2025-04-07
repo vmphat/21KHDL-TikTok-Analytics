@@ -1,0 +1,62 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250212235732020248CB8C9FB012C949",
+      "now": 1739375852000
+   },
+   "log_pb": {
+      "impr_id": "20250212235732020248CB8C9FB012C949"
+   },
+   "shareMeta": {
+      "desc": "@notatarotaccount 471.2k Followers, 32 Following, 36.1m Likes - Watch awesome short videos created by Tin Tr\u1ea7n",
+      "title": "Tin Tr\u1ea7n on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 471200,
+         "followingCount": 32,
+         "friendCount": 30,
+         "heart": 36100000,
+         "heartCount": 36100000,
+         "videoCount": 248
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/5660445f09cbb19e31fa71d4898771a0.jpeg?lk3s=a5d48078&nonce=12304&refresh_token=a07bd6711e8ec32e255eee807b22e84f&x-expires=1739545200&x-signature=XuSgNSmfX%2FXRoVcldJiKF9gfexQ%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/5660445f09cbb19e31fa71d4898771a0.jpeg?lk3s=a5d48078&nonce=81554&refresh_token=7753defd29c55bb3f639e7930a545ef5&x-expires=1739545200&x-signature=xvWQj5EJYK8eDXwkja6%2FsoEF68I%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5660445f09cbb19e31fa71d4898771a0.jpeg?lk3s=a5d48078&nonce=85490&refresh_token=1e19421cde617f05725cbac797e48177&x-expires=1739545200&x-signature=EW3e%2F%2F0Pd8JlYqBMs43ohhtgTkk%3D&shp=a5d48078&shcp=81f88b70",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 3,
+         "duetSetting": 3,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6952739612947825665",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1727681700,
+         "nickname": "Tin Tr\u1ea7n",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA1U-4cmdst7lLarq5MtzDyn2F6n5l8GrH81Aws-8_TYoXngVuWxGK9c-K4ovCuKYz",
+         "secret": false,
+         "signature": "Book l\u1ecbch b\u1ea3n \u0111\u1ed3 sao qua ins: notatarotaccount.\nFor work: booking@vtvcab.vn",
+         "stitchSetting": 3,
+         "ttSeller": false,
+         "uniqueId": "notatarotaccount",
+         "verified": false
+      }
+   }
+}

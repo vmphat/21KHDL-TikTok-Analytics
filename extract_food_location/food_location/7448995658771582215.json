@@ -1,0 +1,32 @@
+{
+    "foods": [
+        "Đồ chiên",
+        "Lẩu",
+        "Cơm nắm",
+        "Thanh cua",
+        "Khoai kén",
+        "Chân gà xả tắc",
+        "Nghêu hấp thái",
+        "Bánh xèo Hàn Quốc",
+        "Cá viên",
+        "Rong biển chiên",
+        "Khoai lang kén",
+        "Thanh cua chiên bột",
+        "Gà chiên",
+        "Miến xào",
+        "Khoai lang chiên",
+        "Há cảo chiên",
+        "Bánh bao chiên",
+        "Chả giò",
+        "Kimbap",
+        "Cơm trộn",
+        "Trứng ngâm tương",
+        "Mì trộn",
+        "Chả cá",
+        "Toki",
+        "Thịt gà",
+        "Bánh flan"
+    ],
+    "city": null,
+    "district": null
+}

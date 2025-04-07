@@ -1,0 +1,27 @@
+{
+    "foods": [
+        "đồ nướng",
+        "lẩu",
+        "thịt heo",
+        "thịt bò",
+        "thịt gà",
+        "thịt nai",
+        "thịt nhím",
+        "thịt ếch",
+        "hải sản",
+        "ghẹ hấp",
+        "ốc hấp",
+        "bánh bao",
+        "cơm chiên",
+        "há cảo",
+        "cơm lam",
+        "tôm tích",
+        "cá kèo",
+        "ghẹ",
+        "rau câu",
+        "chè",
+        "kem"
+    ],
+    "city": "Vũng Tàu",
+    "district": "Phường 5"
+}

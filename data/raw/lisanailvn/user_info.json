@@ -1,0 +1,68 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250212235816A079579B2FCDDB14EF67",
+      "now": 1739375896000
+   },
+   "log_pb": {
+      "impr_id": "20250212235816A079579B2FCDDB14EF67"
+   },
+   "shareMeta": {
+      "desc": "@lisanailvn 2.4m Followers, 103 Following, 58.2m Likes - Watch awesome short videos created by Lisa Nail & Spa",
+      "title": "Lisa Nail & Spa on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 2400000,
+         "followingCount": 103,
+         "friendCount": 13,
+         "heart": 58200000,
+         "heartCount": 58200000,
+         "videoCount": 309
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7324433125105205281~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=66890&refresh_token=cb1b9561f556dd56aab5addfe2e7b8a9&x-expires=1739545200&x-signature=yCs%2BgmMKnfclGUJLGXbL8uRhEKM%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7324433125105205281~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=52007&refresh_token=0fd3aaad18c681468bf932f520c0b8a6&x-expires=1739545200&x-signature=WfFctlaYMag8xYlAgeo09mRcTY8%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7324433125105205281~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=42738&refresh_token=d18b7583f0750244f1a2a6bcf6afc619&x-expires=1739545200&x-signature=g%2FHSSOkZqWmYwDUIqmfmAuZqEG4%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://lisanail.vn/en/salon-system/",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "category": "Beauty",
+            "categoryButton": false,
+            "commerceUser": true
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "7078865847124788226",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1678532720,
+         "nickname": "Lisa Nail & Spa",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAALNBtFWOTC99fzZryZYtJvn6U3qd2STekyDeHUcT2AapHFQQhZHu21dskMmT1U4CT",
+         "secret": false,
+         "signature": "416A Hai B\u00e0 Tr\u01b0ng,T\u00e2n \u0110\u1ecbnh, Q1\n198 CMT8,P10, Q3\n420 Nguy\u1ec5n Th\u1ecb Th\u1eadp,T\u00e2n Quy, Q7",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "lisanailvn",
+         "verified": false
+      }
+   }
+}

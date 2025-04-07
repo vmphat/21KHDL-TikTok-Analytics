@@ -1,0 +1,30 @@
+{
+    "foods": [
+        "bún",
+        "cơm",
+        "lẩu",
+        "rau",
+        "nấm",
+        "mít",
+        "xoài",
+        "dưa hấu",
+        "sữa chua",
+        "chè",
+        "salad hoa quả",
+        "trả đậu lá lốt",
+        "gỏi cuốn ngũ sắc",
+        "miến trộn kiểu thái",
+        "bún riêu",
+        "nước thái tom yum chua cay",
+        "nước lẩu thả mộc",
+        "giò",
+        "chả",
+        "xúc xích",
+        "chè thái",
+        "chè dưỡng nhan",
+        "thạch rau câu",
+        "dừa khô"
+    ],
+    "city": null,
+    "district": null
+}

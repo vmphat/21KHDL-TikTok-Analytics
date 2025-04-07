@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025021300565217EB4E5424D567147F5A",
+      "now": 1739379412000
+   },
+   "log_pb": {
+      "impr_id": "2025021300565217EB4E5424D567147F5A"
+   },
+   "shareMeta": {
+      "desc": "@thanhhung3010 607.0k Followers, 31 Following, 11.0m Likes - Watch awesome short videos created by Thanh H\u01b0ng",
+      "title": "Thanh H\u01b0ng on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 607000,
+         "followingCount": 31,
+         "friendCount": 22,
+         "heart": 11000000,
+         "heartCount": 11000000,
+         "videoCount": 546
+      },
+      "user": {
+         "avatarLarger": "https://p9-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/5ada47f6f50504716b3ad8d568952afb.jpeg?lk3s=a5d48078&nonce=76598&refresh_token=11492e0c19902c967918c1bdb2cc09e5&x-expires=1739548800&x-signature=X%2FDsSAHbncF2bO8VokvIeaPw7jI%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/5ada47f6f50504716b3ad8d568952afb.jpeg?lk3s=a5d48078&nonce=65451&refresh_token=a4bfb872300bf331d960dadcbe47248a&x-expires=1739548800&x-signature=THNZw4pUUNEYEDQUxOR1iPzC2bU%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/5ada47f6f50504716b3ad8d568952afb.jpeg?lk3s=a5d48078&nonce=83091&refresh_token=1835e63061dbd5318fa783b4f1aae49f&x-expires=1739548800&x-signature=HMFUNaDBlAgR3c0PqCQxleD8m60%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "https://www.facebook.com/thanhhung3010",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6610965350120210433",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1656089548,
+         "nickname": "Thanh H\u01b0ng",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showMusicTab": true,
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAELjdyJeCaxqRJ8s0IlTRjJ9bOHvdX1XbzUP-7qU74CHdL6qDiUKEzlJk8eSX_4SC",
+         "secret": false,
+         "signature": "https://www.facebook.com/thanhhung3010\nInsta: thanhhungsinger",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "thanhhung3010",
+         "verified": true
+      }
+   }
+}

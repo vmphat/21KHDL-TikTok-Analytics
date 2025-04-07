@@ -1,6 +1,6 @@
 import pandas as pd
 import ast
-from video_analysis.config import COLUMN_LABELS
+from video_analysis.utils.config import COLUMN_LABELS
 
 
 def parse_list_column(value):

@@ -1,0 +1,8 @@
+Dựa trên mô tả và transcript video được cung cấp, có vẻ như video không tập trung vào chủ đề ẩm thực một cách rõ ràng. Transcript chứa nhiều từ ngữ không liên quan đến ẩm thực và mô tả chỉ đề cập đến "Bánh mì Pate chay". Không có thông tin về địa điểm cụ thể nào được đề cập.
+
+```json
+{
+    "foods": ["Bánh mì Pate chay"],
+    "city": null,
+    "district": null
+}

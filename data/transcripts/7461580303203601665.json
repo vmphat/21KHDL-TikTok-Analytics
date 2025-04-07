@@ -1,0 +1,13 @@
+Okay, here is the JSON format of the speech analysis.
+
+```json
+{
+    "transcript": "Thì ra sau bao nhiêu năm tháng ta bên nhau trái tim anh vẫn còn phân vân. Thì giờ em cũng chỉ là một sự lựa chọn trong muôn ngàn lựa chọn với anh. Thì giờ bao lâu em cố gắng xin giữ hạnh phúc chỉ nhận lại đầy những vết thương. Thì ra chưa một lần nào anh thật sự cần em mà chỉ là lừa dối em. Người ta mang cho anh say đắm để anh thấy được yêu như lần đầu tiên. Người ta cho anh tìm lại nụ cười mà từ lâu anh không còn được bình yên bên em. Còn em em hy sinh yêu thế, em đợi chờ anh yêu thế, em chịu đựng nhiều đến thế mà. Còn em cũng một thời thật thà em cũng như người ta dành trọn tình yêu với anh thế mà.",
+    "takeaways": [
+        "Bài hát thể hiện sự thất vọng và đau khổ khi nhận ra mình chỉ là một lựa chọn trong tình yêu.",
+        "Ca từ miêu tả sự hy sinh và nỗ lực vô ích trong việc giữ gìn hạnh phúc.",
+        "Bài hát gợi lên cảm giác bị lừa dối và không được trân trọng trong mối quan hệ."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

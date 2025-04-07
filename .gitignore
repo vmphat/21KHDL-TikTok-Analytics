@@ -8,6 +8,7 @@ development/*
 *.mp4
 # Ignore all audio files
 *.wav
+*.mp3
 # Ignore all files in the temp folder
 temp/*
 # Ignore all intermediate JSON files when transcripting audio
@@ -18,3 +19,7 @@ data/interim/audio_text_list/*
 Related-documents/*
 # Ignore all .zip files
 *.zip
+# Ignore all .pyc files
+*.pyc
+# Ignore all pycache folder across the repo
+**/__pycache__/

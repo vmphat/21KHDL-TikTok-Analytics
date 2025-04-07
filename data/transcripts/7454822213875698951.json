@@ -1,0 +1,31 @@
+Here's the JSON output containing the transcript, takeaways, CTA, and curiosity gap information:
+
+```json
+{
+    "transcript": "hôm nay mình sẽ múc bằng đồ ăn tại phòng net. Không phải nói dối nhưng mà đây là lần đầu tiên mình được đi quán net mọi người ạ. Yeah. Wait a minute. Get how you live it. 10 toes in when we standing on business big stepper under ground. hiện tại mình đang ở chỗ tên là Double Tiger Gaming House, chỗ này là ở trên đường Hòa Minh Thảo nha mọi người nhá. Một tin đồn nào đó mọi người cứ nói rằng thì mọi người đến đây ăn còn nhiều hơn cả người đến đây mọi người chơi game. Nhìn qua thì mình thấy ở trên này cũng là có ba tầng này, có cả phòng stream này, nói chung là lần đầu đi quán nét là tôi thấy mọi thứ trông rất là mới lạ. 16 GB RAM RTX 2060 Super i3 12100F. Thì ở đây họ dùng phím deriu chuột thì chuột Logitech ở đây những cái trò như ngày xưa hồi còn bé tí là tôi từng được đi chơi net có Đột Kích này, có Audition có Warcraft có Vice City. Cái trò hiện tại là mình đang chơi là cái trò Marvel Rival Round.
+ Xời Venom
+ đuổi đuổi
+ sẽ xem đồ ăn. Mì trộn này cơm bò cơm trộn Hàn, cơm rang thập cẩm, cơm gà xiên, cơm trắng trạ.
+Ừm. Uống gì Lâm ơi? Mì trộn cơm rồi tổng là 226.000
+là mì indomie nhé mọi người.
+
+ Mì trộn vị chiên.
+
+ hả. Ừ.
+ Gà viên.
+ Bắt đến đây.
+Hot dog
+Bún đậu nước mắm
+ Được quế có phô mai.
+ Cơm thịt bò Teriyaki.
+Cơm bò đây rất ngon luôn
+Cơm rang
+",
+    "takeaways": [
+        "Quán net không chỉ là nơi chơi game, còn có đồ ăn ngon.",
+        "Quán net hiện đại có nhiều tiện nghi như phòng stream, cấu hình máy tính mạnh.",
+        "Nhiều món ăn hấp dẫn được phục vụ tại quán net."
+    ],
+    "has_call_to_action": false,
+    "has_curiosity_gap": true
+}

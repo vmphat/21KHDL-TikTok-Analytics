@@ -1,0 +1,148 @@
+{
+  "type": "object",
+  "description": "Các trường dùng để gán nhãn (label). Gán nhãn dựa trên nội dung miêu tả video mà người dùng cung cấp.",
+  "required": ["categories"],
+  "properties": {
+    "categories": {
+      "type": "string",
+      "description": "Thể loại chính của video. Nếu kết quả là 'Không liên quan ẩm thực' thì trả về duy nhất trường 'categories', không cần trích xuất các trường khác",
+      "enum": [
+        "Review quán ăn",
+        "Review sản phẩm ăn uống",
+        "Review món ăn",
+        "Mukbang",
+        "Nấu ăn",
+        "Không liên quan ẩm thực"
+      ]
+    },
+    "structure_style": {
+      "type": "array",
+      "description": "Dựa trên cách người dùng muốn thể hiện video, gán nhãn phong cách cấu trúc tương ứng.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Mô tả đặc điểm",
+          "Chia sẻ trải nghiệm cá nhân",
+          "Kể chuyện",
+          "Hướng dẫn",
+          "So sánh",
+          "Kịch hóa",
+          "Đối thoại",
+          "Chia sẻ kiến thức"
+        ]
+      }
+    },
+    "hook_type": {
+      "type": "array",
+      "description": "Gán nhãn cách mở đầu video mà người dùng muốn sử dụng.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Gây tò mò",
+          "Cho thấy kết quả trước",
+          "Kể chuyện",
+          "Vào thẳng vấn đề",
+          "Đặt câu hỏi",
+          "Phản hồi bình luận",
+          "Khuyến mãi",
+          "So sánh",
+          "Giật tít",
+          "Gây tranh cãi",
+          "Tạo sự đồng cảm"
+        ]
+      }
+    },
+    "tone_of_voice": {
+      "type": "array",
+      "description": "Xác định giọng điệu mà người dùng mong muốn thể hiện trong video.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Hào hứng",
+          "Hài hước",
+          "Thân thiện",
+          "Chân thành",
+          "Ngạc nhiên",
+          "Bí ẩn",
+          "Trung lập",
+          "Trang trọng",
+          "Nghiêm túc",
+          "Châm biếm",
+          "Khó chịu",
+          "Giận dữ",
+          "Bốc phốt"
+        ]
+      }
+    },
+    "pacing": {
+      "type": "array",
+      "description": "Gán nhịp độ video dựa trên cảm nhận về tốc độ, không khí của video mà người dùng muốn tạo.",
+      "items": { "type": "string", "enum": ["Nhanh", "Chậm", "Thay đổi"] }
+    },
+    "cta_type": {
+      "type": "array",
+      "description": "Gán các loại CTA (kêu gọi hành động) mà người dùng mong muốn sử dụng trong video, nếu có. Phải dựa trên nội dung mô tả rõ ràng.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Follow kênh",
+          "Thích video",
+          "Bình luận",
+          "Chia sẻ",
+          "Lưu video",
+          "Xem video tiếp theo",
+          "Truy cập trang cá nhân",
+          "Truy cập link sản phẩm",
+          "Thử làm theo công thức",
+          "Ăn cùng",
+          "Ghé thăm địa điểm",
+          "Chia sẻ công thức",
+          "So sánh",
+          "Đặt câu hỏi"
+        ]
+      }
+    },
+    "content_style": {
+      "type": "array",
+      "description": "Gán nhãn phong cách tổng thể của video dựa trên phong cách thể hiện mà người dùng mô tả.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Gen Z",
+          "Truyền thống",
+          "Chuyên nghiệp",
+          "Đời thường",
+          "Sang trọng",
+          "Drama",
+          "Kiến thức",
+          "Sáng tạo",
+          "Nhanh gọn",
+          "Chi tiết"
+        ]
+      }
+    },
+    "audience_target": {
+      "type": "array",
+      "description": "Dựa trên nội dung và cách tiếp cận mà người dùng mô tả, xác định nhóm khán giả mục tiêu.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Học sinh, sinh viên",
+          "Người đi làm, dân văn phòng",
+          "Phụ huynh, gia đình có trẻ nhỏ",
+          "Người trẻ (Gen Z)",
+          "Người nội trợ, yêu thích nấu ăn tại nhà",
+          "Người ăn chay, ăn healthy",
+          "Người thích ăn vặt, đồ ngọt",
+          "Người yêu thích ẩm thực nước ngoài",
+          "Người thích khám phá ẩm thực tại địa phương",
+          "Khách du lịch, người Việt ở nước ngoài"
+        ]
+      }
+    },
+    "duration": {
+      "type": "integer",
+      "description": "Thời lượng mong muốn của video tính theo giây. Ví dụ: 180 (tương đương 3 phút)"
+    }
+  }
+}

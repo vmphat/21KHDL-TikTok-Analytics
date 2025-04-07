@@ -1,12 +1,9 @@
-from video_analysis.config import COLUMN_LABELS
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-import ast
 import plotly.express as px
 import pandas as pd
 import streamlit as st
-from sklearn.preprocessing import MinMaxScaler
-# from wordcloud import WordCloud
+from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS
 
 
 def generate_color_map(labels):
@@ -105,7 +102,8 @@ def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
             subset = exploded[exploded[field] == label][metrics].mean()
             fig.add_trace(go.Scatterpolar(
                 r=subset.tolist() + [subset.tolist()[0]],
-                theta=metrics + [metrics[0]],
+                theta=[COLUMN_METRICS.get(
+                    m, m) for m in metrics] + [COLUMN_METRICS.get(metrics[0], metrics[0])],
                 fill='toself',
                 name=str(label),
                 opacity=0.5,
@@ -118,20 +116,35 @@ def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
 
         fig.add_trace(go.Scatterpolar(
             r=subset.tolist() + [subset.tolist()[0]],
-            theta=metrics + [metrics[0]],
+            theta=[COLUMN_METRICS.get(m, m) for m in metrics] +
+            [COLUMN_METRICS.get(metrics[0], metrics[0])],
             fill='toself',
             name="Tổng thể",
             opacity=0.6,
             # hoặc có thể random màu hoặc color_map['all'] nếu muốn
             line=dict(color="blue")
         ))
-
     fig.update_layout(
+        height=600,  # Ghim chiều cao cố định
+
+        margin=dict(
+            l=40, r=40,
+            t=60,
+            b=100  # Đủ chỗ cho legend khi nhiều label
+        ),
+
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=-0.25,  # Nếu bị tràn thì giảm xuống -0.3 hoặc -0.4
+            xanchor="center",
+            x=0.5,
+            font=dict(size=12)
+        ),
+
         polar=dict(
             radialaxis=dict(
-                visible=True,
                 tickvals=[0, 25, 50, 75, 100],
-                # range=[exploded.min(), exploded.max()],
                 tickangle=45,
                 tickfont=dict(size=10),
                 showline=True,
@@ -142,79 +155,80 @@ def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
                 tickfont=dict(size=12),
             )
         ),
-        showlegend=True,
+
         template="plotly_white",
-        height=550,
+        showlegend=True,
         title=" vs. ".join(selected_label) if selected_label else "Tổng thể"
     )
+
     return fig
 
 
-def render_wordcloud(df, field):
-    from itertools import chain
-    if field not in df.columns:
-        return
-    all_keywords = list(chain.from_iterable(df[field].dropna()))
-    all_keywords = [str(word) for word in all_keywords if pd.notnull(word)]
-    if not all_keywords:
-        st.warning(
-            f"Không có dữ liệu để hiển thị WordCloud cho {COLUMN_LABELS.get(field, field)}.")
-        return
-    text = " ".join(all_keywords)
-    wc = WordCloud(width=1000, height=600, background_color='white',
-                   collocations=False).generate(text)
-    fig, ax = plt.subplots(figsize=(10, 6))
-    ax.imshow(wc, interpolation='bilinear')
-    ax.axis("off")
-    st.pyplot(fig)
+# def render_wordcloud(df, field):
+#     from itertools import chain
+#     if field not in df.columns:
+#         return
+#     all_keywords = list(chain.from_iterable(df[field].dropna()))
+#     all_keywords = [str(word) for word in all_keywords if pd.notnull(word)]
+#     if not all_keywords:
+#         st.warning(
+#             f"Không có dữ liệu để hiển thị WordCloud cho {COLUMN_LABELS.get(field, field)}.")
+#         return
+#     text = " ".join(all_keywords)
+#     wc = WordCloud(width=1000, height=600, background_color='white',
+#                    collocations=False).generate(text)
+#     fig, ax = plt.subplots(figsize=(10, 6))
+#     ax.imshow(wc, interpolation='bilinear')
+#     ax.axis("off")
+#     st.pyplot(fig)
 
 
-def render_duration_chart(df, metric='statsV2.playCount', stat_type='mean'):
-    import numpy as np
+# def render_duration_chart(df, metric='statsV2.playCount', stat_type='mean'):
+#     import numpy as np
 
-    bins = [0, 10, 30, 60, 90, 120, 180, 300, 600, float("inf")]
-    labels = ["<10s", "10-30s", "30-60s", "60-90s", "90-120s",
-              "2 mins", "3-5 mins", "5-10 mins", ">10 mins"]
+#     bins = [0, 10, 30, 60, 90, 120, 180, 300, 600, float("inf")]
+#     labels = ["<10s", "10-30s", "30-60s", "60-90s", "90-120s",
+#               "2 mins", "3-5 mins", "5-10 mins", ">10 mins"]
 
-    if 'video.duration' not in df.columns or metric not in df.columns:
-        st.warning("Thiếu cột 'video.duration' hoặc chỉ số để phân tích.")
-        return
+#     if 'video.duration' not in df.columns or metric not in df.columns:
+#         st.warning("Thiếu cột 'video.duration' hoặc chỉ số để phân tích.")
+#         return
 
-    df = df.dropna(subset=['video.duration', metric])
-    df['duration_bin'] = pd.cut(
-        df['video.duration'], bins=bins, labels=labels, right=False)
+#     df = df.dropna(subset=['video.duration', metric])
+#     df['duration_bin'] = pd.cut(
+#         df['video.duration'], bins=bins, labels=labels, right=False)
 
-    if stat_type == 'mean':
-        grouped = (
-            df.groupby('duration_bin')[metric]
-            .mean()
-            .reset_index(name=f'{stat_type}_{metric}')
-        )
-    elif stat_type == 'median':
-        grouped = (
-            df.groupby('duration_bin')[metric]
-            .median()
-            .reset_index(name=f'{stat_type}_{metric}')
-        )
-    elif stat_type == 'count':
-        grouped = (
-            df.groupby('duration_bin')[metric]
-            .count()
-            .reset_index(name='Số lượng video')
-        )
-        metric = 'Số lượng video'
-    else:
-        st.warning("Loại thống kê không hợp lệ.")
-        return
+#     if stat_type == 'mean':
+#         grouped = (
+#             df.groupby('duration_bin')[metric]
+#             .mean()
+#             .reset_index(name=f'{stat_type}_{metric}')
+#         )
+#     elif stat_type == 'median':
+#         grouped = (
+#             df.groupby('duration_bin')[metric]
+#             .median()
+#             .reset_index(name=f'{stat_type}_{metric}')
+#         )
+#     elif stat_type == 'count':
+#         grouped = (
+#             df.groupby('duration_bin')[metric]
+#             .count()
+#             .reset_index(name='Số lượng video')
+#         )
+#         metric = 'Số lượng video'
+#     else:
+#         st.warning("Loại thống kê không hợp lệ.")
+#         return
 
-    y_col = grouped.columns[1]
+#     y_col = grouped.columns[1]
 
-    fig = px.bar(
-        grouped,
-        x='duration_bin',
-        y=y_col,
-        title=f'{y_col} theo độ dài video',
-        labels={'duration_bin': 'Độ dài video', y_col: y_col},
-        height=500
-    )
-    st.plotly_chart(fig, use_container_width=True)
+#     fig = px.bar(
+#         grouped,
+#         x='duration_bin',
+#         y=y_col,
+#         title=f'{y_col} theo độ dài video',
+#         labels={'duration_bin': 'Độ dài video', y_col: y_col},
+#         height=500
+#     )
+#     st.plotly_chart(fig, use_container_width=True)

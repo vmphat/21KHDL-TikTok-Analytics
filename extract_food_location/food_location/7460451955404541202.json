@@ -1,0 +1,28 @@
+{
+    "foods": [
+        "sushi",
+        "sashimi",
+        "cá hồi ngâm tương",
+        "bò tuyết cẩm thạch",
+        "cá hồi carpaccio",
+        "nọng heo",
+        "cánh gà",
+        "thịt bò",
+        "thịt heo",
+        "thịt gà",
+        "xúc xích phô mai",
+        "hải sản",
+        "rẻ sườn",
+        "lõi vai bò",
+        "bò tuyết cẩm thạch kobe",
+        "lẩu",
+        "cơm",
+        "mì",
+        "đồ chiên",
+        "sữa chua hoa quả",
+        "chè",
+        "kem"
+    ],
+    "city": "Hà Nội",
+    "district": "Cầu Giấy"
+}

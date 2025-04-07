@@ -1,0 +1,8 @@
+Dựa vào mô tả và transcript được cung cấp, video này có vẻ không thuộc chủ đề ẩm thực. Mô tả tập trung vào hoạt động camping và không đề cập đến bất kỳ món ăn hay địa điểm ẩm thực cụ thể nào. Transcript trống cũng không cung cấp thêm thông tin gì.
+
+```json
+{
+    "foods": null,
+    "city": null,
+    "district": null
+}

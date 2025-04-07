@@ -14,17 +14,22 @@ st.write("Chào mừng đến với ứng dụng hỗ trợ viết kịch bản 
 
 
 research_page = st.Page(
-    "scriptwriting/research.py",
+    "scriptwriting/pages/research.py",
     title="Nghiên cứu chủ đề",
     icon=":material/search:"
 )
+suggestion_page = st.Page(
+    "scriptwriting/pages/suggestion.py",
+    title="Gợi ý cách quay video",
+    icon=":material/lightbulb:"
+)
 scriptwriting_page = st.Page(
-    "scriptwriting/write_scripts.py",
+    "scriptwriting/pages/write_scripts.py",
     title="Viết kịch bản",
     icon=":material/edit_note:"
 )
 insights_page = st.Page(
-    "scriptwriting/insights.py",
+    "scriptwriting/pages/insights.py",
     title="Tối ưu kênh TikTok",
     icon=":material/insights:"
 )
@@ -43,9 +48,12 @@ st.write(
 st.page_link(research_page, icon="1️⃣",
              label=page_link_title % "Nghiên cứu chủ đề",
              )
-st.page_link(scriptwriting_page, icon="2️⃣",
+st.page_link(suggestion_page, icon="2️⃣",
+             label=page_link_title % "Gợi ý cách quay video",
+             )
+st.page_link(scriptwriting_page, icon="3️⃣",
              label=page_link_title % "Viết kịch bản",
              )
-st.page_link(insights_page, icon="3️⃣",
+st.page_link(insights_page, icon="4️⃣",
              label=page_link_title % "Tối ưu kênh TikTok",
              )

@@ -37,6 +37,8 @@ def extract_insights(video_df):
     %s
 
     Hãy giúp tôi rút ra các insights từ bảng thống kê trên. Hãy liệt kê các insights quan trọng từ bảng thống kê trên, bao gồm các thông tin như giá trị trung bình, giá trị trung vị, phân phối dữ liệu, và bất kỳ điểm nào khác bạn thấy quan trọng.
+    
+    <Return-type>
     """
 
     client = genai.Client(api_key="AIzaSyBYqr4g63GOBTslf5xP0-AbIcSSlAuvMnM")

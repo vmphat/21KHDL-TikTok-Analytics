@@ -1,0 +1,64 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213005748C93F4CA07EF92516D99F",
+      "now": 1739379468000
+   },
+   "log_pb": {
+      "impr_id": "20250213005748C93F4CA07EF92516D99F"
+   },
+   "shareMeta": {
+      "desc": "@gjbao 576.2k Followers, 58 Following, 25.0m Likes - Watch awesome short videos created by Gia B\u1ea3o",
+      "title": "Gia B\u1ea3o on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 576200,
+         "followingCount": 58,
+         "friendCount": 43,
+         "heart": 25000000,
+         "heartCount": 25000000,
+         "videoCount": 213
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/092c8afc3551b034c1805ad42853ca3d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=32128&refresh_token=b422dd999a9796526b28960dc03b82dd&x-expires=1739548800&x-signature=mISGu6%2BbjBvicW59GsvByA8Iu70%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/092c8afc3551b034c1805ad42853ca3d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=70946&refresh_token=67a248a2953c81dd674ee578a26d6c01&x-expires=1739548800&x-signature=2zb9vhE1WnrLx2mSrSp06zUs%2Fms%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/092c8afc3551b034c1805ad42853ca3d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=78118&refresh_token=31ea9e049520d77ede9ecb61e1b930e8&x-expires=1739548800&x-signature=8waVdbIB3CbgtwZJqvLaIk0Lvos%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://beacons.ai/gjbao/",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "6732266719404737537",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Gia B\u1ea3o",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA1EkZ8wZkjtgRy-sCxpKLz2RHVm0lh0g4aVA0QwGMRS711aRXCJ3zsl4qZiVZ2RA_",
+         "secret": false,
+         "signature": "\ud83d\udce9 : caidamnay@xiprod.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "gjbao",
+         "verified": false
+      }
+   }
+}

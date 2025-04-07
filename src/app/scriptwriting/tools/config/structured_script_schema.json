@@ -1,0 +1,48 @@
+{
+    "type": "object",
+    "properties": {
+        "video_description": {
+            "type": "string",
+            "description": "Mô tả video kèm theo {mean_hashtag_count} hashtag, viết dựa trên nội dung kịch bản, các đoạn mô tả mẫu và top 10 hashtag được dùng nhiều nhất."
+        },
+        "duration": {
+            "type": "string",
+            "description": "Độ dài dự kiến của video, định dạng là '<x> phút <y> giây'."
+        },
+        "setting": {
+            "type": "string",
+            "description": "Bối cảnh hoặc địa điểm ghi hình, mô tả ngắn gọn."
+        },
+        "characters": {
+            "type": "string",
+            "description": "Nhân vật xuất hiện trong video, mô tả ngắn gọn."
+        },
+        "main_content": {
+            "type": "array",
+            "description": "Danh sách các bước/nội dung chính của video đã được chia nhỏ.",
+            "items": {
+                "type": "object",
+                "required": ["time_range", "title", "visual_description", "dialogue"],
+                "properties": {
+                    "time_range": {
+                        "type": "string",
+                        "description": "Khoảng thời gian của đoạn, ví dụ: '0:00-0:15'"
+                    },
+                    "title": {
+                        "type": "string",
+                        "description": "Tên bước/phần, ví dụ: 'Giới thiệu món ăn'"
+                    },
+                    "visual_description": {
+                        "type": "string",
+                        "description": "Mô tả ngắn gọn về hình ảnh cần quay."
+                    },
+                    "dialogue": {
+                        "type": "string",
+                        "description": "Lời thoại gốc từ kịch bản plain, được giữ nguyên."
+                    }
+                }
+            }
+        }
+    },
+    "required": ["video_description", "duration", "setting", "characters", "main_content"]
+}

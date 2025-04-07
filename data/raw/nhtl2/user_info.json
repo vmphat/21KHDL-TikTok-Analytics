@@ -1,0 +1,60 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025021300301692E33EAAFB709512E595",
+      "now": 1739377816000
+   },
+   "log_pb": {
+      "impr_id": "2025021300301692E33EAAFB709512E595"
+   },
+   "shareMeta": {
+      "desc": "@nhtl2 831.2k Followers, 50 Following, 18.9m Likes - Watch awesome short videos created by Nh\u1eadt L\u1ec7",
+      "title": "Nh\u1eadt L\u1ec7 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 831200,
+         "followingCount": 50,
+         "friendCount": 46,
+         "heart": 18900000,
+         "heartCount": 18900000,
+         "videoCount": 216
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/981c4729f0fae7505dafbc6a87db3076~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=83512&refresh_token=3da47717fe1e933b2da2fe27c5ff2e84&x-expires=1739548800&x-signature=h7ArZ0CdM2PXJo0gOrSwMfD4DWM%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/981c4729f0fae7505dafbc6a87db3076~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=8637&refresh_token=8898d08de12c952dcbca22c48b791a8a&x-expires=1739548800&x-signature=ii6UOoBTNIq%2F0Hz9XEIQMAKwe6A%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/981c4729f0fae7505dafbc6a87db3076~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=48565&refresh_token=1f3a8c5c8f6b065faa9c23d0fb5dc2ae&x-expires=1739548800&x-signature=LjXM%2Bx4gDzzlc5D9Ki%2Bq5iM4dDg%3D&idc=my&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "16981699",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickname": "Nh\u1eadt L\u1ec7",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": false
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAOmnjo6yt98lBUGRlUuvmKZgXDh9_XTMf9162E93y91I",
+         "secret": false,
+         "signature": "Xin ch\u00e0o m\u1ecdi ng\u01b0\u1eddi. \u0110\u00e2y l\u00e0 k\u00eanh Tiktok ch\u00ednh th\u1ee9c c\u1ee7a m\u00ecnh \ud83e\udd13",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "nhtl2",
+         "verified": true
+      }
+   }
+}

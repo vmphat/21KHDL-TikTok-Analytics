@@ -1,13 +1,46 @@
-- Các cột cần trích xuất:
-  - Audio-to-text
-  - Language detector
-  - Description
+# Cách chạy app
+
+- Đứng ở root folder:
+
+```bash
+pip install -r requirements.txt
+streamlit run src/app/streamlit_app.py
+```
 
 # 21KHDL-TikTok-Analytics
 
 - Lịch họp cố định:
   - 14h T3 hàng tuần
   - 14h T6 hàng tuần
+
+# Insights phân tích dashboard
+
+## Lực
+
+- Số lượt `follower` tương quan thuận với lượt `heart`
+
+## Tín
+
+- Tập dữ liệu có 70 tuần, mỗi tuần nhóm sẽ trích ra top 20% video có điểm số cao nhất để tiến hành phân tích các món ăn và địa điểm được để cập trong video. 
+
+# TODO: Lịch họp giai đoạn cuối
+
+- Tối CN (06/04): 21h => Cố gắng hoàn tất toàn bộ dashboard và webapp + Tập dợt trình bày báo cáo cuối kỳ lần 1
+- Chiều T2 (07/04): 14h => Tập dợt trình bày báo cáo cuối kỳ lần 2
+- Chiều T3 (08/04): 14h => Tập dợt trình bày báo cáo cuối kỳ lần 3
+- Tối T3 (08/04): 20h => Tập dợt trình bày báo cáo cuối kỳ lần 4
+- Sáng T4 (09/04) => Chính thức báo cáo cuối kỳ
+
+## Note
+
+- Toàn bộ Dashboard và Webapp sẽ sử dụng ngôn ngữ tiếng Việt để tạo ra sự thống nhất trong việc trình bày và sử dụng
+- Tại vì có 2 nhóm cùng báo cáo nên nhóm mình sẽ có khoảng 45 phút để trình bày kết quả đạt được sau đồ án lần này
+- Mỗi người sẽ có khoảng 6 phút để trình bày phần của mình, mọi người cố gắng tận dụng thời gian này để trình bày càng chi tiết càng tốt
+- Trình bày dashboard: Đi từ tổng quan đến chi tiết
+  - Tổng quan: Không dùng filter gì cả mà nhận xét trực tiếp trên dashboard
+  - Chi tiết: Sẽ dùng các filter để phân tích chi tiết hơn về một khía cạnh nào đó của dashboard (như: tập trung hơn về 1 user, 1 hashtag, 1 món ăn, 1 vùng/miền, v.v. nào đó)
+- Trong phần trình bày, khuyến khích mọi người đưa ra những nhận xét của cá nhân xung quanh kết quả phân tích dữ liệu vì đây là phần ăn điểm. Nhận xét cá nhân này có thể theo hình thức formal là thông tin từ báo đài hoặc informal theo cách mọi người yapping về các vấn đề của xã hội hiện tại
+  - Ví dụ: Quận 10 Thành phố Hồ Chí Minh là nơi được đề cập nhiều nhất trong các video về món ăn, vì quận 10 nổi tiếng với các con đường ẩm thực "Hồ Thị Kỷ", "Nguyễn Tri Phương", v.v.. Đồng thời quận 10 cũng là nơi tọa lạc của nhiều trường học nên các hàng quán mọc lên rất nhiều để phục vụ cho các bạn học sinh, sinh viên. Do đó, quận 10 là nơi có nhiều video về món ăn nhất trong các video TikTok hiện tại.
 
 # TODO: 14h T3, 24/04/2025
 

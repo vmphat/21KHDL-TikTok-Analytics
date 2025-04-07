@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213001840F33030D833E7FB14BE75",
+      "now": 1739377120000
+   },
+   "log_pb": {
+      "impr_id": "20250213001840F33030D833E7FB14BE75"
+   },
+   "shareMeta": {
+      "desc": "@archangel2909 788.4k Followers, 82 Following, 68.1m Likes - Watch awesome short videos created by Archangel AOV \ud83d\udc7c\ud83c\udffb",
+      "title": "Archangel AOV \ud83d\udc7c\ud83c\udffb on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 788400,
+         "followingCount": 82,
+         "friendCount": 56,
+         "heart": 68100000,
+         "heartCount": 68100000,
+         "videoCount": 2896
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/19339a54d99712902d4b941e9a27573a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=27992&refresh_token=2249a638c689399523f854411d30c463&x-expires=1739548800&x-signature=NQoIf7Q6d70yNkHLH84NOGh4zT0%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/19339a54d99712902d4b941e9a27573a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=36114&refresh_token=0a842ad7b9b2a55eabf83f1a99c7c597&x-expires=1739548800&x-signature=EqAX6DiXkSoIp0Ta%2B41bGsxCJZo%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/19339a54d99712902d4b941e9a27573a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=25652&refresh_token=43cddb8ac4886e976daa73196613deb9&x-expires=1739548800&x-signature=KHThyEWAjW6LwMpcfQZgkr00nHQ%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "https://influzee.com/archangelaov",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "6728353279773852673",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1640870107,
+         "nickname": "Archangel AOV \ud83d\udc7c\ud83c\udffb",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAoM-7RIrdQflwiU5_gv4FmlYDuFYADk4IwcZxk-mpWsTmQhlhpd3UAHop26MSakpS",
+         "secret": false,
+         "signature": "Chuy\u00ean th\u00f4ng tin v\u1ec1 Skin M\u1edbi v\u00e0 S\u1ef1 Ki\u1ec7n M\u1edbi\n\ud83d\udca2  KH\u00d4NG C\u00d3 K\u00caNH PH\u1ee4  \ud83d\udca2\n\ud83d\udc47",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "archangel2909",
+         "verified": false
+      }
+   }
+}

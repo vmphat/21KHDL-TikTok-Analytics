@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "20250213010636FE5BD5FFFA4CFF16A9DC",
+      "now": 1739379996000
+   },
+   "log_pb": {
+      "impr_id": "20250213010636FE5BD5FFFA4CFF16A9DC"
+   },
+   "shareMeta": {
+      "desc": "@longvu.nhim 1.4m Followers, 110 Following, 24.7m Likes - Watch awesome short videos created by Long V\u0169",
+      "title": "Long V\u0169 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 1400000,
+         "followingCount": 110,
+         "friendCount": 51,
+         "heart": 24700000,
+         "heartCount": 24700000,
+         "videoCount": 209
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b3eb30bc32920e8d17f82bbcccb75770~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&nonce=7474&refresh_token=b6cda3692c06c230870fdcf4d5c388be&x-expires=1739552400&x-signature=Bg5pUGZ%2FUoO73vI3mrHqfU5PZv4%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b3eb30bc32920e8d17f82bbcccb75770~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&nonce=62003&refresh_token=60ca8f4f1b3cc0e896b6e622f09c1621&x-expires=1739552400&x-signature=NyK3VFTy%2BPGoTcsU7i0%2FORohN5o%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b3eb30bc32920e8d17f82bbcccb75770~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&nonce=96197&refresh_token=c4535fa5d7a80ef52289cc7baf9be587&x-expires=1739552400&x-signature=%2Fr0N%2BDU456TOGjvQW42zb8Y12DA%3D&idc=my2&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474",
+         "bioLink": {
+            "link": "Https://www.Facebook.com/dienvienlongvu",
+            "risk": 0
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 2,
+         "ftc": false,
+         "id": "218775228817334272",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1732095175,
+         "nickname": "Long V\u0169",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAAgYv5dxl2ScQJqZNGf0Mg1wp2Vtd-E02y22bT51tZa9516L6Fel4nKue8N6lo5OuX",
+         "secret": false,
+         "signature": "\u260e\ufe0f CONTACT for WORK. longvu.nhim@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "longvu.nhim",
+         "verified": false
+      }
+   }
+}

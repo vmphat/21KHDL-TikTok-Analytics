@@ -1,0 +1,13 @@
+Here's the analysis of the provided audio:
+
+```json
+{
+    "transcript": "行不去開學了別再看電視。 \n明天考試了。 \n又不知道什麼。 \n明天夢見朋友錢快去。\n婆婆還下來也別吃了。\n奶奶我也想吃。\n老師要講了馬進去",
+    "takeaways": [
+        "Nhanh lên sắp khai giảng rồi đừng xem TV nữa.",
+        "Ngày mai là thi rồi.",
+        "Nhanh lên! Ngày mai sẽ gặp bạn đấy, đi nhanh lên."
+    ],
+    "has_call_to_action": true,
+    "has_curiosity_gap": true
+}

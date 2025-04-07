@@ -1,0 +1,33 @@
+{
+    "foods": [
+        "dim sum",
+        "hủ tiếu",
+        "mì nước",
+        "đồ chiên",
+        "đồ xào",
+        "bít tết ốp la",
+        "chân gà hấp tàu xì",
+        "há cảo",
+        "vảnh thánh mại",
+        "xíu mại",
+        "bánh cuốn tôm",
+        "bánh cuốn thịt",
+        "bánh nếp",
+        "bánh hẹ",
+        "cơm xào",
+        "nui xào",
+        "mì xào",
+        "hủ tiếu thập cẩm",
+        "hủ tiếu cá",
+        "hủ tiếu tôm",
+        "hủ tiếu thịt",
+        "vảnh thánh sủi cảo xíu quắt",
+        "hủ tiếu sa tế nai",
+        "cà phê",
+        "nước sâm",
+        "nước mát",
+        "đậu nành"
+    ],
+    "city": "Hồ Chí Minh",
+    "district": "Quận 11"
+}

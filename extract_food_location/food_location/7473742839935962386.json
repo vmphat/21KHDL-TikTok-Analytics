@@ -1,0 +1,5 @@
+{
+    "foods": ["Pizza", "Cà phê louda", "Bún đậu", "Xúc xích", "Thịt bò", "Nấm"],
+    "city": None,
+    "district": None
+}

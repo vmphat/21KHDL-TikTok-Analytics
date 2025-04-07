@@ -1,0 +1,66 @@
+{
+   "extra": {
+      "fatal_item_ids": [],
+      "logid": "2025021223570794541BB9AD5EAC1268F0",
+      "now": 1739375827000
+   },
+   "log_pb": {
+      "impr_id": "2025021223570794541BB9AD5EAC1268F0"
+   },
+   "shareMeta": {
+      "desc": "@pnam30_ 541.6k Followers, 1 Following, 27.5m Likes - Watch awesome short videos created by Chi\u1ebfn Th\u1ea7n S\u1ee3 V\u1ee3",
+      "title": "Chi\u1ebfn Th\u1ea7n S\u1ee3 V\u1ee3 on TikTok"
+   },
+   "statusCode": 0,
+   "status_code": 0,
+   "status_msg": "",
+   "userInfo": {
+      "stats": {
+         "diggCount": 0,
+         "followerCount": 541600,
+         "followingCount": 1,
+         "friendCount": 1,
+         "heart": 27500000,
+         "heartCount": 27500000,
+         "videoCount": 277
+      },
+      "user": {
+         "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/aweme/1080x1080/tos-alisg-avt-0068/bd486fafbff7c5d5c9680db6a19bdcab.jpeg?lk3s=a5d48078&nonce=2147&refresh_token=61368f093c60145ee5e879f35ea27ba6&x-expires=1739545200&x-signature=ADxOzyTSu02Jf4XwhBbdJeATxTU%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/bd486fafbff7c5d5c9680db6a19bdcab.jpeg?lk3s=a5d48078&nonce=82954&refresh_token=518840ab8eb18b8fd37ad78158d71d15&x-expires=1739545200&x-signature=vlG1FpuEo%2BdenLNwY2Ctadgvo78%3D&shp=a5d48078&shcp=81f88b70",
+         "avatarThumb": "https://p9-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/bd486fafbff7c5d5c9680db6a19bdcab.jpeg?lk3s=a5d48078&nonce=64382&refresh_token=dc60665faa8af3288dfc48984d0e8ce6&x-expires=1739545200&x-signature=ykRc2h1ghjjRoKulc%2BNW91jJ4b0%3D&shp=a5d48078&shcp=81f88b70",
+         "bioLink": {
+            "link": "Iuoilaiuentertainment.vn",
+            "risk": 3
+         },
+         "canExpPlaylist": true,
+         "commentSetting": 0,
+         "commerceUserInfo": {
+            "commerceUser": false
+         },
+         "downloadSetting": 0,
+         "duetSetting": 0,
+         "followingVisibility": 1,
+         "ftc": false,
+         "id": "100283142573318144",
+         "isADVirtual": false,
+         "isEmbedBanned": false,
+         "nickNameModifyTime": 1713709093,
+         "nickname": "Chi\u1ebfn Th\u1ea7n S\u1ee3 V\u1ee3",
+         "openFavorite": false,
+         "privateAccount": false,
+         "profileEmbedPermission": 1,
+         "profileTab": {
+            "showPlayListTab": true,
+            "showQuestionTab": true
+         },
+         "relation": 0,
+         "secUid": "MS4wLjABAAAA2XilB4Qgz9mBid3O3295jfiJRttv24fyNEu1DYSOnsPD6SVHbSCtzLJnWGcvFy0j",
+         "secret": false,
+         "signature": "IG: _pnam__  \n\ud83c\uddfb\ud83c\uddf3\nM\u1ee9c \u0111\u1ed9 h\u1ec1 kh\u00e1 trung b\u00ecnh\n\ud83d\udce9 Contact: Babimilo1107@gmail.com",
+         "stitchSetting": 0,
+         "ttSeller": false,
+         "uniqueId": "pnam30_",
+         "verified": false
+      }
+   }
+}

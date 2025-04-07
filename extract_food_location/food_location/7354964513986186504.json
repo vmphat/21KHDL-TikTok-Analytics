@@ -1,0 +1,32 @@
+{
+    "foods": [
+        "bún ốc liễu châu",
+        "lẩu tự sôi",
+        "cơm tự sôi",
+        "thạch konjac",
+        "chân gà",
+        "trứng kho",
+        "thịt chay",
+        "que cay",
+        "bánh đậu chiên cay",
+        "thịt chay buôn",
+        "bít tết chay",
+        "đậu hũ giá",
+        "mì căn vị khoai tây",
+        "kẹo dưa hấu",
+        "đậu kho cay",
+        "trứng cút cay",
+        "đậu nành cay",
+        "xúc xích mini cay",
+        "bò chay cắt lát",
+        "xúc xích mực nướng",
+        "lạp xưởng cay",
+        "cánh gà tẩm vị",
+        "thịt que cay",
+        "ô mai",
+        "xí muội",
+        "mì trộn"
+    ],
+    "city": "Sài Gòn",
+    "district": "Gò Vấp"
+}

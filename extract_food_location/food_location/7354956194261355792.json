@@ -1,0 +1,5 @@
+{
+    "foods": ["spaghetti", "steak", "pepper lunch"],
+    "city": None,
+    "district": None
+}

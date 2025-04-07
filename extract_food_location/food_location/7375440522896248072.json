@@ -1,0 +1,8 @@
+Vì transcript bị thiếu, tôi sẽ phân tích dựa trên mô tả video được cung cấp.
+
+```json
+{
+    "foods": ["mì cay", "chân gà"],
+    "city": null,
+    "district": null
+}
