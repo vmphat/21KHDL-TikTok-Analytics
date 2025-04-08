@@ -197,7 +197,7 @@ def format_transcript_desc_examples(user_desc_filter_df, min_count=20):
 
 
 def generate_plain_script(
-        user_input, transcript_sample_text, word_count, client, model, max_output_tokens=2000):
+        user_input, transcript_sample_text, word_count, client, model, max_output_tokens=2000000):
 
     prompt_input = {'user_input': user_input,
                     'transcript_sample_text': transcript_sample_text,
@@ -206,19 +206,21 @@ def generate_plain_script(
     prompt_plain_script = load_prompt(
         CONFIG_DIR+'/plain_script_prompt.md').format(**prompt_input)
 
+    config = {
+        'maxOutputTokens': max_output_tokens} if not model in (["gemini-2.0-flash-thinking-exp-1219", "gemini-2.5-pro-exp-03-25"]) else None
     response_plain_script = client.models.generate_content(
         # model="gemini-2.0-flash-thinking-exp-1219",
         # model="gemini-2.0-flash",
         model=model,
         contents=[prompt_plain_script],
-        config={'maxOutputTokens': max_output_tokens},
+        config=config,
     )
 
     print(response_plain_script.usage_metadata)
     return response_plain_script.text
 
 
-def format_script_with_gemini(plain_script, desc_sample_text, mean_word_per_second, mean_hashtag_count, top_10_cat_hashtags_text, client, model):
+def format_script_with_gemini(plain_script, desc_sample_text, mean_desc_word_count, mean_word_per_second, mean_hashtag_count, top_10_cat_hashtags_text, client, model):
     script_seconds = len(plain_script.split()) / (mean_word_per_second)
     print("output script words:",  len(plain_script.split()))
     print("output script seconds:",  script_seconds)
@@ -227,7 +229,8 @@ def format_script_with_gemini(plain_script, desc_sample_text, mean_word_per_seco
         CONFIG_DIR+'/structured_script_schema.json')
     schema_str = json.dumps(raw_schema)
     schema_str = schema_str.replace(
-        "{mean_hashtag_count}", str(mean_hashtag_count))
+        "{mean_hashtag_count}", str(mean_hashtag_count)).replace(
+        "{mean_desc_word_count}", str(mean_desc_word_count))
     response_structured_script_schema = json.loads(schema_str)
 
     duration_text = f"{int(script_seconds // 60)} phút {int(script_seconds % 60)} giây"

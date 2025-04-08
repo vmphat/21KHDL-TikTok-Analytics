@@ -3,7 +3,7 @@
     "properties": {
         "video_description": {
             "type": "string",
-            "description": "Mô tả video kèm theo {mean_hashtag_count} hashtag, viết dựa trên nội dung kịch bản, các đoạn mô tả mẫu và top 10 hashtag được dùng nhiều nhất."
+            "description": "Mô tả video khoảng {mean_desc_word_count} từ, kèm theo {mean_hashtag_count} hashtag, viết dựa trên nội dung kịch bản, các đoạn mô tả mẫu và top 10 hashtag được dùng nhiều nhất."
         },
         "duration": {
             "type": "string",

@@ -30,3 +30,12 @@ STAT_TYPES = {
     'mean': 'Trung bình',
     'median': 'Trung vị',
 }
+
+CATEGORY_COLOR_MAP = {
+    'Tất cả': '#8ecae6',  # Màu xám trung tính → đại diện cho "tổng hợp", không thiên vị
+    'Review món ăn': '#ef476f',  # Đỏ cam – đậm chất đồ ăn, bắt mắt
+    'Nấu ăn': '#ffd166',         # Xanh lá – liên tưởng đến bếp, rau củ
+    'Review quán ăn': '#06d6a0',  # Xanh biển – chuyên nghiệp, ổn định
+    'Mukbang': '#118ab2',        # Hồng ngọt ngào – đúng vibe "ăn nhiều" + giải trí
+    'Review sản phẩm ăn uống': '#073b4c',
+}

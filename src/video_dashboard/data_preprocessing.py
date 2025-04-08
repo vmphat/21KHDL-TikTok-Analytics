@@ -166,11 +166,15 @@ video_info_df['createTime'] = pd.to_datetime(video_info_df['createTime'], unit='
 # In[ ]:
 
 
-# merged_df.to_csv("data/processed/merged_data.csv", index=False)
+video_info_df.to_csv("data/processed/video_data.csv", index=False)
+# small_vide_df = video_info_df.head()
+# small_vide_df.to_csv("data/processed/sub_video_data.csv", index=False)
 
 
 # In[54]:
 
+video_info_df["hashtag_count"] = video_info_df["hashtags"].apply(lambda x: len(x))
+video_info_df = video_info_df[video_info_df["hashtag_count"] <= 40]
 
 # merged_df.to_parquet("data/processed/merged_data.parquet", index=False)
 

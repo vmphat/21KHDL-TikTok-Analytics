@@ -42,7 +42,6 @@ user_analysis_overview = st.Page(
     "user_analysis/user_dashboard_app.py",
     title="Tổng quan",
     icon=":material/auto_graph:",
-    # default=True,
 )
 user_correlation = st.Page(
     "user_analysis/pages/correlation_analysis.py",
@@ -71,11 +70,20 @@ video_analysis_overview = st.Page(
     "video_analysis/video_dashboard_app.py",
     title="Tổng quan",
     icon=":material/auto_graph:",
-    # default=True,
 )
-video_analysis = st.Page(
-    "video_analysis/pages/video_analysis.py",
-    title="Phân tích video",
+hashtags_insights = st.Page(
+    "video_analysis/pages/hashtags_insights.py",
+    title="Phân tích hashtag nâng cao",
+    icon=":material/auto_graph:",
+)
+single_hashtag = st.Page(
+    "video_analysis/pages/single_hashtag.py",
+    title="Phân tích hashtag đơn lẻ",
+    icon=":material/auto_graph:",
+)
+video_performance = st.Page(
+    "video_analysis/pages/video_performance.py",
+    title="Phân tích hiệu suất video",
     icon=":material/auto_graph:",
 )
 content_analysis = st.Page(
@@ -90,7 +98,6 @@ trend_analysis_overview = st.Page(
     "trend_analysis/trend_dashboard_app.py",
     title="Tổng quan",
     icon=":material/auto_graph:",
-    # default=True,
 )
 food_location_analysis = st.Page(
     "trend_analysis/pages/food_location_analysis.py",
@@ -104,7 +111,6 @@ scriptwriting_app = st.Page(
     "scriptwriting/scriptwriting_app.py",
     title="Tổng quan",
     icon=":material/auto_awesome:",
-    # default=True,
 )
 research = st.Page("scriptwriting/pages/research.py",
                    title="Nghiên cứu chủ đề",  # "Research on topics"
@@ -144,7 +150,9 @@ if st.session_state.logged_in:
             # Phân tích video
             "Phân tích video": [
                 video_analysis_overview,
-                video_analysis,
+                hashtags_insights,
+                single_hashtag,
+                video_performance,
                 content_analysis,
             ],
 

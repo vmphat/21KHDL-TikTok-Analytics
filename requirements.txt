@@ -9,3 +9,4 @@ plotly
 tqdm
 wordcloud
 pyperclip
+kaleido
