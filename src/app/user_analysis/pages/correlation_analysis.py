@@ -195,9 +195,9 @@ def create_scatter_matrix(df: pd.DataFrame, template: str) -> go.Figure:
         # Đặt tiêu đề cho biểu đồ
         title=dict(
             text="🔍 Ma trận phân tán",
-            font=dict(size=26, color=DARK_GRAY),
+            font=dict(size=22, color=DARK_GRAY),
             x=0,     # Adjust horizontal position
-            y=0.95,  # Adjust vertical position
+            # y=0.95,  # Adjust vertical position
         ),
         template=template,
         margin=dict(b=0, t=80, l=0, r=0),  # Giảm khoảng cách giữa các cạnh
@@ -239,9 +239,9 @@ def create_correlation_heatmap(df: pd.DataFrame, template: str):
         template=template,
         title=dict(
             text="📊 Biểu đồ nhiệt tương quan",
-            font=dict(size=26, color=DARK_GRAY),
+            font=dict(size=22, color=DARK_GRAY),
             x=0,  # Adjust horizontal position
-            y=0.95,  # Adjust vertical position
+            # y=0.95,  # Adjust vertical position
         ),
         # Show color bar in horizontal orientation
         coloraxis_colorbar=dict(
@@ -301,9 +301,9 @@ def create_histogram(df: pd.DataFrame, metric: str, bins: int,
         # Show title
         title=dict(
             text=f"📊 Biểu đồ phân phối {metric_title}",
-            font=dict(size=26, color=DARK_GRAY),
+            font=dict(size=22, color=DARK_GRAY),
             x=0,  # Adjust horizontal position
-            y=0.95,  # Adjust vertical position
+            # y=0.95,  # Adjust vertical position
         ),
         margin=dict(b=0, t=80, l=0, r=0),  # Giảm khoảng cách giữa các cạnh
     )
@@ -399,20 +399,36 @@ with heatmap_col:  # Heatmap
 
 # Dùng AI để rút ra insights từ biểu đồ
 correlation_analysis_prompt = f"""
-Hãy giúp tôi viết 1 đoạn nhận xét về mức độ tương quan giữa 'Số người theo dõi', 'Số lượt thích' và 'Số lượng video' của các TikToker. Đoạn nhận xét này nên ngắn gọn, xúc tích, tập trung vào những điểm nổi bật từ phân phối quan sát được. Đoạn văn chỉ nên có khoảng 250 đến 350 từ.
+Hãy phân tích mối tương quan giữa 'Số người theo dõi', 'Số lượt thích' và 'Số lượng video' của các TikToker dựa trên dữ liệu được cung cấp. Viết một đoạn phân tích súc tích (khoảng 250-350 từ) tập trung vào:
 
-Tôi sẽ cung cấp cho bạn 2 thông tin về dữ liệu mà tôi đã phân tích.
-Đầu tiên là một biểu đồ phân tán thể hiện mối quan hệ giữa các chỉ số. Biểu đồ này cho thấy mối tương quan giữa 'Số người theo dõi', 'Số lượt thích' và 'Số lượng video' của các TikToker trong bộ dữ liệu. Biểu đồ này sẽ được đính kèm dưới dạng byte:
+1. Mức độ tương quan (mạnh, trung bình, yếu) giữa các cặp biến
+2. Hướng tương quan (dương/âm) và ý nghĩa thực tế của nó
+3. Các điểm bất thường hoặc xu hướng đáng chú ý từ biểu đồ phân tán
+4. Các hàm ý cho người sáng tạo nội dung TikTok
+
+Dữ liệu phân tích:
+
+1. Biểu đồ phân tán thể hiện mối quan hệ giữa ba chỉ số. Biểu đồ này sẽ được đính kèm dưới dạng byte:
 {scatter_fig.to_image()}
 
-Thứ hai là thống kê về hệ số tương quan giữa các chỉ số. Hệ số tương quan này cho thấy mức độ tương quan giữa các chỉ số trong bộ dữ liệu. Dưới đây là bảng thống kê thể hiện mối tương quan giữa các chỉ số:
+2. Bảng ma trận tương quan giữa các chỉ số (hệ số Pearson). Dưới đây là bảng thống kê thể hiện các thông tin này dưới dạng LaTeX:
 {get_correlation_matrix(select_columns(df, METRICS)).to_latex()}
 
-Đừng bắt đầu câu trả lời bằng các cụm từ như: "Dựa trên ..." mà hãy trực tiếp đi vào nội dung nhận xét.
+3. Thông tin bổ sung: 
+    - Hệ số tương quan từ 0.7-1.0: tương quan mạnh
+    - Hệ số tương quan từ 0.3-0.7: tương quan trung bình
+    - Hệ số tương quan từ 0.0-0.3: tương quan yếu
+
+Cấu trúc phân tích nên bao gồm:
+- Tổng quan về mức độ tương quan chung giữa các biến
+- Phân tích chi tiết từng cặp tương quan quan trọng 
+- Kết luận và gợi ý thực tiễn cho người sáng tạo nội dung
+
+Hãy bắt đầu phân tích trực tiếp mà không cần dùng các cụm từ giới thiệu như "Dựa trên dữ liệu..." hoặc "Theo biểu đồ...".
 """
 display_AI_generated_insights(
-    prompt=correlation_analysis_prompt,
-    api_key="AIzaSyAdbNfxlQQQjKSgAcOjQt-XUwil-FMl6V8")
+     prompt=correlation_analysis_prompt,
+     api_key="AIzaSyAdbNfxlQQQjKSgAcOjQt-XUwil-FMl6V8")
 
 
 # ================================================================
