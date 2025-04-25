@@ -197,8 +197,9 @@ topic = st.text_area(
     height=100,
     placeholder="Chẳng hạn: Đánh giá món ăn, Nấu ăn, Du lịch, v.v.",
 )
-# Thể hiện ví dụ minh họa
-st.info("**Ví dụ:** Đánh giá món ăn")
+# Thể hiện 1 ví dụ minh họa
+with st.expander(label="**Ví dụ minh họa**", expanded=True):
+    st.write("Đánh giá món ăn")
 
 # print(f"Topic: {topic}")
 
