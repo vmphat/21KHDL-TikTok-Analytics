@@ -197,6 +197,9 @@ topic = st.text_area(
     height=100,
     placeholder="Chẳng hạn: Đánh giá món ăn, Nấu ăn, Du lịch, v.v.",
 )
+# Thể hiện ví dụ minh họa
+st.info("**Ví dụ:** Đánh giá món ăn")
+
 # print(f"Topic: {topic}")
 
 # Generate content when button is pressed

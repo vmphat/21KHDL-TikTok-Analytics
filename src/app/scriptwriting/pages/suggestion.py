@@ -150,6 +150,8 @@ user_description = st.text_area(
     placeholder="Nhập mô tả video tại đây...",
     height=140,
 )
+# Thể hiện 1 ví dụ minh họa
+st.info("**Ví dụ:** Tôi muốn tìm hiểu cách quay video review một quán bán đồ ăn vặt cho học sinh sinh viên trên con đường Cách mạng Tháng Tám. Theo như tôi tìm hiểu thì quán này có rất nhiều món ăn vặt phù hợp với giới trẻ như: bánh tráng trộn, bánh tráng nướng, bánh tráng cuốn, phở ly full topping hải sản, mỳ ly với nước súp lẩu thái, v.v.. Hãy đề xuất cho tôi những lời khuyên hữu ích về cách quay video, cách trò chuyện với chủ quán, cách giới thiệu món ăn, cách tạo không khí vui vẻ và hấp dẫn cho video. Tôi muốn video này có thể thu hút được sự chú ý của các bạn trẻ và tạo cảm giác muốn đến quán ăn thử ngay lập tức. Hãy cung cấp cho tôi một số mẹo và chiến lược để thực hiện điều này. Tôi cũng muốn biết về các xu hướng hiện tại trong việc quay video review món ăn vặt và những điều cần tránh khi thực hiện video này.")
 
 
 # ================================================================
