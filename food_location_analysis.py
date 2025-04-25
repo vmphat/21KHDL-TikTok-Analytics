@@ -68,6 +68,7 @@ def display_AI_generated_insights(prompt: str, api_key: str,
 
 
 # Function to properly capitalize names for visualization
+@st.cache_data
 def proper_capitalize(text: str) -> str:
     """ Capitalize the first letter of each word in a string """
 
@@ -908,7 +909,7 @@ def prepare_category_details(category_name, category_data, food_counts) -> Dict[
 
 # ----------------------------------------------
 
-
+@st.cache_data
 def analyze_food_categories(df: pd.DataFrame) -> None:
     """Analyze and visualize food categories and their variants"""
 
