@@ -107,7 +107,7 @@ def display_AI_generated_insights(prompt: str, api_key: str) -> None:
 
 
 # Tải dữ liệu
-@st.cache_data(persist="disk")
+@st.cache_data
 def load_user_data() -> pd.DataFrame:
     """ Tải và lưu trữ dữ liệu người dùng đã được làm sạch từ tệp """
     if CLEANED_USER_DATA_FILE.endswith(".csv"):
@@ -307,11 +307,8 @@ def create_histogram(df: pd.DataFrame, metric: str, bins: int,
         ),
         margin=dict(b=0, t=80, l=0, r=0),  # Giảm khoảng cách giữa các cạnh
     )
-    # Chỉnh sửa trục x và y
+    # Chỉnh sửa trục x
     # (chỉ riêng cho histogram, không phải cho boxplot)
-    y_axis_title = "Tần suất (log)" if log_scale else "Tần suất"
-    fig.update_yaxes(title_text=y_axis_title, title_font=dict(size=16),
-                     row=1, col=1)
     fig.update_xaxes(title_text=metric_title, title_font=dict(size=16),
                      row=1, col=1)
 

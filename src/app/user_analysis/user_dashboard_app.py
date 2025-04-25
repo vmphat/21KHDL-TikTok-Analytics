@@ -72,4 +72,4 @@ st.success("Sẵn sàng khám phá? Chọn một trang từ thanh bên và bắt
 # Hiển thị phần chân trang
 # Thêm khoảng cách trước phần chân trang
 st.markdown("<br>", unsafe_allow_html=True)
-display_footer()
+# display_footer()
