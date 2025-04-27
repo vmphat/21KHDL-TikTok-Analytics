@@ -68,6 +68,7 @@ def display_AI_generated_insights(prompt: str, api_key: str,
 
 
 # Function to properly capitalize names for visualization
+@st.cache_data(show_spinner=False, ttl=3600)
 def proper_capitalize(text: str) -> str:
     """ Capitalize the first letter of each word in a string """
 
@@ -251,7 +252,7 @@ def analyze_weekly_trends(df: pd.DataFrame) -> None:
     # Câu hỏi nghiên cứu: Biến động về số lượng video ẩm thực Việt Nam được đăng tải trên TikTok trong suốt 70 tuần qua diễn ra như thế nào?
     st.subheader(
         ":blue-background[:blue[Câu hỏi:]] Biến động về số lượng video ẩm thực Việt Nam được đăng tải trên TikTok trong suốt 70 tuần từ tập dữ liệu thu thập được diễn ra như thế nào?")
-        
+
     # Create a line chart with trend line using Plotly
     fig = go.Figure()
 
@@ -905,8 +906,6 @@ def prepare_category_details(category_name, category_data, food_counts) -> Dict[
         'plot_data': plot_data,
         'all_variants_df': all_variants_df
     }
-
-# ----------------------------------------------
 
 
 def analyze_food_categories(df: pd.DataFrame) -> None:
