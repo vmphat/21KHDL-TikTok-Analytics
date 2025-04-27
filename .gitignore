@@ -2,17 +2,13 @@
 logs/*
 # Ignore all virtual environments
 .venv/*
+# Ignore all settings in the .vscode folder
+.vscode/*
 # Ignore all files in development folder
 development/*
-# Ignore all videos
-*.mp4
 # Ignore all audio files
 *.wav
 *.mp3
-# Ignore all files in the temp folder
-temp/*
-# Ignore all intermediate JSON files when transcripting audio
-data/interim/audio_text_list/*
 # Ignore all .DS_Store files
 .DS_Store
 # Ignore all files in Related-documents folder

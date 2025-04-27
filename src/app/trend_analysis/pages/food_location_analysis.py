@@ -21,7 +21,7 @@ warnings.filterwarnings('ignore')
 # *_____________________ [Define constants] _____________________*
 # ================================================================
 DARK_GRAY: str = "#444444"
-CLEANED_FOOD_LOCATION_DATA_FILE: str = "src/app/trend_analysis/final.parquet"
+CLEANED_FOOD_LOCATION_DATA_FILE: str = "src/app/trend_analysis/data/final_location_food_data.parquet"
 
 
 # ================================================================
