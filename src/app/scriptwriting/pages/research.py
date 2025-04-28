@@ -265,7 +265,7 @@ if st.session_state.last_research_response != "":
         # Cho phép người download nội dung
         st.download_button(
             label="Tải xuống nội dung",
-            help="Tải xuống gợi ý dưới dạng file Markdown",
+            help="Tải xuống nội dung dưới dạng file Markdown",
             data=f"# Chủ đề: {topic}\n\n{st.session_state.last_research_response}",
             file_name="research_topic.md",
             mime="text/plain",

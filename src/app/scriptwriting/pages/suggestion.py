@@ -82,12 +82,12 @@ def generate_suggestion(system_prompt: str, model: str,
 # ================================================================
 # Cấu hình page
 st.set_page_config(
-    page_title="Hệ thống gợi ý nội dung video ẩm thực",
+    page_title="Gợi ý quay video ẩm thực",
     page_icon="🍜",
     layout="wide",
 )
 # Đặt tiêu đề của page
-st.title("Hệ thống gợi ý nội dung video ẩm thực")
+st.title("Hệ thống gợi ý quay video chủ đề ẩm thực")
 
 
 # ================================================================
