@@ -19,3 +19,5 @@ Related-documents/*
 *.pyc
 # Ignore all pycache folder across the repo
 **/__pycache__/
+# Ignore all video demo files
+demo/*.mp4
