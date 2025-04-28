@@ -9,7 +9,6 @@ st.set_page_config(
 
 # Main page content
 st.title("Webapp hỗ trợ viết kịch bản video TikTok")
-# st.write("Welcome to the Scriptwriting App! Use the sidebar to navigate to different pages.")
 st.write("Chào mừng đến với ứng dụng hỗ trợ viết kịch bản video TikTok! Sử dụng thanh bên để điều hướng đến các trang khác nhau.")
 
 
@@ -38,7 +37,8 @@ insights_page = st.Page(
 page_link_title = "**:blue[%s]**"
 
 # Add some content to the main page
-st.header("Các chức năng chính của ứng dụng", divider="gray")
+st.divider()
+st.header("Các chức năng chính của ứng dụng")
 st.write(
     "Ứng dụng này cung cấp các công cụ giúp bạn nghiên cứu và viết kịch bản cho video TikTok một cách dễ dàng và hiệu quả.")
 st.write(
