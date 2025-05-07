@@ -9,7 +9,7 @@ import pyperclip
 # *_____________________ [Define constants] _____________________*
 # ================================================================
 GEMINI_MODELS_FILE: str = "models/gemini_models.txt"
-PROMPT_TEMPLATE_FOLDER: str = "data/prompts"
+PROMPT_TEMPLATE_FOLDER: str = "data/prompts/suggestion"
 COLUMN_GAP: str = "medium"
 
 OPTION_FOOD_REVIEW: str = "Video review món ăn hoặc quán ăn"
